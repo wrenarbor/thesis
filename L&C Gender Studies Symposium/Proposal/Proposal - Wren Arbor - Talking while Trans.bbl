@@ -1,0 +1,1329 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{becker_beyond_2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5c2239f4184d017362de6e06d8d0b36}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e278f071c6b1958dea181d4413c7e40}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Sameer\bibnamedelimb ud\bibnamedelima Dowla},
+           giveni={S\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57d7a3f415e0e709800ab3b3e3138352}
+      \strng{fullhash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{bibnamehash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{authorbibnamehash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{authornamehash}{57d7a3f415e0e709800ab3b3e3138352}
+      \strng{authorfullhash}{2d4b6fd2b335572da43136d54631a4c2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0954-3945, 1469-8021}
+      \field{journaltitle}{Language Variation and Change}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shorttitle}{Beyond binary gender}
+      \field{title}{Beyond binary gender: creaky voice, gender, and the variationist enterprise}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{34}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{215\bibrangedash 238}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1017/S0954394522000138
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
+      \endverb
+    \endentry
+    \entry{bucholtz_feminist_2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
+           family={Bucholtz},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{fullhash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{bibnamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authorbibnamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authornamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authorfullhash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Language, Gender, and Sexuality}
+      \field{isbn}{978-1-118-58424-8}
+      \field{langid}{english}
+      \field{title}{The Feminist Foundations of Language, Gender, and Sexuality Research}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{21\bibrangedash 47}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1002/9781118584248.ch1
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
+      \endverb
+    \endentry
+    \entry{bucholtz_locating_2010}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
+           family={Bucholtz},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{fullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{bibnamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authorbibnamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authornamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authorfullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language and Identities}
+      \field{isbn}{978-0-7486-3578-8}
+      \field{langid}{english}
+      \field{title}{Locating Identity in Language}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{18\bibrangedash 28}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9780748635788-006/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9780748635788-006/html
+      \endverb
+    \endentry
+    \entry{calder_sissy_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1548-1395}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{shorttitle}{From Sissy to Sickening}
+      \field{title}{From Sissy to Sickening: The Indexical Landscape of /s/ in {SoMa}, San Francisco}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{332\bibrangedash 358}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1111/jola.12218
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+    \endentry
+    \entry{calder_gay_2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
+      \field{langid}{english}
+      \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
+      \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.49
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+    \endentry
+    \entry{calder_whose_2021}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=270953237f29fe505ccc49b2fe1bc9a9}{%
+           family={Coons},
+           familyi={C\bibinitperiod},
+           given={Caitie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cffbe88f439fd273d7075a37cbad3c22}{%
+           family={Chronis},
+           familyi={C\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=15c7bde3f58fbb8ef04de872f99a358b}{%
+           family={Pierson},
+           familyi={P\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d52ab771d99615c3471d7b4b45f2e564}{%
+           family={Govindarajan},
+           familyi={G\bibinitperiod},
+           given={Venkat},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Texas}%
+      }
+      \list{publisher}{1}{%
+        {Texas Linguistics Society}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{decc97d8a2083a46f7090962157f4f2c}
+      \strng{editornamehash}{5843323dcde96cd34fb2602c0037630a}
+      \strng{editorfullhash}{decc97d8a2083a46f7090962157f4f2c}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th Meeting of the Texas Linguistics Society}
+      \field{title}{Whose indexical field is it?: the role of community epistemology in indexing social meaning}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 55}
+      \range{pages}{17}
+      \verb{urlraw}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+      \verb{url}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+    \endentry
+    \entry{calder_interrogating_2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae28331848a8147516b44ec7753ce40d}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Ariana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{fullhash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{bibnamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authorbibnamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authornamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authorfullhash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1747-6321}
+      \field{journaltitle}{Gender and Language}
+      \field{number}{3}
+      \field{title}{Interrogating the cisgender listening subject in the study of trans voices}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{216\bibrangedash 239}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.3138/gl-2024-18.3-0002
+      \endverb
+      \verb{urlraw}
+      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
+      \endverb
+      \verb{url}
+      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
+      \endverb
+    \endentry
+    \entry{hazenberg_language_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95a38a9c8fa5bd784b3843845f2f218e}{%
+           family={Hazenberg},
+           familyi={H\bibinitperiod},
+           given={Evan\bibnamedelimb Nicholas\bibnamedelima Leo},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Memorial University of Newfoundland}%
+      }
+      \strng{namehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{fullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{bibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorbibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authornamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorfullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Language and identity practice}
+      \field{title}{Language and identity practice : a sociolinguistic study of gender in Ottawa, Ontario}
+      \field{type}{masters}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+      \verb{url}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+    \endentry
+    \entry{heffernan_constructing_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3dec8ce40ecd2f35f156a792ae36d90}{%
+           family={Heffernan},
+           familyi={H\bibinitperiod},
+           given={Dani},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {UCLA}%
+      }
+      \strng{namehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{fullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{bibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorbibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authornamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorfullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Constructing the “Cisgender Listening Subject”}
+      \field{title}{Constructing the “Cisgender Listening Subject”: Trans-Feminine Speakers’ Commentaries on Voice and Being Heard}
+      \field{type}{phdthesis}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+    \endentry
+    \entry{jessee_cisgender_2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=56116d32d402498f277c9df4f7d24024}{%
+           family={Jessee},
+           familyi={J\bibinitperiod},
+           given={Emmett},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{fullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{bibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorbibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authornamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorfullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1467-9841}
+      \field{issue}{n/a}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{langid}{english}
+      \field{shorttitle}{The Cisgender Listening Subject in Sociolinguistic Perception}
+      \field{title}{The Cisgender Listening Subject in Sociolinguistic Perception: Transgender Identity Affects Sibilant Categorization in American English}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{n/a}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1111/josl.12702
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+    \endentry
+    \entry{podesva_sexuality_2015}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f1b47a920774b4b8564e359f1229724}{%
+           family={Podesva},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2cec7d856201956b10006b77906de21}{%
+           family={Van\bibnamedelima Hofwegen},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Janneke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=935e01aab12428d5a1e26ddaa18575bd}{%
+           family={Levon},
+           familyi={L\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e56e18bb2bccb0a4b7eb8b41939ee7c6}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Ronald\bibnamedelima Beline},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{fullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{bibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorbibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authornamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorfullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{editorbibnamehash}{658056658167a63663d45ce861253a22}
+      \strng{editornamehash}{658056658167a63663d45ce861253a22}
+      \strng{editorfullhash}{658056658167a63663d45ce861253a22}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
+      \field{isbn}{978-0-19-021036-6}
+      \field{shorttitle}{/s/exuality in Smalltown California}
+      \field{title}{/s/exuality in Smalltown California: Gender Normativity and the Acoustic Realization of /s/}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{168\bibrangedash 188}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+    \endentry
+    \entry{zimman_transgender_2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{fullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{bibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorbibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authornamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorfullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{isbn}{978-0-19-021292-6}
+      \field{shorttitle}{Transgender Language, Transgender Moment}
+      \field{title}{Transgender Language, Transgender Moment: Toward a Trans Linguistics}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \warn{\item Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{becker_beyond_2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5c2239f4184d017362de6e06d8d0b36}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e278f071c6b1958dea181d4413c7e40}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Sameer\bibnamedelimb ud\bibnamedelima Dowla},
+           giveni={S\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57d7a3f415e0e709800ab3b3e3138352}
+      \strng{fullhash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{bibnamehash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{authorbibnamehash}{2d4b6fd2b335572da43136d54631a4c2}
+      \strng{authornamehash}{57d7a3f415e0e709800ab3b3e3138352}
+      \strng{authorfullhash}{2d4b6fd2b335572da43136d54631a4c2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0954-3945, 1469-8021}
+      \field{journaltitle}{Language Variation and Change}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shorttitle}{Beyond binary gender}
+      \field{title}{Beyond binary gender: creaky voice, gender, and the variationist enterprise}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{34}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{215\bibrangedash 238}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1017/S0954394522000138
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
+      \endverb
+    \endentry
+    \entry{bucholtz_feminist_2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
+           family={Bucholtz},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{fullhash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{bibnamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authorbibnamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authornamehash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \strng{authorfullhash}{03b75ee9973d83b99ec4c5b232ace62e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Language, Gender, and Sexuality}
+      \field{isbn}{978-1-118-58424-8}
+      \field{langid}{english}
+      \field{title}{The Feminist Foundations of Language, Gender, and Sexuality Research}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{21\bibrangedash 47}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1002/9781118584248.ch1
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
+      \endverb
+    \endentry
+    \entry{bucholtz_locating_2010}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
+           family={Bucholtz},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{fullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{bibnamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authorbibnamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authornamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authorfullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language and Identities}
+      \field{isbn}{978-0-7486-3578-8}
+      \field{langid}{english}
+      \field{title}{Locating Identity in Language}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{18\bibrangedash 28}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9780748635788-006/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9780748635788-006/html
+      \endverb
+    \endentry
+    \entry{calder_sissy_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1548-1395}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{shorttitle}{From Sissy to Sickening}
+      \field{title}{From Sissy to Sickening: The Indexical Landscape of /s/ in {SoMa}, San Francisco}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{332\bibrangedash 358}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1111/jola.12218
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+    \endentry
+    \entry{calder_gay_2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
+      \field{langid}{english}
+      \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
+      \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.49
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+    \endentry
+    \entry{calder_whose_2021}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=270953237f29fe505ccc49b2fe1bc9a9}{%
+           family={Coons},
+           familyi={C\bibinitperiod},
+           given={Caitie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cffbe88f439fd273d7075a37cbad3c22}{%
+           family={Chronis},
+           familyi={C\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=15c7bde3f58fbb8ef04de872f99a358b}{%
+           family={Pierson},
+           familyi={P\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d52ab771d99615c3471d7b4b45f2e564}{%
+           family={Govindarajan},
+           familyi={G\bibinitperiod},
+           given={Venkat},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Texas}%
+      }
+      \list{publisher}{1}{%
+        {Texas Linguistics Society}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{decc97d8a2083a46f7090962157f4f2c}
+      \strng{editornamehash}{5843323dcde96cd34fb2602c0037630a}
+      \strng{editorfullhash}{decc97d8a2083a46f7090962157f4f2c}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th Meeting of the Texas Linguistics Society}
+      \field{title}{Whose indexical field is it?: the role of community epistemology in indexing social meaning}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 55}
+      \range{pages}{17}
+      \verb{urlraw}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+      \verb{url}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+    \endentry
+    \entry{calder_interrogating_2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae28331848a8147516b44ec7753ce40d}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Ariana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{fullhash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{bibnamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authorbibnamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authornamehash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \strng{authorfullhash}{fb0b92a4077a470cdfb96a55f2c07f05}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1747-6321}
+      \field{journaltitle}{Gender and Language}
+      \field{number}{3}
+      \field{title}{Interrogating the cisgender listening subject in the study of trans voices}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{216\bibrangedash 239}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.3138/gl-2024-18.3-0002
+      \endverb
+      \verb{urlraw}
+      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
+      \endverb
+      \verb{url}
+      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
+      \endverb
+    \endentry
+    \entry{hazenberg_language_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95a38a9c8fa5bd784b3843845f2f218e}{%
+           family={Hazenberg},
+           familyi={H\bibinitperiod},
+           given={Evan\bibnamedelimb Nicholas\bibnamedelima Leo},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Memorial University of Newfoundland}%
+      }
+      \strng{namehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{fullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{bibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorbibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authornamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorfullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Language and identity practice}
+      \field{title}{Language and identity practice : a sociolinguistic study of gender in Ottawa, Ontario}
+      \field{type}{masters}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+      \verb{url}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+    \endentry
+    \entry{heffernan_constructing_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3dec8ce40ecd2f35f156a792ae36d90}{%
+           family={Heffernan},
+           familyi={H\bibinitperiod},
+           given={Dani},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {UCLA}%
+      }
+      \strng{namehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{fullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{bibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorbibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authornamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorfullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Constructing the “Cisgender Listening Subject”}
+      \field{title}{Constructing the “Cisgender Listening Subject”: Trans-Feminine Speakers’ Commentaries on Voice and Being Heard}
+      \field{type}{phdthesis}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+    \endentry
+    \entry{jessee_cisgender_2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=56116d32d402498f277c9df4f7d24024}{%
+           family={Jessee},
+           familyi={J\bibinitperiod},
+           given={Emmett},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{fullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{bibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorbibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authornamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorfullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1467-9841}
+      \field{issue}{n/a}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{langid}{english}
+      \field{shorttitle}{The Cisgender Listening Subject in Sociolinguistic Perception}
+      \field{title}{The Cisgender Listening Subject in Sociolinguistic Perception: Transgender Identity Affects Sibilant Categorization in American English}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{n/a}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1111/josl.12702
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+    \endentry
+    \entry{podesva_sexuality_2015}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f1b47a920774b4b8564e359f1229724}{%
+           family={Podesva},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2cec7d856201956b10006b77906de21}{%
+           family={Van\bibnamedelima Hofwegen},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Janneke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=935e01aab12428d5a1e26ddaa18575bd}{%
+           family={Levon},
+           familyi={L\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e56e18bb2bccb0a4b7eb8b41939ee7c6}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Ronald\bibnamedelima Beline},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{fullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{bibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorbibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authornamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorfullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{editorbibnamehash}{658056658167a63663d45ce861253a22}
+      \strng{editornamehash}{658056658167a63663d45ce861253a22}
+      \strng{editorfullhash}{658056658167a63663d45ce861253a22}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
+      \field{isbn}{978-0-19-021036-6}
+      \field{shorttitle}{/s/exuality in Smalltown California}
+      \field{title}{/s/exuality in Smalltown California: Gender Normativity and the Acoustic Realization of /s/}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{168\bibrangedash 188}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+    \endentry
+    \entry{zimman_transgender_2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{fullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{bibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorbibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authornamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorfullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{isbn}{978-0-19-021292-6}
+      \field{shorttitle}{Transgender Language, Transgender Moment}
+      \field{title}{Transgender Language, Transgender Moment: Toward a Trans Linguistics}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \warn{\item Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

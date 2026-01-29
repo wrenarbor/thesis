@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'proposal.blg'
+[235] biber-MSWIN64:340> INFO - === 
+[319] Biber.pm:418> INFO - Reading 'proposal.bcf'
+[509] Biber.pm:978> INFO - Found 27 citekeys in bib section 0
+[531] Biber.pm:4401> INFO - Processing section 0
+[554] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[691] bibtex.pm:1713> INFO - LaTeX decoding ...
+[847] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[1277] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1277] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1277] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1277] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1401] bbl.pm:654> INFO - Writing 'proposal.bbl' with encoding 'UTF-8'
+[1441] bbl.pm:757> INFO - Output to proposal.bbl
+[1442] Biber.pm:130> WARN - Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal
+[1442] Biber.pm:130> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'calder_gay_2020' is invalid - run biber with '--validate_datamodel' for details.
+[1442] Biber.pm:130> WARN - Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal
+[1442] Biber.pm:132> INFO - WARNINGS: 3

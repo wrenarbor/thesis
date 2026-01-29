@@ -1,0 +1,1584 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{austin_how_1962}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3455a21bea5aa0430d52cf6402adef15}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{3455a21bea5aa0430d52cf6402adef15}
+      \strng{fullhash}{3455a21bea5aa0430d52cf6402adef15}
+      \strng{bibnamehash}{3455a21bea5aa0430d52cf6402adef15}
+      \strng{authorbibnamehash}{3455a21bea5aa0430d52cf6402adef15}
+      \strng{authornamehash}{3455a21bea5aa0430d52cf6402adef15}
+      \strng{authorfullhash}{3455a21bea5aa0430d52cf6402adef15}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Series statement: The William James lectures ; 1955, Includes index.}
+      \field{annotation}{In this book, the concept of the linguistic performative is developed. As the genesis of performativity within the field of linguistics, only later reunited to its life in social theory, this is a foundational theoretical text to performativity theory, which I will make use of in my analysis.}
+      \field{number}{1955}
+      \field{series}{The William James lectures}
+      \field{title}{How to do things with words}
+      \field{year}{1962}
+      \field{dateera}{ce}
+      \keyw{Language and languages,Philosophy,Semantics,Speech acts (Linguistics)}
+    \endentry
+    \entry{barrett_sexuality_2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \strng{fullhash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \strng{bibnamehash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \strng{authorbibnamehash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \strng{authornamehash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \strng{authorfullhash}{73414eb079d3b896e47b8ca6d3f1f520}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This review of research on sexuality discourses directs attention to the patterns of indexical disalignment that have facilitated the global rise of transphobic, homophobic, and misogynist discourses. Over the last two decades, scholarship in the area of language and sexuality has focused primarily on patterns of alignment in the community-based indexical production of social personae, a necessary move for establishing the discursive agency, and indeed humanity, of {LGBTQ}+ groups. The focus of this review, however, is not alignment but disalignment, for it is in the clash of indexical systems that sexual ideologies take root. Specifically, the article focuses on acts of misrecognition that arise at the boundaries of indexical meaning, identifying practices such as indexical inoculation, indexical presumption, and indexical denial. The review is designed to provoke future research on misrecognition as contextualized social practice, a turn we believe imperative for uncovering the power-laden infrastructure of sexuality discourses.}
+      \field{annotation}{I hope to engage with this theory which relativizes indexicality through the notion of individuals having their own indexical inventories (subsets of the whole indexical fields of the variables they are aware of) and considers misrecognition of indexical meanings a place for power to enter the indexicality structure, specifically whether it is consonant with, or in tension against, performativity theory and queer theory.}
+      \field{day}{21}
+      \field{issn}{0084-6570, 1545-4290}
+      \field{issue}{Volume 53, 2024}
+      \field{journaltitle}{Annual Review of Anthropology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{Publisher: Annual Reviews}
+      \field{shorttitle}{Sexuality Discourses}
+      \field{title}{Sexuality Discourses: Indexical Misrecognition and the Politics of Sex}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{53}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{127\bibrangedash 146}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1146/annurev-anthro-052721-092531
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\2LBCAA2V\\Barrett and Hall - 2024 - Sexuality Discourses Indexical Misrecognition and the Politics of Sex.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-052721-092531
+      \endverb
+      \verb{url}
+      \verb https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-052721-092531
+      \endverb
+      \keyw{Indexicality,Performativity,Indexical Order,Transphobia,Science,Indexical Relativity,Indexical Inventory,Indexical Alignment,Recognition,Indexical Field}
+    \endentry
+    \entry{butler_gender_1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a58f9d9da0a9f534cede73cda7486e76}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{fullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{bibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorbibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authornamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorfullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{A foundational text to third-wave feminism, I take up Butler's theorization of gender as performative for my analysis.}
+      \field{edition}{0}
+      \field{isbn}{978-0-203-82497-9}
+      \field{langid}{english}
+      \field{pagetotal}{272}
+      \field{shorttitle}{Gender Trouble}
+      \field{title}{Gender Trouble: Feminism and the Subversion of Identity}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4324/9780203824979
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\HJDB6VIB\\Butler - 2011 - Gender Trouble Feminism and the Subversion of Identity.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/9781136783241
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/9781136783241
+      \endverb
+    \endentry
+    \entry{calder_gay_2020}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The sound of the queer voice has captured the intrigue of the popular and sociolinguistic imagination, spurring a wave of research investigating what makes someone “sound gay.” This chapter follows the trajectory of the sociophonetics of {LGBTQ}+ speakers, focusing on what is perhaps the most robustly studied phonetic variable in queer linguistics: the /s/ sound. The chapter explores how a group of non-normative drag queens in San Francisco use acoustic dimensions of /s/ to project radical queerness, illustrating how this community’s practices bear on greater conversations in sociolinguistics involving the connection between phonetic variation and the articulation of identity.}
+      \field{annotation}{Part of Calder's work on SoMa drag queens, I use this paper for its review of prior literature on /s/, and engage with its conceptualization of /s/'s iconicity.}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{day}{15}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
+      \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.49
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\NJ5RWBRI\\Calder - From “Gay Lisp” to “Fierce Queen” The Sociophonetics of Sexuality’s Most Iconic Variable.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\AVPSTDNC\\358158508.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+    \endentry
+    \entry{calder_sissy_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper explores the relation between the linguistic and the visual in indexing social meaning and performing gender, focusing on fronted /s/ among a community of drag queens in {SoMa}, San Francisco. I argue that as orders of indexicality (Silverstein 2003) are established, linguistic features like fronted /s/ become linked with visual bodies. These body-language links can impose top-down restrictions on the uptake of gender performances. Non-normatively gendered individuals like the {SoMa} queens embody cross-modal figures of personhood (see Agha 2003, 2004) like the fierce queen that forge higher indexical orders and widen the range of performative agency.}
+      \field{annotation}{Part of Calder's work on SoMa drag queens, I use this paper for its discussion of the indexicality of /s/: it theorizes meanings of /s/ as belonging to indexical orders which form along strata of fractal recursivity, and raises the insight that the presentation of the body is part of the stylistic context which determines at which indexical order /s/ behavior will be interpreted through.}
+      \field{issn}{1548-1395}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jola.12218}
+      \field{number}{3}
+      \field{shorttitle}{From Sissy to Sickening}
+      \field{title}{From Sissy to Sickening: The Indexical Landscape of /s/ in {SoMa}, San Francisco}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{332\bibrangedash 358}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1111/jola.12218
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\IIMESCMG\\Calder - 2019 - From Sissy to Sickening The Indexical Landscape of s in SoMa, San Francisco.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\H6A55IC2\\jola.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
+      \endverb
+      \keyw{Indexicality,Performativity,Style,Indexical Field,Indexical Orders,Indexical Baptism,Gender Baptism,Queer linguistics,Cross-modality,Fractal Recursivity}
+    \endentry
+    \entry{calder_whose_2021}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=270953237f29fe505ccc49b2fe1bc9a9}{%
+           family={Coons},
+           familyi={C\bibinitperiod},
+           given={Caitie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cffbe88f439fd273d7075a37cbad3c22}{%
+           family={Chronis},
+           familyi={C\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=15c7bde3f58fbb8ef04de872f99a358b}{%
+           family={Pierson},
+           familyi={P\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d52ab771d99615c3471d7b4b45f2e564}{%
+           family={Govindarajan},
+           familyi={G\bibinitperiod},
+           given={Venkat},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Texas}%
+      }
+      \list{publisher}{1}{%
+        {Texas Linguistics Society}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{5843323dcde96cd34fb2602c0037630a}
+      \strng{editornamehash}{5843323dcde96cd34fb2602c0037630a}
+      \strng{editorfullhash}{decc97d8a2083a46f7090962157f4f2c}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This conference paper brings the concept of the indexical field (see \cite{eckert_variation_2008}) into the study of /s/, as well as language and gender more broadly, especially highlighting the importance of intersectional approaches which do not implicitly assume a white, cisgender, heterosexual, western, middle class, etc. indexical field to be a culturally-independent reality. I use this as part of the motivation of my study's focus on transgender speakers.}
+      \field{booktitle}{Proceedings of the 20th Meeting of the Texas Linguistics Society}
+      \field{title}{Whose indexical field is it?: the role of community epistemology in indexing social meaning}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 55}
+      \range{pages}{17}
+      \verb{file}
+      \verb TLS_2021_Proceedings.pdf:C\:\\Users\\School Dylan King\\Zotero\\storage\\HZL67Q7U\\TLS_2021_Proceedings.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+      \verb{url}
+      \verb https://tls.ling.utexas.edu/2021/TLS_2021_Proceedings.pdf
+      \endverb
+      \keyw{indexical field}
+    \endentry
+    \entry{calder_whose_2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=78e0d65c79e671b19f3db9c22344619c}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Sharese},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73d88f2533fbb2212f3886e7da370433}
+      \strng{fullhash}{73d88f2533fbb2212f3886e7da370433}
+      \strng{bibnamehash}{73d88f2533fbb2212f3886e7da370433}
+      \strng{authorbibnamehash}{73d88f2533fbb2212f3886e7da370433}
+      \strng{authornamehash}{73d88f2533fbb2212f3886e7da370433}
+      \strng{authorfullhash}{73d88f2533fbb2212f3886e7da370433}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{/s/ frontness is one of the most robustly studied linguistic variables in language and gender research. While much previous literature has established the pattern that women produce fronter /s/ than men, production work on /s/ has either largely focused on White speakers or left speaker race unexplored. This article addresses this gap by examining the production of /s/ among African American and White speakers in Bakersfield, California. While the White speakers exhibit a gender split consonant with previous studies, African American Bakersfieldians exhibit no gender split, with African American men producing /s/ as front as African American women. We argue that African American men in Bakersfield avoid a backed production of /s/ indexical of a White country identity which has historically oppressed them in the area. These production patterns illuminate the importance of an intersectional analysis, taking into account the effect of speaker race on gendered variables like /s/.}
+      \field{annotation}{I use this paper as an example of a raciolinguistic approach to the study of /s/ which attempts to decenter the white indexical field, and illustrates the whiteness of the traditional sociolinguistics structure of /s/ meanings.}
+      \field{issn}{1467-9841}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/josl.12584}
+      \field{number}{5}
+      \field{shorttitle}{Whose gendered voices matter?}
+      \field{title}{Whose gendered voices matter?: Race and gender in the articulation of /s/ in Bakersfield, California}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{604\bibrangedash 623}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/josl.12584
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\8QVGJ4VT\\Calder and King - 2022 - Whose gendered voices matter Race and gender in the articulation of s in Bakersfield, California.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\WQP9HKHG\\josl.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12584
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12584
+      \endverb
+      \keyw{Indexicality,/s/,Intersectionality,Race}
+    \endentry
+    \entry{campbell-kibler_intersecting_2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f3d3ac5295d974ba455d2521b807981}{%
+           family={Campbell-Kibler},
+           familyi={C\bibinithyphendelim K\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f3d3ac5295d974ba455d2521b807981}
+      \strng{fullhash}{3f3d3ac5295d974ba455d2521b807981}
+      \strng{bibnamehash}{3f3d3ac5295d974ba455d2521b807981}
+      \strng{authorbibnamehash}{3f3d3ac5295d974ba455d2521b807981}
+      \strng{authornamehash}{3f3d3ac5295d974ba455d2521b807981}
+      \strng{authorfullhash}{3f3d3ac5295d974ba455d2521b807981}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sociolinguistic styles tie linguistic resources together into clusters and link them to social contexts of times, groups, places, and activities. Perceptions of masculinity and sexual orientation represent a well-studied area on sociolinguistic perception, offering many variables with potentially relevant social meanings. This study examines social perceptions of guises created by intersecting three masculinity-relevant variables: pitch, /s/-fronting or backing, and ({ING}). First, 110 online respondents provided descriptions and naturalness ratings of speech samples that were digitially modified to include the different variants; next, 175 respondents rated the speakers on six-point scales based on the terms “smart,” “knowledgeable,” “masculine,” “gay,” “friendly,” “laid-back,” “country,” “educated,” and “confident.” The results showed that /s/-fronting carries strong social meaning across multiple speakers and other linguistic cues, making speakers sound less masculine, more gay and less competent. As documented elsewhere, use of the ({ING}) variants -ing and -in made speakers sound more or less competent, respectively. The combination of /s/-fronting and ({ING}), and, independently, /s/-backing, showed more complex effects, shifting relationships between multiple percepts. Taken together, these results provide some support for style-based sociolinguistic models, but also underline the need for more sophisticated statistical treatments of covariation in social perception.}
+      \field{annotation}{A perception study of /s/ which finds social meanings of ``less masculine, more gay, and less competent'' arise for fronted /s/ within certain stylistic contexts of an (otherwise) male-sounding voice. I use this as one of the baseline studies of the hegemonic meanings of /s/.}
+      \field{day}{1}
+      \field{issn}{0003-1283}
+      \field{journaltitle}{American Speech}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{American Speech}
+      \field{title}{Intersecting Variables and Perceived Sexual Orientation in Men}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{86}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{52\bibrangedash 68}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1215/00031283-1277510
+      \endverb
+      \verb{file}
+      \verb Campbell Kibler 2011.pdf:C\:\\Users\\School Dylan King\\Zotero\\storage\\ULGT4N5Q\\Campbell Kibler 2011.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\A7G8D5AQ\\Intersecting-Variables-and-Perceived-Sexual.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1215/00031283-1277510
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1215/00031283-1277510
+      \endverb
+    \endentry
+    \entry{deleuze_november_1987}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=01e8c4f353d8f2d65f9f05ee78f50c8c}{%
+           family={Deleuze},
+           familyi={D\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09227aa5125b82e2704c6045d0494a01}{%
+           family={Guattari},
+           familyi={G\bibinitperiod},
+           given={Félix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e5288ee5e0acf76488eeef230895b893}{%
+           family={Massumi},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, {MN}}%
+      }
+      \list{publisher}{1}{%
+        {University of Minnesota Press}%
+      }
+      \strng{namehash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{fullhash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{bibnamehash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{authorbibnamehash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{authornamehash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{authorfullhash}{b9f3f28d00d4532cd9d12160a6b70b90}
+      \strng{translatorbibnamehash}{e5288ee5e0acf76488eeef230895b893}
+      \strng{translatornamehash}{e5288ee5e0acf76488eeef230895b893}
+      \strng{translatorfullhash}{e5288ee5e0acf76488eeef230895b893}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{In this chapter, poststructuralist philosophers Deleuze and Guattari present a critique of the structuralism of linguistics, as well as a critique of the foregrounding of meaning, and highlight that doing always preceeds and overpowers meaning. I specifically use their notion of the order-word as connected to Austinian (see \cite{austin_how_1962}) performativity.}
+      \field{booktitle}{A thousand plateaus: capitalism and schizophrenia}
+      \field{isbn}{978-0-8166-1401-1}
+      \field{title}{November 20, 1923: Postulates of Linguistics}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{pages}{75\bibrangedash 110}
+      \range{pages}{36}
+      \keyw{Philosophy,Capitalism,Postmodernism,Psychoanalysis,Radicalism,Schizophrenia,Social psychiatry}
+    \endentry
+    \entry{eckert_variation_2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb78fc3ea3df9a33015191a5628f0b1f}{%
+           family={Eckert},
+           familyi={E\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \strng{fullhash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \strng{bibnamehash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \strng{authorbibnamehash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \strng{authornamehash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \strng{authorfullhash}{cb78fc3ea3df9a33015191a5628f0b1f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper argues for a focus on the social meaning of variation, based in a study of stylistic practice. It is common in the study of variation to interpret variables as reflections of speakers' membership in social categories. Others have argued more recently that variables are associated not with the categories themselves, but with stances and characteristics that constitute those categories. The paper reviews some variation studies that show that variables do not have static meanings, but rather general meanings that become more specific in the context of styles. Building on Michael Silverstein's notion of indexical order, I argue that the meanings of variables are not precise or fixed but rather constitute a field of potential meanings – an indexical field, or constellation of ideologically related meanings, any one of which can be activated in the situated use of the variable. The field is fluid, and each new activation has the potential to change the field by building on ideological connections. Thus variation constitutes an indexical system that embeds ideology in language and that is in turn part and parcel of the construction of ideology.}
+      \field{annotation}{I take up the concept of the indexical field, a way of theorizing the different social meanings a sociolinguistic variable can index, that this paper introduces.}
+      \field{issn}{1467-9841}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9841.2008.00374.x}
+      \field{number}{4}
+      \field{title}{Variation and the indexical field}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{453\bibrangedash 476}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1111/j.1467-9841.2008.00374.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\5GFBYX3G\\Eckert - 2008 - Variation and the indexical field.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\TBA628YF\\j.1467-9841.2008.00374.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2008.00374.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2008.00374.x
+      \endverb
+      \keyw{Indexicality,Style,Indexical Order,Indexical Field,Semiotics}
+    \endentry
+    \entry{flipsen_acoustic_1999}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e06a095e8e10ff82c35413adf0f9450e}{%
+           family={Flipsen},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ff5ac1e003f9a5223f644ebf86d7d2e}{%
+           family={Shriberg},
+           familyi={S\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=063111be004c41d77b7d853657bfecdf}{%
+           family={Weismer},
+           familyi={W\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c50180ada28dd2f1f8bac077490d72a}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffded8c67c3a82b1d5a536a17ea05778}{%
+           family={{McSweeny}},
+           familyi={M\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfbfab7786ec41690f1de031e8168a05}
+      \strng{fullhash}{56bcac97236e94978ad12899c2eb287d}
+      \strng{bibnamehash}{dfbfab7786ec41690f1de031e8168a05}
+      \strng{authorbibnamehash}{dfbfab7786ec41690f1de031e8168a05}
+      \strng{authornamehash}{dfbfab7786ec41690f1de031e8168a05}
+      \strng{authorfullhash}{56bcac97236e94978ad12899c2eb287d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The goal of the current study was to construct a reference database against which misarticulations of /s/ can be compared. Acoustic data for 26 typically speaking 9- to 15-year-olds were examined to resolve measurement issues in acoustic analyses, including alternative sampling points within the /s/ frication; the informativeness of linear versus Bark transformations of each of the 4 spectral moments of /s/ (Forrest, Weismer, Milenkovic, \& Dougall, 1988); and measurement effects associated with linguistic context, age, and sex. Analysis of the reference data set indicates that acoustic characterization of /s/ is appropriately and optimally (a) obtained from the midpoint of /s/, (b) represented in linear scale, (c) reflected in summary statistics for the 1st and 3rd spectral moments, (d) referenced to individual linguistic-phonetic contexts, (e) collapsed across the age range studied, and (f) described individually by sex.}
+      \field{annotation}{I use this paper as a reference on ``typical'' /s/ pronunciations in the cishet white western normative english sphere, esp. for its review of 21 prior studies on /s/.}
+      \field{issn}{1092-4388}
+      \field{journaltitle}{Journal of speech, language, and hearing research}
+      \field{note}{Place: United States Publisher: {ASHA}}
+      \field{number}{3}
+      \field{title}{Acoustic Characteristics of /s/ in Adolescents}
+      \field{volume}{42}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{663\bibrangedash 677}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/jslhr.4203.663
+      \endverb
+      \verb{file}
+      \verb Full text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\FCWZMUHW\\Flipsen Jr. and Shriberg - 1999 - Acoustic Characteristics of s in Adolescents..pdf:application/pdf
+      \endverb
+      \keyw{Acoustics,Algorithms,Articulation disorders,Child Language,Data Analysis,Data Collection,Female,Human beings,Linguistics,Male,Phonetics,Phonetics,Acoustic,Phonology,Preteens,Reproducibility of Results,Sample Size,Sampling,Sex differences,Speech,Speech Acoustics,Speech disorders,Speech Production Measurement,Teenagers}
+    \endentry
+    \entry{flores_undoing_2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3a4a75373136f75ca332419c1b127840}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Nelson},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f60aad50f6e7249533915582b6c9345e}{%
+           family={Rosa},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \strng{fullhash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \strng{bibnamehash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \strng{authorbibnamehash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \strng{authornamehash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \strng{authorfullhash}{8af83e74cf98c32368f5b2ea6ec59e25}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this article, Nelson Flores and Jonathan Rosa critique appropriateness-based approaches to language diversity in education. Those who subscribe to these approaches conceptualize standardized linguistic practices as an objective set of linguistic forms that are appropriate for an academic setting. In contrast, Flores and Rosa highlight the raciolinguistic ideologies through which racialized bodies come to be constructed as engaging in appropriately academic linguistic practices. Drawing on theories of language ideologies and racialization, they offer a perspective from which students classified as long-term English learners, heritage language learners, and Standard English learners can be understood to inhabit a shared racial positioning that frames their linguistic practices as deficient regardless of how closely they follow supposed rules of appropriateness. The authors illustrate how appropriateness-based approaches to language education are implicated in the reproduction of racial normativity by expecting language-minoritized students to model their linguistic practices after the white speaking subject despite the fact that the white listening subject continues to perceive their language use in racialized ways. They conclude with a call for reframing language diversity in education away from a discourse of appropriateness toward one that seeks to denaturalize standardized linguistic categories.}
+      \field{annotation}{This study theorizes the white listening subject as highly relevant to racially minoritized people's linguistic experience. I hope to bring it into my analysis of how race is working within my study, as well as to emphasize the importance of making culturally-specific claims.}
+      \field{day}{1}
+      \field{issn}{1943-5045, 0017-8055}
+      \field{journaltitle}{Harvard Educational Review}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Undoing Appropriateness}
+      \field{title}{Undoing Appropriateness: Raciolinguistic Ideologies and Language Diversity in Education}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{85}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{149\bibrangedash 171}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.17763/0017-8055.85.2.149
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\F2L3EBKD\\Flores and Rosa - 2015 - Undoing Appropriateness Raciolinguistic Ideologies and Language Diversity in Education.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://meridian.allenpress.com/her/article/85/2/149/32176/Undoing-Appropriateness-Raciolinguistic-Ideologies
+      \endverb
+      \verb{url}
+      \verb https://meridian.allenpress.com/her/article/85/2/149/32176/Undoing-Appropriateness-Raciolinguistic-Ideologies
+      \endverb
+      \keyw{Listening Subject,Race,Whiteness,White Listening Subject}
+    \endentry
+    \entry{fuchs_differences_2010}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4bf71ebcf6b9dee0e269515cd47fb141}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b033326e16639e6edb559a62986fc4b}{%
+           family={Toda},
+           familyi={T\bibinitperiod},
+           given={Martine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=4bf71ebcf6b9dee0e269515cd47fb141}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0b033326e16639e6edb559a62986fc4b}{%
+           family={Toda},
+           familyi={T\bibinitperiod},
+           given={Martine},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2bddb60d47ef53371905cd4c962b84f5}{%
+           family={Zygis},
+           familyi={Z\bibinitperiod},
+           given={Marzena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{fullhash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{bibnamehash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{authorbibnamehash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{authornamehash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{authorfullhash}{bac3d1602ff61ee6554153f1b4ed3e6e}
+      \strng{editorbibnamehash}{84829fbb919964008412113af40496ea}
+      \strng{editornamehash}{84829fbb919964008412113af40496ea}
+      \strng{editorfullhash}{84829fbb919964008412113af40496ea}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{An electropalatographic study of /s/ which determines that differences in /s/ pitch are caused by differences in tongue position, and considers whether variation in /s/ is socially constructed, or a result of so-called `biological sex'. I use this paper for its articulatory findings.}
+      \field{booktitle}{Turbulent Sounds: An Interdisciplinary Guide}
+      \field{day}{29}
+      \field{isbn}{978-3-11-022658-4}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Do differences in male versus female /s/ reflect biological or sociophonetic factors?}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{281\bibrangedash 302}
+      \range{pages}{22}
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\M3UUD764\\Fuchs and Toda - 2010 - Do differences in male versus female s reflect biological or sociophonetic factors.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9783110226584.281/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/9783110226584.281/html
+      \endverb
+    \endentry
+    \entry{hazenberg_language_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95a38a9c8fa5bd784b3843845f2f218e}{%
+           family={Hazenberg},
+           familyi={H\bibinitperiod},
+           given={Evan\bibnamedelimb Nicholas\bibnamedelima Leo},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Memorial University of Newfoundland}%
+      }
+      \strng{namehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{fullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{bibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorbibnamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authornamehash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \strng{authorfullhash}{95a38a9c8fa5bd784b3843845f2f218e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{[S]ocial identity is not usually explicitly encoded by language but rather is a social meaning that one usually infers on the basis of one's sense of [...] linguistic constructions. -- (Ochs, 1993: 289) -- Contemporary theories posit that gender is performative (e.g., Butler, 1990): that it is something one does rather than something one has. Early variationist sociolinguists (e.g., Labov, 1963) saw sex as a social variable, while later researchers (e.g., Livia \& Hall, 1997) focused instead on gender, including expressions of sexuality. The study of transsexuality and language variation is a recent addition to the field (e.g., Kulick. 1999). -- This study examines three sociolinguistic variables ([s], intensifiers, and prosodic variation) across a six-cell gender division (straight men and women, queer men and women, and transsexual men and women) in Ottawa, Canada, to investigate the linguistic resources that are used in the construction and presentation of gender. These variables show different patterns of usage across the gender groups, suggesting a relationship between the markedness of a variable (how aware speakers are that it indexes gender) and the strategies speakers adopt in using it. Transsexual speakers avoid using extremely gender-marked forms, while straight men use linguistic cues to distance themselves socially from queer men. These patterns are supported by Bucholtz \& Hall's (2005) framework of sociocultural linguistics, which argues for an interactional model of identity and performance.}
+      \field{annotation}{A study of /s/ production in Ottowa, Ontario which includes trans women. One of the sources in my primary prior literature, I refer to its findings that trans women's /s/ production was significantly different from cis people's, and closer to cis women's than to cis men's.}
+      \field{langid}{english}
+      \field{shorttitle}{Language and identity practice}
+      \field{title}{Language and identity practice : a sociolinguistic study of gender in Ottawa, Ontario}
+      \field{type}{masters}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\CH3V5JRE\\Hazenberg - 2012 - Language and identity practice a sociolinguistic study of gender in Ottawa, Ontario.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\27WXQY68\\2346.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+      \verb{url}
+      \verb https://research.library.mun.ca/2346/
+      \endverb
+      \keyw{/s/,Transgender Women,Transgender Men}
+    \endentry
+    \entry{heffernan_constructing_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3dec8ce40ecd2f35f156a792ae36d90}{%
+           family={Heffernan},
+           familyi={H\bibinitperiod},
+           given={Dani},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {UCLA}%
+      }
+      \strng{namehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{fullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{bibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorbibnamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authornamehash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \strng{authorfullhash}{b3dec8ce40ecd2f35f156a792ae36d90}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This thesis examines metalinguistic commentaries of trans-feminine individuals about voice and voice modification as a site of language ideological work. Language ideologies are positioned, multiple, and mediating views on language and language use (Kroskrity 2004). Based on data collected through a recorded semi-structured conversation and from an online forum dedicated to trans voice modification, I illustrate how some trans-feminine speakers construe the pursuit of voice modification as affirming while simultaneously scrutinizing the practice of ascribing gender to someone based on their voice. Furthermore, I explore how these commentaries tacitly characterize the “cisgender listening subject” (Calder 2021) – an ideological position which apprehends voices through the logics of a binary gender system – and interrogate the listening practices of this subject. These discursive moves reflect the entanglement of creativity and discipline in voice practices (Weidman 2006), including voice modification, emerging here within and between views of gender as self-determined, on the one hand, and of gender as intersubjectively constituted, on the other.}
+      \field{annotation}{This study of transfeminine people's metalinguistic commentaries about the voice and being heard emphasizes the importance of the concept of the listening subject (see \cite{calder_whose_2021, flores_undoing_2015, inoue_listening_2003}). I use this for its findings on transfeminine people's understanding of the cis gaze.}
+      \field{langid}{english}
+      \field{shorttitle}{Constructing the “Cisgender Listening Subject”}
+      \field{title}{Constructing the “Cisgender Listening Subject”: Trans-Feminine Speakers’ Commentaries on Voice and Being Heard}
+      \field{type}{phdthesis}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\3H8MLWM4\\Heffernan - 2023 - Constructing the “Cisgender Listening Subject” Trans-Feminine Speakers’ Commentaries on Voice and B.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/5568m53k
+      \endverb
+      \keyw{Transgender Women,Discourse Analysis,Cisgender Listening Subject,Metalinguistic Commentary}
+    \endentry
+    \entry{holmes-elliott_substance_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9b228d4844838828adc7897a443b0d97}{%
+           family={Holmes-Elliott},
+           familyi={H\bibinithyphendelim E\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=935e01aab12428d5a1e26ddaa18575bd}{%
+           family={Levon},
+           familyi={L\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30849eecddc94b0877364d8b6d28bcb8}
+      \strng{fullhash}{30849eecddc94b0877364d8b6d28bcb8}
+      \strng{bibnamehash}{30849eecddc94b0877364d8b6d28bcb8}
+      \strng{authorbibnamehash}{30849eecddc94b0877364d8b6d28bcb8}
+      \strng{authornamehash}{30849eecddc94b0877364d8b6d28bcb8}
+      \strng{authorfullhash}{30849eecddc94b0877364d8b6d28bcb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper proposes an empirical method for the quantitative analysis of stance-taking in interaction. Building on recent conceptualizations of stance as the primary building-block of variation in language style, we describe how to implement an analysis of stance within a variationist framework via an examination of the particular speech activities within which stances are embedded combined with a consideration of the specific interactional goals these activities achieve. We illustrate our proposals with an investigation of variation in /s/-quality in the speech of cast members from two British reality television programs. Examining nearly 2000 tokens of /s/ in over 6 hours of recorded speech, we demonstrate how different acoustic realizations of /s/ in the sample correlate with the level of “threat” of a given speech activity, and we argue that this interactionally based analysis provides a better explanatory account of the patterns in our data than an analysis based on large social categories would. Through this paper, we therefore hope to contribute not only to the development of a more robust method for examining stance in quantitative sociolinguistic research, but also to help clarify the relationship between stances, speech activities and speaker identities more broadly.}
+      \field{annotation}{This study of /s/ and style reveals style-shifting of /s/ to pertain not only to gender, but aditionally to stance. I take this into consideration in the design of my methodology.}
+      \field{day}{1}
+      \field{issn}{1613-396X}
+      \field{journaltitle}{Linguistics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{note}{Publisher: De Gruyter Mouton}
+      \field{number}{5}
+      \field{shorttitle}{The substance of style}
+      \field{title}{The substance of style: Gender, social class and interactional stance in /s/-fronting in southeast England}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1045\bibrangedash 1072}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1515/ling-2017-0020
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\I2Z9USWG\\Holmes-Elliott and Levon - 2017 - The substance of style Gender, social class and interactional stance in s-fronting in southeast E.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0020/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0020/html
+      \endverb
+      \keyw{/s/-fronting,language variation,southeast England,stance,stance accretion,style}
+    \endentry
+    \entry{inoue_listening_2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4cac58e99f9cae542107cc98f69b49c}{%
+           family={Inoue},
+           familyi={I\bibinitperiod},
+           given={Miyako},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4cac58e99f9cae542107cc98f69b49c}
+      \strng{fullhash}{a4cac58e99f9cae542107cc98f69b49c}
+      \strng{bibnamehash}{a4cac58e99f9cae542107cc98f69b49c}
+      \strng{authorbibnamehash}{a4cac58e99f9cae542107cc98f69b49c}
+      \strng{authornamehash}{a4cac58e99f9cae542107cc98f69b49c}
+      \strng{authorfullhash}{a4cac58e99f9cae542107cc98f69b49c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{This study of impact of the everpresence of a male listening subject on Japanese women's speech introduces the concept of the listening subject to the study of langauge and gender. I use the concept of the listening subject in my analysis.}
+      \field{issn}{1548-1360}
+      \field{journaltitle}{Cultural Anthropology}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/can.2003.18.2.156}
+      \field{number}{2}
+      \field{shorttitle}{The Listening Subject of Japanese Modernity and His Auditory Double}
+      \field{title}{The Listening Subject of Japanese Modernity and His Auditory Double: Citing, Sighting, and Siting the Modern Japanese Woman}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{156\bibrangedash 193}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1525/can.2003.18.2.156
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\C5ZBF646\\Inoue - 2003 - The Listening Subject of Japanese Modernity and His Auditory Double Citing, Sighting, and Siting th.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\U9DSFGNP\\can.2003.18.2.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/can.2003.18.2.156
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/can.2003.18.2.156
+      \endverb
+    \endentry
+    \entry{irvine_language_2000}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7380b6279fe51e8d4888355e4100caf8}{%
+           family={Irvine},
+           familyi={I\bibinitperiod},
+           given={Judith\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1908f75cee4686bc8efefce5dad444b}{%
+           family={Gal},
+           familyi={G\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=1e5357232f1c40db495f00be3a5affb6}{%
+           family={Kroskrity},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima V.},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Santa Fe, {NM}}%
+      }
+      \list{publisher}{1}{%
+        {School of American Research Press}%
+      }
+      \strng{namehash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{fullhash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{bibnamehash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{authorbibnamehash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{authornamehash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{authorfullhash}{b0c24860514a87ced5b2bfb59bfeb955}
+      \strng{bookauthorbibnamehash}{1e5357232f1c40db495f00be3a5affb6}
+      \strng{bookauthornamehash}{1e5357232f1c40db495f00be3a5affb6}
+      \strng{bookauthorfullhash}{1e5357232f1c40db495f00be3a5affb6}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper introduces the semiotic-ideological processes of iconization, fractal recursivity, erasure, which I use as a part of indexicality theory, especially fractal recursivity.}
+      \field{booktitle}{Regimes of language: ideologies, polities, and identities}
+      \field{isbn}{978-0-933452-61-9}
+      \field{series}{School of American Research advanced seminar series}
+      \field{title}{Language Ideology and Linguistic Differentiation}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\E6F3B8WU\\Irvine and Gal - 2000 - Language Ideology and Linguistic Differentiation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://web.stanford.edu/~eckert/PDF/IrvineGal2000.pdf
+      \endverb
+      \verb{url}
+      \verb https://web.stanford.edu/~eckert/PDF/IrvineGal2000.pdf
+      \endverb
+      \keyw{Ethnicity,Ideology,Language and culture,Language and languages,Political aspects}
+    \endentry
+    \entry{jessee_cisgender_2025}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=56116d32d402498f277c9df4f7d24024}{%
+           family={Jessee},
+           familyi={J\bibinitperiod},
+           given={Emmett},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{fullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{bibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorbibnamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authornamehash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \strng{authorfullhash}{2e6afbbcf2b7dee13a6969d04616d92b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Research in speech perception has shown that a speaker's gender identity affects how sibilants are categorized by perceivers. Here, we explore how transgender identity affects sibilant perception in North American English. In a replication of the Strand experiment, 90 listeners heard a male and a female voice, but half of the listeners were told that the speakers were transgender. Listeners’ categorizations suggest that they expected transwomen to produce higher frequency /s/ than ciswomen. Additionally, when listeners did not personally know a trans person, this difference was magnified, and transmen were also expected to produce lower-frequency /s/ than cismen. We argue that the cisgender listening subject expects trans voices to diverge from cis voices, and this ideological expectation can be so pervasive that a perceiver's representations of sounds for trans speakers may differ from the sounds those trans speakers produce.}
+      \field{annotation}{This paper find that cisgender listeners expect transwomen to produce higher frequency /s/ than ciswomen. An important finding as proof that trans voices are subject to greater scrutiny than cis voices when it comes to adherence to gender norms. Also, a good reason for me to focus on /s/! I cite it as emperical proof of the fact that trans voices are subject to greater scrutiny than cis voices.}
+      \field{day}{12}
+      \field{issn}{1467-9841}
+      \field{issue}{n/a}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/josl.12702}
+      \field{shorttitle}{The Cisgender Listening Subject in Sociolinguistic Perception}
+      \field{title}{The Cisgender Listening Subject in Sociolinguistic Perception: Transgender Identity Affects Sibilant Categorization in American English}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{n/a}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1111/josl.12702
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\AXTSMR2X\\Jessee and Calder - The Cisgender Listening Subject in Sociolinguistic Perception Transgender Identity Affects Sibilant.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\3N9S3YJC\\josl.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
+      \endverb
+      \keyw{/s/,Perception,Trans Linguistics,Listening Subject,Cisgender Listening Subject}
+    \endentry
+    \entry{livia_its_1997}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e3506b65bc3ca3dc0fc9b504e4ebe3ab}{%
+           family={Livia},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=e3506b65bc3ca3dc0fc9b504e4ebe3ab}{%
+           family={Livia},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{fullhash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{bibnamehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{authorbibnamehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{authornamehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{authorfullhash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{editorbibnamehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{editornamehash}{c73e2f0d5379589f21f4680a8f592c55}
+      \strng{editorfullhash}{c73e2f0d5379589f21f4680a8f592c55}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We began collecting articles for this volume in March 1994 while preparations for the third Berkeley Women and Language Conference ({BWLC}) were at their height. In our own papers for the 1994 conference, we were each grappling with recent developments in queer theory and its uneasy, often antagonistic, relation to feminist theory. So, as it turned out, were several of the other conference participants that year. During the two previous decades, although a substantial body of research had been carried out on language and gender, few of these studies had taken sexuality, or sexual orientation, as a criterion for analysis, and the vast majority assumed gender as an unproblematic category indexically linked to the sex of the speaker or writer.}
+      \field{annotation}{I reference this introduction's discussion of the history of language and SGS scholarship up to 1997, specifically its discussion of the theoretical ties and tensions between the sociolinguistic literature and other fields including queer theory, feminism, and literary theory.}
+      \field{booktitle}{Queerly Phrased: Language, Gender, and Sexuality}
+      \field{day}{20}
+      \field{isbn}{978-0-19-510470-7}
+      \field{month}{11}
+      \field{shorttitle}{“It's a Girl!”}
+      \field{title}{“It's a Girl!”: Bringing Perfarmativity Back to Linguistics}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/oso/9780195104707.003.0001
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\34TCIW99\\Livia and Hall - 1997 - Its a Girl!” Bringing Perfarmativity Back to Linguistics.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\Z8NHZJZ3\\421391551.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oso/9780195104707.003.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oso/9780195104707.003.0001
+      \endverb
+      \warn{\item Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal}
+    \endentry
+    \entry{maegaard_s_2015}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7a4aaedfe78f2f99740208cddd1baaae}{%
+           family={Maegaard},
+           familyi={M\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=293b73365893e22fd8538b129a3f0018}{%
+           family={Pharao},
+           familyi={P\bibinitperiod},
+           given={Nicolai},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4c94fa27302b090ecfa00f65e763d747}
+      \strng{fullhash}{4c94fa27302b090ecfa00f65e763d747}
+      \strng{bibnamehash}{4c94fa27302b090ecfa00f65e763d747}
+      \strng{authorbibnamehash}{4c94fa27302b090ecfa00f65e763d747}
+      \strng{authornamehash}{4c94fa27302b090ecfa00f65e763d747}
+      \strng{authorfullhash}{4c94fa27302b090ecfa00f65e763d747}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This perception study of /s/ in Danish finds that although fronting is linked to the expected meanings of femininity and gayness when situated in a male voice, these associations do not hold in the context of a prosodic style associated with immigrants, showing the typically-associated meanings of /s/ to be hegemonic and ascribed to to white middle class contexts. I use this paper as an example of research which reveals the typical meaning structure of /s/ to be white.}
+      \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
+      \field{isbn}{978-0-19-021036-6}
+      \field{month}{12}
+      \field{note}{\_eprint: https://academic.oup.com/book/0/chapter/151100575/chapter-ag-pdf/44978028/book\_6883\_section\_151100575.ag.pdf}
+      \field{title}{/s/ Variation and Perceptions of Male Sexuality in Denmark}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780190210366.003.0005
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\8L3J2GTH\\Maegaard and Pharao - 2015 - s Variation and Perceptions of Male Sexuality in Denmark.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\BIZRXXQY\\151100575.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0005
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0005
+      \endverb
+    \endentry
+    \entry{parnell-mooney_transgender_2019}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bbfd952ba9686c06fdcef684f1bffa57}{%
+           family={Parnell-Mooney},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Glasgow}%
+      }
+      \strng{namehash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \strng{fullhash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \strng{bibnamehash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \strng{authorbibnamehash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \strng{authornamehash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \strng{authorfullhash}{bbfd952ba9686c06fdcef684f1bffa57}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The purpose of this study is to gauge how much one’s speech is conditioned by their gender identity rather than by their sex. Many features of speech have been shown to vary depending on speaker sex and gender such as pitch, lexis, syntax and volume. On a more fine-grained level, fricatives have been shown to index speaker sex and this was initially attributed to biological sex differences; ‘larger’ males would have a physically larger vocal tract and thus have lower peak frequencies. However, studies have indicated that gender identity also has an impact on peak frequency; speakers actively alter their /s/ production in order to index their gender and female speakers produce ‘fronter’ articulations of /s/ resulting in higher peak frequencies. Meanwhile, males have ‘backer’ articulations and actively lower peak frequencies. While these show /s/ to index speaker gender, it has also been found that /s/ varies depending on conversational context - females in same-sex conversations have been shown to raise peak frequencies. Little sociophonetic study has been carried out on transgender voice, however, it has been found that peak frequencies of transmasculine speakers pattern based on their gender identity and the length of time they have identified as such, rather than the sex they were assigned at birth. This study analysed data collected from six participants; four transmasculine and two non-binary speakers, across three conversational contexts; conversation with a cisgender male, cisgender female and transgender interlocutor. The peak frequencies of participants /s/ realisations were be measured and analysed across conversational context. This study found that most transmasculine participants’ peak frequencies pattern with their gender identity while non-binary speakers behave differently in a unique way. Transmasculine and some non-binary speakers also vary their peaks across conversational contexts but non-binary speakers are not systematic in this variation.}
+      \field{annotation}{A study quite similar to my intended methodology, compares transmasculine people's /s/ production across cisgender vs. transgender interlocutors and finds a difference! I cite this as a study I model my own after.}
+      \field{langid}{english}
+      \field{shorttitle}{Tran/s/gender}
+      \field{title}{Tran/s/gender: assessing the effects of the social construction of gender on speech: a focus on transgender /s/ realisations}
+      \field{type}{{MPhil}(R)}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5525/gla.thesis.41151
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\MQMEBIID\\Parnell-Mooney - 2019 - Transgender assessing the effects of the social construction of gender on speech a focus on tran.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\TKB9785M\\41151.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://eleanor.lib.gla.ac.uk/record=b3346280
+      \endverb
+      \verb{url}
+      \verb https://eleanor.lib.gla.ac.uk/record=b3346280
+      \endverb
+      \keyw{/s/,Interlocutor Gender,Nonbinary People,Scotland,Transgender Men}
+    \endentry
+    \entry{podesva_sexuality_2015}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f1b47a920774b4b8564e359f1229724}{%
+           family={Podesva},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2cec7d856201956b10006b77906de21}{%
+           family={Van\bibnamedelima Hofwegen},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Janneke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=935e01aab12428d5a1e26ddaa18575bd}{%
+           family={Levon},
+           familyi={L\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e56e18bb2bccb0a4b7eb8b41939ee7c6}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Ronald\bibnamedelima Beline},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{fullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{bibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorbibnamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authornamehash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{authorfullhash}{1c31b46cdd78bac4b20fbfac5a05ee9d}
+      \strng{editorbibnamehash}{658056658167a63663d45ce861253a22}
+      \strng{editornamehash}{658056658167a63663d45ce861253a22}
+      \strng{editorfullhash}{658056658167a63663d45ce861253a22}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Recent sociophonetic work on /s/ reveals that sex, gender, and sexual orientation strongly structure variation in the acoustic signal. This chapter acoustically analyzes /s/ production for fifty-one speakers from an inland community in Northern California. It is found that the speakers generally conform to normative patterns (e.g., straight women have fronter /s/ than straight men). At the same time, while /s/ realizations for gay men and lesbians fall within the ranges of their straight counterparts, we find significant differences between straight and {LGBT} speakers. Moreover, the different gender/sexuality groups in the community in this study produce more extreme variants of /s/ than do their counterparts in urban studies. For example, men and women are even more acoustically distinct from each other, and gay men exhibit much backer /s/. The chapter concludes that political and religious conservativism in the community polarizes gender distinction and pressures sexual minorities to adhere to normative gender patterns.}
+      \field{annotation}{A study of /s/ production in Redding, California, which includes trans women. Similar to \textcite{hazenberg_language_2012}, finds significant differences between trans people and cis people, however also finds that trans people's /s/ patterns more with AGAB than gender identity; this is possibly due to the conservative nature of the town. I reference the data the paper finds on trans women's /s/ pronunciations.}
+      \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
+      \field{day}{24}
+      \field{isbn}{978-0-19-021036-6}
+      \field{month}{12}
+      \field{shorttitle}{/s/exuality in Smalltown California}
+      \field{title}{/s/exuality in Smalltown California: Gender Normativity and the Acoustic Realization of /s/}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{168\bibrangedash 188}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\DTB7LJ24\\Podesva and Hofwegen - 2015 - sexuality in Smalltown California Gender Normativity and the Acoustic Realization of s.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\UG7ZPK8S\\151105120.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
+      \endverb
+      \keyw{/s/,Transgender Men,Transgender Women}
+    \endentry
+    \entry{rickford_addressee_1994}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a19ddee84ee1b57962dd1b68b6b60a58}{%
+           family={Rickford},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bf315368e0788c5667a363f2bc9989f}{%
+           family={Mcnair-Knox},
+           familyi={M\bibinithyphendelim K\bibinitperiod},
+           given={Faye},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f275cee2921ee944eb75e4c5771db0ee}
+      \strng{fullhash}{f275cee2921ee944eb75e4c5771db0ee}
+      \strng{bibnamehash}{f275cee2921ee944eb75e4c5771db0ee}
+      \strng{authorbibnamehash}{f275cee2921ee944eb75e4c5771db0ee}
+      \strng{authornamehash}{f275cee2921ee944eb75e4c5771db0ee}
+      \strng{authorfullhash}{f275cee2921ee944eb75e4c5771db0ee}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract This chapter is a study of addressee-and topic-influenced style shift in language, within the framework of quantitative or “variationist” sociolinguistics. The first section is written from a theoretical, history-of-science perspective; we begin by contrasting the taxonomic, polydimensional approach of sociolinguists like Hymes (1972) and Halliday (1978) with the empirical, unidimensional approach of Labov (1966:90-135, 1972a:70-109), for whom styles were ordered on a single dimension, involving attention paid to speech. We suggest that the neglect of style within the American variationist school from the 1970s onward was due in part to methodological and theoretical difficulties with this approach. As we note, an alternative unidimensional approach, considering style as audience accommodation (Giles and Powesland 1975, Bell 1984), is more promising, but although several quantitative studies within this framework have been made over the past decade and a half, most of them were done outside the United States, primarily in Britain.}
+      \field{annotation}{I cite this early work on AAE style-shifting in my definition of the term `interlocutor-oriented style-shifting'.}
+      \field{booktitle}{Sociolinguistic Perspectives On Register}
+      \field{shorttitle}{Addressee-And Topic-Influenced Style Shift}
+      \field{title}{Addressee- And Topic-Influenced Style Shift: A Quantitative Sociolinguistic Study}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{235\bibrangedash 276}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1093/oso/9780195083644.003.0011
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\JQYNR6DU\\Rickford and Mcnair-Knox - 1994 - Addressee-And Topic-Influenced Style Shift A Quantitative Sociolinguistic Study.pdf:application/pdf
+      \endverb
+      \keyw{audience design,foxy boston}
+    \endentry
+    \entry{silverstein_indexical_2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bce9aa70790a4fe3a5f5562c53208ac8}{%
+           family={Silverstein},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{fullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{bibnamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authorbibnamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authornamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authorfullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The concept of indexical order is introduced, necessary to any empirical investigation of the inherently dialectical facts of indexicality. Indexical order is central to analyzing how semiotic agents access macro-sociological plane categories and concepts as values in the indexable realm of the micro-contextual. Through such access their relational identities are presupposed and creatively (trans)formed in interaction. We work through several classic examples of indexicality well-known in the literature of sociolinguistics, the clarification of which can be enhanced by using the concept of indexical order, viz., ‘T/V’ deference-indexicality, speech levels, indexically significant variation in phonetics informed by a standard phonological register. We conclude with an analysis of identity-commoditizing indexical overlays such as the American English register here dubbed “oinoglossia,” ‘wine talk’.}
+      \field{annotation}{I take up the concept of indexical orders as introduced in this paper.}
+      \field{day}{1}
+      \field{issn}{0271-5309}
+      \field{journaltitle}{Language \& Communication}
+      \field{month}{7}
+      \field{number}{3}
+      \field{series}{Words and Beyond: Linguistic and Semiotic Studies of Sociocultural Order}
+      \field{shortjournal}{Language \& Communication}
+      \field{title}{Indexical order and the dialectics of sociolinguistic life}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{193\bibrangedash 229}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/S0271-5309(03)00013-2
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\LQ84N3SG\\Silverstein - 2003 - Indexical order and the dialectics of sociolinguistic life.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\AZV59K9W\\S0271530903000132.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0271530903000132
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0271530903000132
+      \endverb
+      \keyw{Honorifics,Indexicality,Language ideology,Political economy of language,Registers,Sociolinguistic variation}
+    \endentry
+    \entry{zimman_hegemonic_2013}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{fullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{bibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorbibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authornamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorfullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Sociophonetic inquiry into sexuality and the voice has often focused on the perception of men’s sexuality on the basis of disembodied voices. However, inconsistencies across these studies limit our ability to unite their findings into a cohesive model of gay-sounding speech. This paper focuses on variability among gay-sounding speakers by analyzing the voices of female-to-male transgender individuals, or trans men. Trans men who make use of testosterone typically experience a significant drop in vocal pitch, yet may maintain stylistic traits acquired while living in a female social role. An acoustic and perceptual analysis of trans and non-trans men’s voices reveals that even as trans men may be perceived as gay-sounding, their sociolinguistic styles also differ from those of gay-sounding non-trans men. These findings support the notion that gay-sounding speech does not constitute a single phonetic style, but rather numerous deviations from the hegemonic norm.}
+      \field{annotation}{This combined production-perception study of /s/, trans men's /s/ behavior is shown to significantly differ from cis men's, but (cis) percievers nonetheless rated them as gay sounding. I'm interested in this data, especially its consideration of the interplay between production and perception, and also interested in its discussion of the meaning structure for /s/ as hegemonic.}
+      \field{day}{27}
+      \field{issn}{2211-3770, 2211-3789}
+      \field{journaltitle}{Journal of Language and Sexuality}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{{JLS}}
+      \field{shorttitle}{Hegemonic masculinity and the variability of gay-sounding speech}
+      \field{title}{Hegemonic masculinity and the variability of gay-sounding speech: The perceived sexuality of transgender men}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1075/jls.2.1.01zim
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\I7AYTI7H\\Zimman - 2013 - Hegemonic masculinity and the variability of gay-sounding speech The perceived sexuality of transge.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\P64GNW9F\\jls.2.1.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jbe-platform.com/content/journals/10.1075/jls.2.1.01zim
+      \endverb
+      \verb{url}
+      \verb http://www.jbe-platform.com/content/journals/10.1075/jls.2.1.01zim
+      \endverb
+    \endentry
+    \entry{zimman_transgender_2020}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4a57a2286f0f8c12f28194c26e147fa}{%
+           family={Zimman},
+           familyi={Z\bibinitperiod},
+           given={Lal},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{fullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{bibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorbibnamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authornamehash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{authorfullhash}{a4a57a2286f0f8c12f28194c26e147fa}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter sketches out trans linguistics as an emerging framework for research on language in populations defined by their deviation from gender norms. Although queer linguistics has always been concerned with both sexual and gender (non)normativity, some early queer linguistic analyses of transgender or otherwise gender-variant populations were limited by the absence of openly trans scholars and distinctively trans analytic perspectives. Trans linguistics, by contrast, centers trans practices and subjectivities not as rare exceptions, but as central to any understanding of gender. Three domains of language are discussed here, including grammatical gender, gender difference in the voice, and gender in discourse. In each case, trans linguistic research offers new perspectives on gendered power, the nature of categories, the significance of embodiment, and the linguistic navigation of persistent dehumanization. Crucially, trans linguistics is committed not only to trans analytic lenses, but also to social and linguistic justice for gender non-normative communities.}
+      \field{annotation}{This paper reviews thirty years of literature on linguistic research on transgender people, as well as other groups which do not fit within the Western gender binary, and proposes `trans linguistics', a framework which I adopt.}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{isbn}{978-0-19-021292-6}
+      \field{shorttitle}{Transgender Language, Transgender Moment}
+      \field{title}{Transgender Language, Transgender Moment: Toward a Trans Linguistics}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\School Dylan King\\Zotero\\storage\\PWTXVJ6R\\Zimman - Transgender Language, Transgender Moment Toward a Trans Linguistics.pdf:application/pdf;Snapshot:C\:\\Users\\School Dylan King\\Zotero\\storage\\NVERUV84\\358161844.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
+      \endverb
+      \keyw{Trans Linguistics}
+      \warn{\item Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

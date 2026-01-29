@@ -1,0 +1,602 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{hao_second_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da6f56bea6504bde55aee379a8693116}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Yen-Chen},
+           giveni={Y\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{fullhash}{da6f56bea6504bde55aee379a8693116}
+      \strng{bibnamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authorbibnamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authornamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authorfullhash}{da6f56bea6504bde55aee379a8693116}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0095-4470}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{Journal of Phonetics}
+      \field{title}{Second language acquisition of Mandarin Chinese tones by tonal and non-tonal language speakers}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{269\bibrangedash 279}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.wocn.2011.11.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S009544701100101X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S009544701100101X
+      \endverb
+    \endentry
+    \entry{meckelborg_acquisition_2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=02931de700902eea4f050f293da10cf0}{%
+           family={Meckelborg},
+           familyi={M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a5c1914465aa6c7d8ba142335a56bea}{%
+           family={Luu},
+           familyi={L\bibinitperiod},
+           given={Mimi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224e5f6b278d1debe6dccb5d5864d286}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82e0ed0703bf85c50fbf06bbfdca417e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Youran},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c8312f5ba564943e1b2d9f73dddd98d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fangfang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dc7ebeeb3709c4e5de7dbd8ed66304c}{%
+           family={Pollock},
+           familyi={P\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e7c0a398f6dbf0b5effbb1ab48b59dd}
+      \strng{fullhash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{bibnamehash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{authorbibnamehash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{authornamehash}{6e7c0a398f6dbf0b5effbb1ab48b59dd}
+      \strng{authorfullhash}{4a970a48955bdb89cecf85e4b115e852}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{23}
+      \field{issn}{0001-4966}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{J. Acoust. Soc. Am.}
+      \field{shorttitle}{Acquisition of Mandarin tones by Canadian first graders}
+      \field{title}{Acquisition of Mandarin tones by Canadian first graders: Effect of prior exposure to tonal and non-tonal languages}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{155}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1608\bibrangedash 1623}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1121/10.0024985
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1121/10.0024985
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1121/10.0024985
+      \endverb
+    \endentry
+    \entry{mok_assessing_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=277b3de5e4e75e4d652a80d5e2021bc9}{%
+           family={Mok},
+           familyi={M\bibinitperiod},
+           given={Peggy\bibnamedelimb Pik\bibnamedelima Ki},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78c3c88b52c4d28de05c9dbabd0edd88}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Holly\bibnamedelimb Sze\bibnamedelima Ho},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d901c758e1a5f99f4b71975bb3a02f2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Vivian\bibnamedelima Guo},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3946e0af83067a29636c74ac313e47ba}
+      \strng{fullhash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{bibnamehash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{authorbibnamehash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{authornamehash}{3946e0af83067a29636c74ac313e47ba}
+      \strng{authorfullhash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Assessing the Link Between Perception and Production in Cantonese Tone Acquisition}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{62}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1243\bibrangedash 1257}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/2018_JSLHR-S-17-0430
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-17-0430
+      \endverb
+      \verb{url}
+      \verb https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-17-0430
+      \endverb
+    \endentry
+    \entry{rhee_going_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b719cb8b99aece347d0cb1ea311af044}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Nari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df958bb588a3b877aaf8b64fe8389d2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Aoju},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d1849b84165ad2cf1a6792d64e558ab}{%
+           family={Kuang},
+           familyi={K\bibinitperiod},
+           given={Jianjing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42f8ce01f00bbe75da12b408a279fc61}
+      \strng{fullhash}{1da75349149a95203a586f3704627770}
+      \strng{bibnamehash}{1da75349149a95203a586f3704627770}
+      \strng{authorbibnamehash}{1da75349149a95203a586f3704627770}
+      \strng{authornamehash}{42f8ce01f00bbe75da12b408a279fc61}
+      \strng{authorfullhash}{1da75349149a95203a586f3704627770}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305-0009, 1469-7602}
+      \field{journaltitle}{Journal of Child Language}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{Going beyond F0}
+      \field{title}{Going beyond F0: The acquisition of Mandarin tones}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{48}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{387\bibrangedash 398}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1017/S0305000920000239
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/journal-of-child-language/article/going-beyond-f0-the-acquisition-of-mandarin-tones/9C8C48C80950D52ACD30A818C99E8462#
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/journal-of-child-language/article/going-beyond-f0-the-acquisition-of-mandarin-tones/9C8C48C80950D52ACD30A818C99E8462#
+      \endverb
+    \endentry
+    \entry{rose_variation_2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ca278265ce72e82ad00f7f69f8bf3c5}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{fullhash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{bibnamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authorbibnamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authornamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authorfullhash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{Proc. Interspeech 2020}
+      \field{title}{Variation in Spectral Slope and Interharmonic Noise in Cantonese Tones}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1933\bibrangedash 1937}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2020-1954
+      \endverb
+      \verb{urlraw}
+      \verb https://www.isca-archive.org/interspeech_2020/rose20_interspeech.html
+      \endverb
+      \verb{url}
+      \verb https://www.isca-archive.org/interspeech_2020/rose20_interspeech.html
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{hao_second_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da6f56bea6504bde55aee379a8693116}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Yen-Chen},
+           giveni={Y\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{fullhash}{da6f56bea6504bde55aee379a8693116}
+      \strng{bibnamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authorbibnamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authornamehash}{da6f56bea6504bde55aee379a8693116}
+      \strng{authorfullhash}{da6f56bea6504bde55aee379a8693116}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0095-4470}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{Journal of Phonetics}
+      \field{title}{Second language acquisition of Mandarin Chinese tones by tonal and non-tonal language speakers}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{269\bibrangedash 279}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.wocn.2011.11.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S009544701100101X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S009544701100101X
+      \endverb
+    \endentry
+    \entry{meckelborg_acquisition_2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=02931de700902eea4f050f293da10cf0}{%
+           family={Meckelborg},
+           familyi={M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a5c1914465aa6c7d8ba142335a56bea}{%
+           family={Luu},
+           familyi={L\bibinitperiod},
+           given={Mimi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224e5f6b278d1debe6dccb5d5864d286}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82e0ed0703bf85c50fbf06bbfdca417e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Youran},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c8312f5ba564943e1b2d9f73dddd98d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fangfang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dc7ebeeb3709c4e5de7dbd8ed66304c}{%
+           family={Pollock},
+           familyi={P\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e7c0a398f6dbf0b5effbb1ab48b59dd}
+      \strng{fullhash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{bibnamehash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{authorbibnamehash}{4a970a48955bdb89cecf85e4b115e852}
+      \strng{authornamehash}{6e7c0a398f6dbf0b5effbb1ab48b59dd}
+      \strng{authorfullhash}{4a970a48955bdb89cecf85e4b115e852}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{23}
+      \field{issn}{0001-4966}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{J. Acoust. Soc. Am.}
+      \field{shorttitle}{Acquisition of Mandarin tones by Canadian first graders}
+      \field{title}{Acquisition of Mandarin tones by Canadian first graders: Effect of prior exposure to tonal and non-tonal languages}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{155}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1608\bibrangedash 1623}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1121/10.0024985
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1121/10.0024985
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1121/10.0024985
+      \endverb
+    \endentry
+    \entry{mok_assessing_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=277b3de5e4e75e4d652a80d5e2021bc9}{%
+           family={Mok},
+           familyi={M\bibinitperiod},
+           given={Peggy\bibnamedelimb Pik\bibnamedelima Ki},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78c3c88b52c4d28de05c9dbabd0edd88}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Holly\bibnamedelimb Sze\bibnamedelima Ho},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d901c758e1a5f99f4b71975bb3a02f2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Vivian\bibnamedelima Guo},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3946e0af83067a29636c74ac313e47ba}
+      \strng{fullhash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{bibnamehash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{authorbibnamehash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \strng{authornamehash}{3946e0af83067a29636c74ac313e47ba}
+      \strng{authorfullhash}{64adac87aa7d78dd4c4c4d76fdb43d2a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Assessing the Link Between Perception and Production in Cantonese Tone Acquisition}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{62}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1243\bibrangedash 1257}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/2018_JSLHR-S-17-0430
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-17-0430
+      \endverb
+      \verb{url}
+      \verb https://pubs.asha.org/doi/10.1044/2018_JSLHR-S-17-0430
+      \endverb
+    \endentry
+    \entry{rhee_going_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b719cb8b99aece347d0cb1ea311af044}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Nari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df958bb588a3b877aaf8b64fe8389d2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Aoju},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d1849b84165ad2cf1a6792d64e558ab}{%
+           family={Kuang},
+           familyi={K\bibinitperiod},
+           given={Jianjing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42f8ce01f00bbe75da12b408a279fc61}
+      \strng{fullhash}{1da75349149a95203a586f3704627770}
+      \strng{bibnamehash}{1da75349149a95203a586f3704627770}
+      \strng{authorbibnamehash}{1da75349149a95203a586f3704627770}
+      \strng{authornamehash}{42f8ce01f00bbe75da12b408a279fc61}
+      \strng{authorfullhash}{1da75349149a95203a586f3704627770}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305-0009, 1469-7602}
+      \field{journaltitle}{Journal of Child Language}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{Going beyond F0}
+      \field{title}{Going beyond F0: The acquisition of Mandarin tones}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{48}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{387\bibrangedash 398}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1017/S0305000920000239
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/journal-of-child-language/article/going-beyond-f0-the-acquisition-of-mandarin-tones/9C8C48C80950D52ACD30A818C99E8462#
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/journal-of-child-language/article/going-beyond-f0-the-acquisition-of-mandarin-tones/9C8C48C80950D52ACD30A818C99E8462#
+      \endverb
+    \endentry
+    \entry{rose_variation_2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ca278265ce72e82ad00f7f69f8bf3c5}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{fullhash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{bibnamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authorbibnamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authornamehash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \strng{authorfullhash}{8ca278265ce72e82ad00f7f69f8bf3c5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{Proc. Interspeech 2020}
+      \field{title}{Variation in Spectral Slope and Interharmonic Noise in Cantonese Tones}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1933\bibrangedash 1937}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2020-1954
+      \endverb
+      \verb{urlraw}
+      \verb https://www.isca-archive.org/interspeech_2020/rose20_interspeech.html
+      \endverb
+      \verb{url}
+      \verb https://www.isca-archive.org/interspeech_2020/rose20_interspeech.html
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{meckelborg_aquisition_2024}
+\endrefsection
+\endinput
+

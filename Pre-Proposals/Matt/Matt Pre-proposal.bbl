@@ -1,0 +1,365 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{dahlstrom1986}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4036e495f0577b4baee16b82c6ea8b99}{%
+           family={Dahlstrom},
+           familyi={D\bibinitperiod},
+           given={Amy\bibnamedelima Louise},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{fullhash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{bibnamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authorbibnamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authornamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authorfullhash}{4036e495f0577b4baee16b82c6ea8b99}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Plains Cree morphosyntax}
+      \field{year}{1986}
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/7g81p0mw
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/7g81p0mw
+      \endverb
+    \endentry
+    \entry{delancey_interpretation_1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3656690c05ac3d97520039d27504c5f}{%
+           family={{DeLancey}},
+           familyi={D\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{fullhash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{bibnamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authorbibnamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authornamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authorfullhash}{f3656690c05ac3d97520039d27504c5f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0097-8507}
+      \field{journaltitle}{Language}
+      \field{number}{3}
+      \field{title}{An Interpretation of Split Ergativity and Related Patterns}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{57}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{626\bibrangedash 657}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.2307/414343
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/414343
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/414343
+      \endverb
+    \endentry
+    \entry{givón1994}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ddaa028645cfff70f0670d981cf041a}{%
+           family={Givón},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{fullhash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{bibnamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authorbibnamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authornamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authorfullhash}{7ddaa028645cfff70f0670d981cf041a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Voice and Inversion}
+      \field{title}{The pragmatics of de-transitive voice: Functional and typological aspects of inversion}
+      \field{year}{1994}
+      \verb{doi}
+      \verb https://doi.org/10.1075/tsl.28
+      \endverb
+    \endentry
+    \entry{jansen2010}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f241127ff4f2b47d1d8922790ee89b9c}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Joana\bibnamedelima Worth},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Oregon}%
+      }
+      \strng{namehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{fullhash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{bibnamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authorbibnamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authornamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authorfullhash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Yakima Ichishkíin/Sahaptin}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{zúñiga2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe3a3f614a865f27042586cade647da6}{%
+           family={Zúñiga},
+           familyi={Z\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{fullhash}{fe3a3f614a865f27042586cade647da6}
+      \strng{bibnamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authorbibnamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authornamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authorfullhash}{fe3a3f614a865f27042586cade647da6}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789027293046}
+      \field{title}{Deixis and Alignment: Inverse systems in indigenous languages of the Americas}
+      \field{year}{2006}
+      \verb{doi}
+      \verb https://doi.org/10.1075/tsl.70
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{dahlstrom1986}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4036e495f0577b4baee16b82c6ea8b99}{%
+           family={Dahlstrom},
+           familyi={D\bibinitperiod},
+           given={Amy\bibnamedelima Louise},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{fullhash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{bibnamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authorbibnamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authornamehash}{4036e495f0577b4baee16b82c6ea8b99}
+      \strng{authorfullhash}{4036e495f0577b4baee16b82c6ea8b99}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Plains Cree morphosyntax}
+      \field{year}{1986}
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/7g81p0mw
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/7g81p0mw
+      \endverb
+    \endentry
+    \entry{delancey_interpretation_1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3656690c05ac3d97520039d27504c5f}{%
+           family={{DeLancey}},
+           familyi={D\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{fullhash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{bibnamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authorbibnamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authornamehash}{f3656690c05ac3d97520039d27504c5f}
+      \strng{authorfullhash}{f3656690c05ac3d97520039d27504c5f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0097-8507}
+      \field{journaltitle}{Language}
+      \field{number}{3}
+      \field{title}{An Interpretation of Split Ergativity and Related Patterns}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{57}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{626\bibrangedash 657}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.2307/414343
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/414343
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/414343
+      \endverb
+    \endentry
+    \entry{givón1994}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ddaa028645cfff70f0670d981cf041a}{%
+           family={Givón},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{fullhash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{bibnamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authorbibnamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authornamehash}{7ddaa028645cfff70f0670d981cf041a}
+      \strng{authorfullhash}{7ddaa028645cfff70f0670d981cf041a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Voice and Inversion}
+      \field{title}{The pragmatics of de-transitive voice: Functional and typological aspects of inversion}
+      \field{year}{1994}
+      \verb{doi}
+      \verb https://doi.org/10.1075/tsl.28
+      \endverb
+    \endentry
+    \entry{jansen2010}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f241127ff4f2b47d1d8922790ee89b9c}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Joana\bibnamedelima Worth},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Oregon}%
+      }
+      \strng{namehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{fullhash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{bibnamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authorbibnamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authornamehash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \strng{authorfullhash}{f241127ff4f2b47d1d8922790ee89b9c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Yakima Ichishkíin/Sahaptin}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{zúñiga2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe3a3f614a865f27042586cade647da6}{%
+           family={Zúñiga},
+           familyi={Z\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{fullhash}{fe3a3f614a865f27042586cade647da6}
+      \strng{bibnamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authorbibnamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authornamehash}{fe3a3f614a865f27042586cade647da6}
+      \strng{authorfullhash}{fe3a3f614a865f27042586cade647da6}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789027293046}
+      \field{title}{Deixis and Alignment: Inverse systems in indigenous languages of the Americas}
+      \field{year}{2006}
+      \verb{doi}
+      \verb https://doi.org/10.1075/tsl.70
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

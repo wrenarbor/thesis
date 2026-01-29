@@ -1,0 +1,22 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Proposal - Wren Arbor - Talking while Trans.blg'
+[180] biber-MSWIN64:340> INFO - === 
+[231] Biber.pm:418> INFO - Reading 'Proposal - Wren Arbor - Talking while Trans.bcf'
+[423] Biber.pm:978> INFO - Found 12 citekeys in bib section 0
+[451] Biber.pm:4401> INFO - Processing section 0
+[470] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[536] bibtex.pm:1713> INFO - LaTeX decoding ...
+[627] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[879] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[879] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[880] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[880] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[913] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[914] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[914] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[914] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[939] bbl.pm:654> INFO - Writing 'Proposal - Wren Arbor - Talking while Trans.bbl' with encoding 'UTF-8'
+[968] bbl.pm:757> INFO - Output to Proposal - Wren Arbor - Talking while Trans.bbl
+[968] Biber.pm:130> WARN - Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal
+[969] Biber.pm:130> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'calder_gay_2020' is invalid - run biber with '--validate_datamodel' for details.
+[969] Biber.pm:132> INFO - WARNINGS: 2

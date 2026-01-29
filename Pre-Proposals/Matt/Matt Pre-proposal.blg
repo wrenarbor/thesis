@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[1] Config.pm:309> INFO - Logfile is 'Matt Pre-proposal.blg'
+[168] biber-MSWIN64:340> INFO - === 
+[229] Biber.pm:418> INFO - Reading 'Matt Pre-proposal.bcf'
+[414] Biber.pm:978> INFO - Found 5 citekeys in bib section 0
+[449] Biber.pm:4401> INFO - Processing section 0
+[472] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[548] bibtex.pm:1713> INFO - LaTeX decoding ...
+[569] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[709] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[710] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[710] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[710] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[736] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[736] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[736] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[736] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[751] bbl.pm:654> INFO - Writing 'Matt Pre-proposal.bbl' with encoding 'UTF-8'
+[759] bbl.pm:757> INFO - Output to Matt Pre-proposal.bbl

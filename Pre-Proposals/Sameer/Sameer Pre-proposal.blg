@@ -1,0 +1,21 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Sameer Pre-proposal.blg'
+[223] biber-MSWIN64:340> INFO - === 
+[295] Biber.pm:418> INFO - Reading 'Sameer Pre-proposal.bcf'
+[458] Biber.pm:978> INFO - Found 6 citekeys in bib section 0
+[498] Biber.pm:4401> INFO - Processing section 0
+[517] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[597] bibtex.pm:1713> INFO - LaTeX decoding ...
+[636] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[888] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[888] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[915] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[915] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[915] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[915] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[936] bbl.pm:654> INFO - Writing 'Sameer Pre-proposal.bbl' with encoding 'UTF-8'
+[945] bbl.pm:757> INFO - Output to Sameer Pre-proposal.bbl
+[945] Biber.pm:130> WARN - I didn't find a database entry for 'meckelborg_aquisition_2024' (section 0)
+[946] Biber.pm:132> INFO - WARNINGS: 1

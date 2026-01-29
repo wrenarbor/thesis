@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Allison Pre-proposal.blg'
+[209] biber-MSWIN64:340> INFO - === 
+[258] Biber.pm:418> INFO - Reading 'Allison Pre-proposal.bcf'
+[416] Biber.pm:978> INFO - Found 12 citekeys in bib section 0
+[448] Biber.pm:4401> INFO - Processing section 0
+[466] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[555] bibtex.pm:1713> INFO - LaTeX decoding ...
+[687] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[945] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[945] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[946] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[946] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[975] bbl.pm:654> INFO - Writing 'Allison Pre-proposal.bbl' with encoding 'UTF-8'
+[987] bbl.pm:757> INFO - Output to Allison Pre-proposal.bbl
+[988] Biber.pm:130> WARN - Duplicate entry key: 'jessee_cisgender_2025' in file 'references.bib', skipping ...
+[988] Biber.pm:130> WARN - Range field 'pages' in entry 'podesva_sexuality_2015' is malformed, falling back to literal
+[988] Biber.pm:130> WARN - Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal
+[988] Biber.pm:132> INFO - WARNINGS: 3
