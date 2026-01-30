@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.1.16)  27 JAN 2026 14:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.1.16)  30 JAN 2026 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -877,7 +877,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `TU/Charis(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/Charis(0)/m/it' tried instead on input line 
-146.
+148.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -928,7 +928,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Overfull \hbox (5.65149pt too wide) in paragraph at lines 165--166
+Overfull \hbox (5.65149pt too wide) in paragraph at lines 167--168
 []\TU/Charis(0)/m/n/12 The concept of the indexical field, introduced by []Ecke
 rt ([][]2008[][]), has been adopted
  []
@@ -1034,7 +1034,7 @@ File: ./images/calder_sissy_2019_fig6.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.46594pt too wide) in paragraph at lines 218--219
+Overfull \hbox (3.46594pt too wide) in paragraph at lines 220--221
 []\TU/Charis(0)/m/n/12 It is also not necessarily the case that alternative mea
 nings of /s/ emerge through
  []
@@ -1074,7 +1074,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18]
 
-LaTeX Warning: Citation 'zimman_' on page 19 undefined on input line 238.
+LaTeX Warning: Citation 'zimman_' on page 19 undefined on input line 240.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1089,12 +1089,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 2.
 [21]
-Overfull \hbox (38.67729pt too wide) in paragraph at lines 253--262
+Overfull \hbox (38.67729pt too wide) in paragraph at lines 255--264
 [][]
  []
 
 
-Overfull \hbox (70.11903pt too wide) in paragraph at lines 267--276
+Overfull \hbox (70.11903pt too wide) in paragraph at lines 269--278
 [][]
  []
 
@@ -1107,7 +1107,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-Overfull \hbox (0.81165pt too wide) in paragraph at lines 290--291
+Overfull \hbox (0.81165pt too wide) in paragraph at lines 292--293
 \TU/Charis(0)/m/n/12 pronunciations when speaking to the trans conversation par
 tner versus when speak-
  []
@@ -1154,35 +1154,35 @@ Appendix B.
 [35] [36
 
 ]
-Overfull \hbox (62.70346pt too wide) in paragraph at lines 343--343
+Overfull \hbox (62.70346pt too wide) in paragraph at lines 345--345
 [][][][][] [][] [][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][
 ][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][]$[][]
  []
 
 
-Overfull \hbox (5.63245pt too wide) in paragraph at lines 343--343
+Overfull \hbox (5.63245pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 & Sons, Ltd, pp. 21–47. \TU/Charis(0)/m/sc/12 isbn\TU/Char
 is(0)/m/n/12 : 978-1-118-58424-8. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12
  : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (18.36554pt too wide) in paragraph at lines 343--343
+Overfull \hbox (18.36554pt too wide) in paragraph at lines 345--345
 [][][]$[][]\TU/Charis(0)/m/n/12 . \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12
  : [][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] 
 [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (20.68228pt too wide) in paragraph at lines 343--343
+Overfull \hbox (20.68228pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 14698013. \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : 
 [][]$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][]
 [][][][]$[][] (visited on 11/05/2024). 
  []
 
 
-Overfull \hbox (38.64288pt too wide) in paragraph at lines 343--343
+Overfull \hbox (38.64288pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 New York: Routledge. 272 pp. \TU/Charis(0)/m/sc/12 isbn\TU
 /Charis(0)/m/n/12 : 978-0-203-82497-9. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m
 /n/12 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
@@ -1191,14 +1191,14 @@ Overfull \hbox (38.64288pt too wide) in paragraph at lines 343--343
 [37
 
 ]
-Overfull \hbox (8.1195pt too wide) in paragraph at lines 343--343
+Overfull \hbox (8.1195pt too wide) in paragraph at lines 345--345
 [][] [][] [][][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][][][][][
 ][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][][][][][][]
 [][] []
  []
 
 
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 343--343
+Overfull \hbox (15.40875pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
  doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
 ][][][][][][][][][] []
@@ -1213,21 +1213,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
-Overfull \hbox (7.20007pt too wide) in paragraph at lines 343--343
+Overfull \hbox (7.20007pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 bridge University Press. \TU/Charis(0)/m/sc/12 isbn\TU/Cha
 ris(0)/m/n/12 : 978-1-108-49189-1. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/1
 2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (2.34131pt too wide) in paragraph at lines 343--343
+Overfull \hbox (2.34131pt too wide) in paragraph at lines 345--345
 [][][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [][][] 
 [] [][][][][] [] [][][][][]$[][] \TU/Charis(0)/m/n/12 (visited on 10/03/2025). 
 
  []
 
 
-Overfull \hbox (4.08347pt too wide) in paragraph at lines 343--343
+Overfull \hbox (4.08347pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 Feminine Speakers’ Commentaries on Voice and Being Heard”.
  PhD thesis. UCLA.
  []
@@ -1241,7 +1241,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Overfull \hbox (5.55797pt too wide) in paragraph at lines 343--343
+Overfull \hbox (5.55797pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 End Girls: /s/-Fronting in Southeast England”. In: 13. \TU
 /Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][][
 ][][][][][] []
@@ -1265,14 +1265,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-Overfull \hbox (24.03793pt too wide) in paragraph at lines 343--343
+Overfull \hbox (24.03793pt too wide) in paragraph at lines 345--345
 \TU/Charis(0)/m/n/12 46.3, pp. 339–370. \TU/Charis(0)/m/sc/12 issn\TU/Charis(0)
 /m/n/12 : 0047-4045, 1469-8013. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12 :
  [][]$[][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (112.61942pt too wide) in paragraph at lines 343--343
+Overfull \hbox (112.61942pt too wide) in paragraph at lines 345--345
 [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][][][][
 ][][] [][] [][][][][][][][][] [][] [][][] [][] [] [] [][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][]$[][]
@@ -1311,10 +1311,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20683 strings out of 478682
- 411600 string characters out of 5849006
- 1876018 words of memory out of 6000000
- 40521 multiletter control sequences out of 15000+600000
+ 20684 strings out of 478682
+ 411611 string characters out of 5849006
+ 1875018 words of memory out of 6000000
+ 40522 multiletter control sequences out of 15000+600000
  521513 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,11n,85p,2294b,4879s stack positions out of 10000i,1000n,20000p,200000b,200000s
