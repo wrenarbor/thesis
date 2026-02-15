@@ -11,11 +11,11 @@
 \contentsline {section}{\numberline {2.4}Analytical Approach}{23}{section.2.4}%
 \contentsline {chapter}{Chapter 3: Participant Profiles}{25}{chapter.3}%
 \contentsline {chapter}{Chapter 4: Quantitative Results and Analysis}{27}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Within-speaker}{27}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Between-speaker}{27}{section.4.2}%
-\contentsline {chapter}{Chapter 5: Discussion and Qualitative Analysis}{29}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Comparison with Prior Results}{29}{section.5.1}%
-\contentsline {chapter}{Conclusion}{31}{chapter*.8}%
-\contentsline {section}{\numberline {5.2}Directions for Future Research}{31}{section.5.2}%
-\contentsline {chapter}{Appendix A: Survey}{33}{appendix.A}%
-\contentsline {chapter}{Appendix B: Interview Questions}{35}{appendix.B}%
+\contentsline {section}{\numberline {4.1}Within-speaker}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Between-speaker}{29}{section.4.2}%
+\contentsline {chapter}{Chapter 5: Discussion and Qualitative Analysis}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Comparison with Prior Results}{31}{section.5.1}%
+\contentsline {chapter}{Conclusion}{33}{chapter*.8}%
+\contentsline {section}{\numberline {5.2}Directions for Future Research}{33}{section.5.2}%
+\contentsline {chapter}{Appendix A: Survey}{35}{appendix.A}%
+\contentsline {chapter}{Appendix B: Interview Questions}{37}{appendix.B}%
