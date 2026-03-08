@@ -2529,17 +2529,16 @@
     <bcf:citekey order="113" intorder="1">calder_sissy_2019</bcf:citekey>
     <bcf:citekey order="114" intorder="1">zimman_hegemonic_2013</bcf:citekey>
     <bcf:citekey order="115" intorder="1">zimman_</bcf:citekey>
-    <bcf:citekey order="116" intorder="1">benesch_stylizing_2022</bcf:citekey>
-    <bcf:citekey order="117" intorder="1">zimman_gender_2017</bcf:citekey>
-    <bcf:citekey order="117" intorder="2">zimman_variability_2017</bcf:citekey>
-    <bcf:citekey order="118" intorder="1">holmes-elliott_substance_2017</bcf:citekey>
-    <bcf:citekey order="119" intorder="1">heffernan_constructing_2023</bcf:citekey>
-    <bcf:citekey order="120" intorder="1">boersma_praat_2023</bcf:citekey>
-    <bcf:citekey order="121" intorder="1">dicanio_spectral_2021</bcf:citekey>
-    <bcf:citekey order="122" intorder="1">r_core_team_r_2025</bcf:citekey>
-    <bcf:citekey order="123" intorder="1">calder_interrogating_2025</bcf:citekey>
-    <bcf:citekey order="123" intorder="2">zimman_beyond_2021</bcf:citekey>
-    <bcf:citekey order="124" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">zimman_gender_2017</bcf:citekey>
+    <bcf:citekey order="116" intorder="2">zimman_variability_2017</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">holmes-elliott_substance_2017</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">heffernan_constructing_2023</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">boersma_praat_2023</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">dicanio_spectral_2021</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">r_core_team_r_2025</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">calder_interrogating_2025</bcf:citekey>
+    <bcf:citekey order="122" intorder="2">zimman_beyond_2021</bcf:citekey>
+    <bcf:citekey order="123" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
