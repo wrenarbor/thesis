@@ -2192,6 +2192,62 @@
       \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0005
       \endverb
     \endentry
+    \entry{forced_aligner}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ce2a2ead4a327127b7974e8890793132}{%
+           family={McAuliffe},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4648923e13e3da9e84781c77909a9ae1}{%
+           family={Socolof},
+           familyi={S\bibinitperiod},
+           given={Michaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3f4502e4320978fe326c5dcf903b7ef}{%
+           family={Mihuc},
+           familyi={M\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6ea5a7032ae19a0dc619b901a2d57ac}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e231db1ecb79efa4eee1aa7f444f931}{%
+           family={Sonderegger},
+           familyi={S\bibinitperiod},
+           given={Morgan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{243e0211a6d6886eba872cacd33fc9ff}
+      \strng{fullhash}{5050368be03577e65240aa94a70df784}
+      \strng{fullhashraw}{5050368be03577e65240aa94a70df784}
+      \strng{bibnamehash}{243e0211a6d6886eba872cacd33fc9ff}
+      \strng{authorbibnamehash}{243e0211a6d6886eba872cacd33fc9ff}
+      \strng{authornamehash}{243e0211a6d6886eba872cacd33fc9ff}
+      \strng{authorfullhash}{5050368be03577e65240aa94a70df784}
+      \strng{authorfullhashraw}{5050368be03577e65240aa94a70df784}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. Interspeech 2017}
+      \field{title}{{Montreal Forced Aligner: Trainable Text-Speech Alignment Using Kaldi}}
+      \field{year}{2017}
+      \field{pages}{498\bibrangedash 502}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.21437/Interspeech.2017-1386
+      \endverb
+    \endentry
     \entry{mendoza_that_2024}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4c1b291b3e598d36f439e82c55406dae}{%
@@ -2982,6 +3038,7 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{339\bibrangedash 370}
       \range{pages}{32}
       \verb{doi}

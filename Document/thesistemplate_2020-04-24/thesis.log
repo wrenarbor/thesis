@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.7)  7 MAR 2026 16:41
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.7)  16 MAR 2026 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -916,7 +916,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `TU/Charis(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/Charis(0)/m/it' tried instead on input line 
-155.
+157.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -967,7 +967,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Overfull \hbox (5.65149pt too wide) in paragraph at lines 176--177
+Overfull \hbox (5.65149pt too wide) in paragraph at lines 178--179
 []\TU/Charis(0)/m/n/12 The concept of the indexical field, introduced by []Ecke
 rt ([][]2008[][]), has been adopted
  []
@@ -1073,7 +1073,7 @@ File: ./images/calder_sissy_2019_fig6.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.46594pt too wide) in paragraph at lines 229--230
+Overfull \hbox (3.46594pt too wide) in paragraph at lines 231--232
 []\TU/Charis(0)/m/n/12 It is also not necessarily the case that alternative mea
 nings of /s/ emerge through
  []
@@ -1120,31 +1120,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19]
-
-LaTeX Warning: Citation 'zimman_' on page 20 undefined on input line 261.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[20]
-Chapter 2.
-[21
+[19] [20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-[]|\TU/Charis(0)/m/n/6 Linguistic Back-
- []
-
-
-Overfull \hbox (70.11903pt too wide) in paragraph at lines 294--303
+Chapter 2.
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
 [][]
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1155,6 +1144,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1164,15 +1156,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-Overfull \hbox (0.81165pt too wide) in paragraph at lines 318--319
-\TU/Charis(0)/m/n/12 pronunciations when speaking to the trans conversation par
-tner versus when speak-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1199,29 +1182,9 @@ File: ./images/overall_plot.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: ./images/Mantis _plot.png Graphic file (type bmp)
-<./images/Mantis _plot.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ./images/Alpaca _plot.png Graphic file (type bmp)
-<./images/Alpaca _plot.png>
-
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ./images/Squirrel _plot.png Graphic file (type bmp)
-<./images/Squirrel _plot.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ./images/Jellyfish _plot.png Graphic file (type bmp)
-<./images/Jellyfish _plot.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1232,6 +1195,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
+File: ./images/Mantis _plot.png Graphic file (type bmp)
+<./images/Mantis _plot.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1250,6 +1216,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
+File: ./images/Jellyfish _plot.png Graphic file (type bmp)
+<./images/Jellyfish _plot.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1268,67 +1237,178 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
+File: ./images/Alpaca _plot.png Graphic file (type bmp)
+<./images/Alpaca _plot.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34]
+File: ./images/Squirrel _plot.png Graphic file (type bmp)
+<./images/Squirrel _plot.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
 Chapter 4.
-[33
 
-] [34
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [35] [36
+ [39
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43] [44
+
+] [45] [46
 
 ]
 Appendix A.
-[37] [38
+[47] [48
 
 ]
 Appendix B.
-[39] [40
+[49] [50
 
 ]
-Overfull \hbox (62.70346pt too wide) in paragraph at lines 419--419
+Overfull \hbox (62.70346pt too wide) in paragraph at lines 557--557
 [][][][][] [][] [][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][
 ][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][]$[][]
  []
 
 
-Overfull \hbox (5.63245pt too wide) in paragraph at lines 419--419
+Overfull \hbox (5.63245pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 & Sons, Ltd, pp. 21–47. \TU/Charis(0)/m/sc/12 isbn\TU/Char
 is(0)/m/n/12 : 978-1-118-58424-8. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12
  : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (18.36554pt too wide) in paragraph at lines 419--419
+Overfull \hbox (18.36554pt too wide) in paragraph at lines 557--557
 [][][]$[][]\TU/Charis(0)/m/n/12 . \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12
  : [][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] 
 [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (20.68228pt too wide) in paragraph at lines 419--419
+Overfull \hbox (20.68228pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 14698013. \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : 
 [][]$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][]
 [][][][]$[][] (visited on 11/05/2024). 
  []
 
 
-Overfull \hbox (38.64288pt too wide) in paragraph at lines 419--419
+Overfull \hbox (38.64288pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 New York: Routledge. 272 pp. \TU/Charis(0)/m/sc/12 isbn\TU
 /Charis(0)/m/n/12 : 978-0-203-82497-9. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m
 /n/12 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
  []
 
-[41
+[51
 
 ]
-Overfull \hbox (8.1195pt too wide) in paragraph at lines 419--419
+Overfull \hbox (8.1195pt too wide) in paragraph at lines 557--557
 [][] [][] [][][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][][][][][
 ][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][][][][][][]
 [][] []
  []
 
 
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 419--419
+Overfull \hbox (15.40875pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
  doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
 ][][][][][][][][][] []
@@ -1342,22 +1422,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42]
-Overfull \hbox (7.20007pt too wide) in paragraph at lines 419--419
+[52]
+Overfull \hbox (7.20007pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 bridge University Press. \TU/Charis(0)/m/sc/12 isbn\TU/Cha
 ris(0)/m/n/12 : 978-1-108-49189-1. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/1
 2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (2.34131pt too wide) in paragraph at lines 419--419
+Overfull \hbox (2.34131pt too wide) in paragraph at lines 557--557
 [][][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [][][] 
 [] [][][][][] [] [][][][][]$[][] \TU/Charis(0)/m/n/12 (visited on 10/03/2025). 
 
  []
 
 
-Overfull \hbox (4.08347pt too wide) in paragraph at lines 419--419
+Overfull \hbox (4.08347pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 Feminine Speakers’ Commentaries on Voice and Being Heard”.
  PhD thesis. UCLA.
  []
@@ -1370,8 +1450,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[43]
-Overfull \hbox (5.55797pt too wide) in paragraph at lines 419--419
+[53]
+Overfull \hbox (5.55797pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 End Girls: /s/-Fronting in Southeast England”. In: 13. \TU
 /Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][][
 ][][][][][] []
@@ -1385,7 +1465,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[44]
+[54]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1394,15 +1474,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45]
-Overfull \hbox (24.03793pt too wide) in paragraph at lines 419--419
+[55]
+Overfull \hbox (24.03793pt too wide) in paragraph at lines 557--557
 \TU/Charis(0)/m/n/12 46.3, pp. 339–370. \TU/Charis(0)/m/sc/12 issn\TU/Charis(0)
 /m/n/12 : 0047-4045, 1469-8013. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12 :
  [][]$[][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (112.61942pt too wide) in paragraph at lines 419--419
+Overfull \hbox (112.61942pt too wide) in paragraph at lines 557--557
 [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][][][][
 ][][] [][] [][][][][][][][][] [][] [][][] [][] [] [] [][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][]$[][]
@@ -1416,7 +1496,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[46]
+[56]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1425,28 +1505,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[47] (./thesis.aux)
-
-LaTeX Warning: There were undefined references.
-
+[57] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 897BE00D0DE4CC22393A88F3F8031E34;3752.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: AA5ED63E37BE7E85AB05B9F7B6C3F1F6;3048.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23393 strings out of 478682
- 495225 string characters out of 5849007
- 1875018 words of memory out of 6000000
- 43221 multiletter control sequences out of 15000+600000
+ 23408 strings out of 478682
+ 495530 string characters out of 5849007
+ 1876018 words of memory out of 6000000
+ 43236 multiletter control sequences out of 15000+600000
  521513 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,11n,85p,2309b,5325s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,85p,2539b,5325s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (63 pages).
+Output written on thesis.pdf (73 pages).

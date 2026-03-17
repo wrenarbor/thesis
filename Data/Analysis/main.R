@@ -152,6 +152,7 @@ t.test(cog ~ interlocutor_in_recording, filter(s_measurements, participant == "A
 t.test(cog ~ interlocutor_in_recording, filter(s_measurements, participant == "Squirrel"))
 t.test(cog ~ interlocutor_in_recording, filter(s_measurements, participant == "Jellyfish"))
 
+
 s_measurements |> group_by(label, participant) |> summarise(cog = mean(cog))
 #s_measurements |> 
 #  filter(role_of_participant_measured == "interlocutor") |> 

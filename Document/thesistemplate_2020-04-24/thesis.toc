@@ -2,23 +2,19 @@
 \contentsline {chapter}{Chapter 1: Literature Review}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Theoretical Motivations and Background}{5}{section.1.1}%
 \contentsline {section}{\numberline {1.2}The Sociophonetics of /s/}{11}{section.1.2}%
-\contentsline {section}{\numberline {1.3}extra stuff}{19}{section.1.3}%
 \contentsline {chapter}{Chapter 2: Methodology}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Participants}{21}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Survey}{21}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Interviews}{22}{subsection.2.1.2}%
 \contentsline {section}{\numberline {2.2}Conversations}{22}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Interviews}{23}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Analytical Approach}{23}{section.2.4}%
+\contentsline {section}{\numberline {2.3}Analytical Approach}{24}{section.2.3}%
 \contentsline {chapter}{Chapter 3: Results}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Speaker 1: Mantis}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Speaker 2: Alpaca}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Speaker 3: Squirrel}{28}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Speaker 4: Jellyfish}{28}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Within-speaker}{28}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Between-speaker}{28}{section.3.6}%
-\contentsline {chapter}{Chapter 4: Discussion and Qualitative Analysis}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Comparison with Prior Results}{33}{section.4.1}%
-\contentsline {chapter}{Conclusion}{35}{chapter*.8}%
-\contentsline {section}{\numberline {5.2}Directions for Future Research}{35}{section.5.2}%
-\contentsline {chapter}{Appendix A: Survey}{37}{appendix.A}%
-\contentsline {chapter}{Appendix B: Interview Questions}{39}{appendix.B}%
+\contentsline {section}{\numberline {3.1}Speaker 1: Mantis}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Speaker 4: Jellyfish}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Speaker 2: Alpaca}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{35}{section.3.4}%
+\contentsline {chapter}{Chapter 4: Discussion}{39}{chapter.4}%
+\contentsline {chapter}{Conclusion}{45}{chapter*.8}%
+\contentsline {section}{\numberline {5.1}Directions for Future Research}{45}{section.5.1}%
+\contentsline {chapter}{Appendix A: Survey}{47}{appendix.A}%
+\contentsline {chapter}{Appendix B: Interview Questions}{49}{appendix.B}%
