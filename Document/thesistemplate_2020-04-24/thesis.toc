@@ -15,6 +15,6 @@
 \contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{35}{section.3.4}%
 \contentsline {chapter}{Chapter 4: Discussion}{39}{chapter.4}%
 \contentsline {chapter}{Conclusion}{45}{chapter*.8}%
-\contentsline {section}{\numberline {5.1}Directions for Future Research}{45}{section.5.1}%
-\contentsline {chapter}{Appendix A: Survey}{47}{appendix.A}%
-\contentsline {chapter}{Appendix B: Interview Questions}{49}{appendix.B}%
+\contentsline {section}{\numberline {5.1}Limitations and Directions for Future Research}{46}{section.5.1}%
+\contentsline {chapter}{Appendix A: Survey}{49}{appendix.A}%
+\contentsline {chapter}{Appendix B: Interview Questions}{51}{appendix.B}%

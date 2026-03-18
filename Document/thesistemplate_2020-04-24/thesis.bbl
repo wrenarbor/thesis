@@ -2298,6 +2298,47 @@
       \verb https://research.ebsco.com/linkprocessor/plink?id=a135299f-2e9e-3fda-a6da-71cb9e681a11
       \endverb
     \endentry
+    \entry{miles-hercules_real_2022}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63b35e5800028d51e44d996762777e12}{%
+           family={{miles-hercules}},
+           familyi={m\bibinitperiod},
+           given={{deandre}},
+           giveni={d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{63b35e5800028d51e44d996762777e12}
+      \strng{fullhash}{63b35e5800028d51e44d996762777e12}
+      \strng{fullhashraw}{63b35e5800028d51e44d996762777e12}
+      \strng{bibnamehash}{63b35e5800028d51e44d996762777e12}
+      \strng{authorbibnamehash}{63b35e5800028d51e44d996762777e12}
+      \strng{authornamehash}{63b35e5800028d51e44d996762777e12}
+      \strng{authorfullhash}{63b35e5800028d51e44d996762777e12}
+      \strng{authorfullhashraw}{63b35e5800028d51e44d996762777e12}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{isbn}{978-0-19-021292-6}
+      \field{title}{The Real Tea: Language at the Intersections}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.70
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.70
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.70
+      \endverb
+    \endentry
     \entry{munson_influence_2006}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3abb62ea89f9f87fb36efa0af2edae05}{%
