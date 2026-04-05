@@ -11,8 +11,8 @@
 \contentsline {chapter}{Chapter 3: Results}{27}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Speaker 1: Mantis}{29}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Speaker 4: Jellyfish}{31}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Speaker 2: Alpaca}{33}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{35}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Speaker 2: Alpaca}{34}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{36}{section.3.4}%
 \contentsline {chapter}{Chapter 4: Discussion}{39}{chapter.4}%
 \contentsline {chapter}{Conclusion}{45}{chapter*.8}%
 \contentsline {section}{\numberline {5.1}Limitations and Directions for Future Research}{46}{section.5.1}%

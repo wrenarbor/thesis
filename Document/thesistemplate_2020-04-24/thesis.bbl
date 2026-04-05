@@ -2700,13 +2700,11 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{annotation}{I cite this early work on AAE style-shifting in my definition of the term `interlocutor-oriented style-shifting'.}
       \field{booktitle}{Sociolinguistic Perspectives On Register}
       \field{shorttitle}{Addressee-And Topic-Influenced Style Shift}
       \field{title}{Addressee- And Topic-Influenced Style Shift: A Quantitative Sociolinguistic Study}
       \field{year}{1994}
       \field{dateera}{ce}
-      \true{nocite}
       \field{pages}{235\bibrangedash 276}
       \range{pages}{42}
       \verb{doi}

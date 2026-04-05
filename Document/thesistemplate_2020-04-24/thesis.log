@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.7)  17 MAR 2026 22:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  5 APR 2026 13:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -905,7 +905,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [9] [10
 
 ]
-Overfull \hbox (1.8136pt too wide) in paragraph at lines 132--133
+Overfull \hbox (1.8136pt too wide) in paragraph at lines 133--134
 []\TU/Charis(0)/m/n/12 Discussion: Disconnects between expressed attitudes and 
 concerns and expected
  []
@@ -922,7 +922,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `TU/Charis(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/Charis(0)/m/it' tried instead on input line 
-159.
+161.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -985,7 +985,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Overfull \hbox (5.65149pt too wide) in paragraph at lines 182--183
+Overfull \hbox (5.65149pt too wide) in paragraph at lines 203--204
 []\TU/Charis(0)/m/n/12 The concept of the indexical field, introduced by []Ecke
 rt ([][]2008[][]), has been adopted
  []
@@ -1091,7 +1091,7 @@ File: ./images/calder_sissy_2019_fig6.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.46594pt too wide) in paragraph at lines 235--236
+Overfull \hbox (3.46594pt too wide) in paragraph at lines 257--258
 []\TU/Charis(0)/m/n/12 It is also not necessarily the case that alternative mea
 nings of /s/ emerge through
  []
@@ -1130,6 +1130,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
+Overfull \hbox (0.23157pt too wide) in paragraph at lines 267--268
+[]\TU/Charis(0)/m/n/12 Do transfeminine speakers shift towards fronter /s/ pron
+unciations with
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1143,7 +1148,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 2.
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 286--299
+Underfull \hbox (badness 10000) in paragraph at lines 308--321
 [][]
  []
 
@@ -1217,6 +1222,9 @@ File: ./images/Mantis _plot.png Graphic file (type bmp)
 <./images/Mantis _plot.png>
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1236,6 +1244,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [30]
 File: ./images/Jellyfish _plot.png Graphic file (type bmp)
 <./images/Jellyfish _plot.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1259,9 +1270,6 @@ File: ./images/Alpaca _plot.png Graphic file (type bmp)
 <./images/Alpaca _plot.png>
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1281,9 +1289,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [34]
 File: ./images/Squirrel _plot.png Graphic file (type bmp)
 <./images/Squirrel _plot.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1311,14 +1316,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37] [38
+[37]
 
-]
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
+ [39
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1363,9 +1377,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [43] [44
 
 ]
-Overfull \hbox (17.6222pt too wide) in paragraph at lines 531--532
+Overfull \hbox (31.44446pt too wide) in paragraph at lines 564--565
 \TU/Charis(0)/m/n/12 In conducting an initial investigation transfeminine speak
-ers’ negotion of cisheteronor-
+ers’ negotiation of cisheteronor-
  []
 
 
@@ -1400,35 +1414,35 @@ Appendix B.
 [51] [52
 
 ]
-Overfull \hbox (62.70346pt too wide) in paragraph at lines 574--574
+Overfull \hbox (62.70346pt too wide) in paragraph at lines 607--607
 [][][][][] [][] [][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][
 ][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][]$[][]
  []
 
 
-Overfull \hbox (5.63245pt too wide) in paragraph at lines 574--574
+Overfull \hbox (5.63245pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 & Sons, Ltd, pp. 21–47. \TU/Charis(0)/m/sc/12 isbn\TU/Char
 is(0)/m/n/12 : 978-1-118-58424-8. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12
  : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (18.36554pt too wide) in paragraph at lines 574--574
+Overfull \hbox (18.36554pt too wide) in paragraph at lines 607--607
 [][][]$[][]\TU/Charis(0)/m/n/12 . \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12
  : [][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] 
 [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (20.68228pt too wide) in paragraph at lines 574--574
+Overfull \hbox (20.68228pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 14698013. \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : 
 [][]$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][]
 [][][][]$[][] (visited on 11/05/2024). 
  []
 
 
-Overfull \hbox (38.64288pt too wide) in paragraph at lines 574--574
+Overfull \hbox (38.64288pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 New York: Routledge. 272 pp. \TU/Charis(0)/m/sc/12 isbn\TU
 /Charis(0)/m/n/12 : 978-0-203-82497-9. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m
 /n/12 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
@@ -1437,14 +1451,14 @@ Overfull \hbox (38.64288pt too wide) in paragraph at lines 574--574
 [53
 
 ]
-Overfull \hbox (8.1195pt too wide) in paragraph at lines 574--574
+Overfull \hbox (8.1195pt too wide) in paragraph at lines 607--607
 [][] [][] [][][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][][][][][
 ][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][][][][][][]
 [][] []
  []
 
 
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 574--574
+Overfull \hbox (15.40875pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
  doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
 ][][][][][][][][][] []
@@ -1459,21 +1473,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
-Overfull \hbox (7.20007pt too wide) in paragraph at lines 574--574
+Overfull \hbox (7.20007pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 bridge University Press. \TU/Charis(0)/m/sc/12 isbn\TU/Cha
 ris(0)/m/n/12 : 978-1-108-49189-1. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/1
 2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (2.34131pt too wide) in paragraph at lines 574--574
+Overfull \hbox (2.34131pt too wide) in paragraph at lines 607--607
 [][][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [][][] 
 [] [][][][][] [] [][][][][]$[][] \TU/Charis(0)/m/n/12 (visited on 10/03/2025). 
 
  []
 
 
-Overfull \hbox (4.08347pt too wide) in paragraph at lines 574--574
+Overfull \hbox (4.08347pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 Feminine Speakers’ Commentaries on Voice and Being Heard”.
  PhD thesis. UCLA.
  []
@@ -1487,7 +1501,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55]
-Overfull \hbox (5.55797pt too wide) in paragraph at lines 574--574
+Overfull \hbox (5.55797pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 End Girls: /s/-Fronting in Southeast England”. In: 13. \TU
 /Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][][
 ][][][][][] []
@@ -1511,14 +1525,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [57]
-Overfull \hbox (24.03793pt too wide) in paragraph at lines 574--574
+Overfull \hbox (24.03793pt too wide) in paragraph at lines 607--607
 \TU/Charis(0)/m/n/12 46.3, pp. 339–370. \TU/Charis(0)/m/sc/12 issn\TU/Charis(0)
 /m/n/12 : 0047-4045, 1469-8013. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12 :
  [][]$[][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][].
  []
 
 
-Overfull \hbox (112.61942pt too wide) in paragraph at lines 574--574
+Overfull \hbox (112.61942pt too wide) in paragraph at lines 607--607
 [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][][][][
 ][][] [][] [][][][][][][][][] [][] [][][] [][] [] [] [][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][]$[][]
@@ -1542,19 +1556,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59] (./thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: C5A1832B3226CB2A2D64C9EF232FA7F8;3134.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23416 strings out of 478682
- 495765 string characters out of 5849007
+ 23417 strings out of 478682
+ 495793 string characters out of 5849006
  1877018 words of memory out of 6000000
- 43244 multiletter control sequences out of 15000+600000
+ 43245 multiletter control sequences out of 15000+600000
  521513 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,85p,2539b,5325s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,85p,2636b,5325s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on thesis.pdf (75 pages).

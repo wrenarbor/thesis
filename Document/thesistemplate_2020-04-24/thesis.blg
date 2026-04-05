@@ -1,21 +1,22 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'thesis.blg'
-[29] biber:342> INFO - === Tue Mar 17, 2026, 21:46:00
-[36] Biber.pm:421> INFO - Reading 'thesis.bcf'
-[75] Biber.pm:999> INFO - Using all citekeys in bib section 0
-[80] Biber.pm:4487> INFO - Processing section 0
-[85] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
-[86] bibtex.pm:1713> INFO - LaTeX decoding ...
-[115] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[347] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[347] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[347] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[347] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[375] bbl.pm:676> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[386] bbl.pm:779> INFO - Output to thesis.bbl
-[387] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'steele_enacting_2022' is invalid - run biber with '--validate_datamodel' for details.
-[387] Biber.pm:132> WARN - Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal
-[387] Biber.pm:132> WARN - Range field 'pages' in entry 'kiesling_style_2009' is malformed, falling back to literal
-[387] Biber.pm:132> WARN - Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal
-[387] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'calder_gay_2020' is invalid - run biber with '--validate_datamodel' for details.
-[387] Biber.pm:134> INFO - WARNINGS: 5
+[52] biber:342> INFO - === Sat Apr  4, 2026, 16:58:32
+[66] Biber.pm:421> INFO - Reading 'thesis.bcf'
+[132] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[141] Biber.pm:4487> INFO - Processing section 0
+[149] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[151] bibtex.pm:1713> INFO - LaTeX decoding ...
+[201] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[532] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[532] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[532] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[532] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[561] bbl.pm:676> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[572] bbl.pm:779> INFO - Output to thesis.bbl
+[573] Biber.pm:132> WARN - Duplicate entry key: 'rickford_addressee_1994' in file 'references.bib', skipping ...
+[573] Biber.pm:132> WARN - Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal
+[573] Biber.pm:132> WARN - Range field 'pages' in entry 'kiesling_style_2009' is malformed, falling back to literal
+[573] Biber.pm:132> WARN - Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal
+[573] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'calder_gay_2020' is invalid - run biber with '--validate_datamodel' for details.
+[573] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'steele_enacting_2022' is invalid - run biber with '--validate_datamodel' for details.
+[573] Biber.pm:134> INFO - WARNINGS: 6
