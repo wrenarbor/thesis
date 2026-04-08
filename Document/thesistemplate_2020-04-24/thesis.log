@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  5 APR 2026 13:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  7 APR 2026 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,26 +768,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 
-(./thesis.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'kiesling_style_2009':
-(biblatex)                - Range field 'pages' in entry 'kiesling_style_2009' 
-is malformed, falling back to literal.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'livia_its_1997':
-(biblatex)                - Range field 'pages' in entry 'livia_its_1997' is ma
-lformed, falling back to literal.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'zimman_transgender_2020':
-(biblatex)                - Range field 'pages' in entry 'zimman_transgender_20
-20' is malformed, falling back to literal.
-
-)
+(./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 87.
 Package biblatex Info: Reference segment=0 on input line 87.
 
@@ -897,12 +878,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [7] [8
 
-] (./thesis.lof)
+] (./thesis.lof
+Overfull \hbox (37.55939pt too wide) in paragraph at lines 2--2
+ [][] [][][]\TU/Charis(0)/m/n/12 Spectrum of mean /s/ CoG by identity group fro
+m [], 
+ []
+
+
+Overfull \hbox (72.75pt too wide) in paragraph at lines 2--2
+ \TU/Charis(0)/m/n/12 synthesizing with data from []; [].[][] [][]  
+ []
+
+
+Overfull \hbox (8.19922pt too wide) in paragraph at lines 3--3
+ \TU/Charis(0)/m/n/12 frontness and corresponding fractal recursive social oppo
+sitions across 
+ []
+
+)
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
-
-[9] [10
+ [9] [10
 
 ]
 Overfull \hbox (1.8136pt too wide) in paragraph at lines 133--134
@@ -913,11 +910,97 @@ concerns and expected
 [11] [12
 
 ]
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 1 undefined on input li
+ne 150.
+
+
+LaTeX Warning: Citation 'butler_gender_1990' on page 1 undefined on input line 
+152.
+
+
+LaTeX Warning: Citation 'henry_performative_2025' on page 1 undefined on input 
+line 152.
+
+
+LaTeX Warning: Citation 'livia_queerly_1997' on page 1 undefined on input line 
+152.
+
+
+LaTeX Warning: Citation 'henry_performative_2025' on page 1 undefined on input 
+line 154.
+
+
 Underfull \vbox (badness 1087) has occurred while \output is active []
 
  [1
 
 ]
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 2 undefined on input line 156.
+
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 2 undefined on input line 1
+56.
+
+
+LaTeX Warning: Citation 'inoue_vicarious_2006' on page 2 undefined on input lin
+e 156.
+
+
+LaTeX Warning: Citation 'inoue_listening_2003' on page 2 undefined on input lin
+e 156.
+
+
+LaTeX Warning: Citation 'flores_undoing_2015' on page 2 undefined on input line
+ 156.
+
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 2 undefined on in
+put line 156.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 2 undefined on input 
+line 158.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 2 undefined on input l
+ine 158.
+
+
+LaTeX Warning: Citation 'mendoza_that_2024' on page 2 undefined on input line 1
+58.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 2 undefined on input line 1
+58.
+
+
+LaTeX Warning: Citation 'calder_interrogating_2025' on page 2 undefined on inpu
+t line 158.
+
+
+LaTeX Warning: Citation 'bucholtz_locating_2010' on page 2 undefined on input l
+ine 158.
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 2 undefined on input li
+ne 160.
+
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 2 undefined on in
+put line 160.
+
+
+LaTeX Warning: Citation 'podesva_phonation_2007' on page 2 undefined on input l
+ine 160.
+
+
+LaTeX Warning: Citation 'rickford_addressee_1994' on page 2 undefined on input 
+line 160.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `TU/Charis(0)/m/sl' in size <12> not available
@@ -933,6 +1016,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
+
+LaTeX Warning: Citation 'flipsen_acoustic_1999' on page 3 undefined on input li
+ne 162.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 3 undefined on input 
+line 162.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 3 undefined on input li
+ne 162.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 3 undefined on input l
+ine 162.
+
+
+LaTeX Warning: Citation 'zimman_variability_2017' on page 3 undefined on input 
+line 162.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 3 undefined on input line 1
+62.
+
+
+Overfull \hbox (54.98547pt too wide) in paragraph at lines 162--163
+\TU/Charis(0)/m/n/12 and women to pronounce /s/ differently ([]; [];
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -956,38 +1069,119 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 Chapter 1.
 
+LaTeX Warning: Citation 'butler_gender_1990' on page 5 undefined on input line 
+189.
+
+
+LaTeX Warning: Citation 'austin_how_1962' on page 5 undefined on input line 189
+.
+
+
+LaTeX Warning: Citation 'henry_performative_2025' on page 5 undefined on input 
+line 189.
+
+
+LaTeX Warning: Citation 'henry_performative_2025' on page 5 undefined on input 
+line 189.
+
+
+LaTeX Warning: Citation 'bucholtz_feminist_2014' on page 5 undefined on input l
+ine 189.
+
+
+LaTeX Warning: Citation 'henry_performative_2025' on page 5 undefined on input 
+line 189.
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 5 undefined on input line 189.
+
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 5 undefined on input line 191.
+
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 5 undefined on input line 191.
+
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 5 undefined on input line 191.
+
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 5 undefined on input line 1
+91.
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 5 undefined on input line 191.
+
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Citation 'eckert_three_2012' on page 6 undefined on input line 1
+93.
 
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'eckert_three_2012' on page 6 undefined on input line 1
+93.
 
 
+LaTeX Warning: Citation 'silverstein_language_2023' on page 6 undefined on inpu
+t line 193.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+LaTeX Warning: Citation 'henry_performative_2025' on page 6 undefined on input 
+line 193.
 
-[7]
-Overfull \hbox (5.65149pt too wide) in paragraph at lines 203--204
-[]\TU/Charis(0)/m/n/12 The concept of the indexical field, introduced by []Ecke
-rt ([][]2008[][]), has been adopted
+
+LaTeX Warning: Citation 'bucholtz_identity_2005' on page 6 undefined on input l
+ine 193.
+
+
+LaTeX Warning: Citation 'bucholtz_theorizing_2004' on page 6 undefined on input
+ line 193.
+
+
+LaTeX Warning: Citation 'bucholtz_locating_2010' on page 6 undefined on input l
+ine 193.
+
+
+Overfull \hbox (38.64172pt too wide) in paragraph at lines 193--194
+\TU/Charis(0)/m/n/12 relationship of co-occurrence ([]). Termed by []
+ []
+
+
+LaTeX Warning: Citation 'bucholtz_identity_2005' on page 6 undefined on input l
+ine 195.
+
+
+LaTeX Warning: Citation 'podesva_phonation_2007' on page 6 undefined on input l
+ine 195.
+
+
+LaTeX Warning: Citation 'eckert_three_2012' on page 6 undefined on input line 1
+95.
+
+
+LaTeX Warning: Citation 'zimman_linguistic_2017' on page 6 undefined on input l
+ine 195.
+
+
+LaTeX Warning: Citation 'inoue_vicarious_2006' on page 6 undefined on input lin
+e 197.
+
+
+LaTeX Warning: Citation 'inoue_listening_2003' on page 6 undefined on input lin
+e 197.
+
+
+Overfull \hbox (3.61633pt too wide) in paragraph at lines 197--198
+[]\TU/Charis(0)/m/n/12 Inoue ([]; []) argues that in cases where
  []
 
 
@@ -1002,7 +1196,172 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[6]
+
+LaTeX Warning: Citation 'flores_undoing_2015' on page 7 undefined on input line
+ 199.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 7 undefined on input line 1
+99.
+
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 7 undefined on in
+put line 199.
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 7 undefined on input li
+ne 199.
+
+
+LaTeX Warning: Citation 'calder_interrogating_2025' on page 7 undefined on inpu
+t line 199.
+
+
+LaTeX Warning: Citation 'flores_undoing_2015' on page 7 undefined on input line
+ 199.
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 7 undefined on input li
+ne 199.
+
+
+Overfull \hbox (24.5597pt too wide) in paragraph at lines 199--200
+\TU/Charis(0)/m/n/12 tening subject to consider race and queerness, researching
+ white ([])
+ []
+
+
+Overfull \hbox (12.5636pt too wide) in paragraph at lines 199--200
+\TU/Charis(0)/m/n/12 and cisgender listening subjects ([]; [];
+ []
+
+
+Overfull \hbox (36.53821pt too wide) in paragraph at lines 199--200
+\TU/Charis(0)/m/n/12 speech deficient and indexical of a supposed non-white inf
+eriority. []
+ []
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 7 undefined on input line 2
+01.
+
+
+LaTeX Warning: Citation 'calder_interrogating_2025' on page 7 undefined on inpu
+t line 201.
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 7 undefined on input line 201.
+
+
+
+LaTeX Warning: Citation 'zimman_beyond_2021' on page 7 undefined on input line 
+201.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 7 undefined on input line 2
+01.
+
+
+LaTeX Warning: Citation 'silverstein_indexical_2003' on page 7 undefined on inp
+ut line 201.
+
+
+LaTeX Warning: Citation 'silverstein_language_2023' on page 7 undefined on inpu
+t line 201.
+
+
+LaTeX Warning: Citation 'barrett_sexuality_2024' on page 7 undefined on input l
+ine 201.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 7 undefined on input line 2
+01.
+
+
+LaTeX Warning: Citation 'barrett_sexuality_2024' on page 7 undefined on input l
+ine 201.
+
+
+Overfull \hbox (49.11047pt too wide) in paragraph at lines 201--202
+[]\TU/Charis(0)/m/n/12 Drawing on these concepts of white, cis, and male listen
+ing subjects, [];
+ []
+
+
+Overfull \hbox (4.4679pt too wide) in paragraph at lines 201--202
+[] \TU/Charis(0)/m/n/12 raise an important critique of the sociolinguistic proj
+ect,
+ []
+
+
+Overfull \hbox (4.3722pt too wide) in paragraph at lines 201--202
+\TU/Charis(0)/m/n/12 subjective process of indexicality ([]; [];
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+LaTeX Warning: Citation 'eckert_variation_2008' on page 8 undefined on input li
+ne 203.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 8 undefined on input line 2
+03.
+
+
+LaTeX Warning: Citation 'gal_signs_2019' on page 8 undefined on input line 203.
+
+
+
+LaTeX Warning: Citation 'inoue_listening_2003' on page 8 undefined on input lin
+e 203.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 8 undefined on input line 2
+03.
+
+
+LaTeX Warning: Citation 'barrett_sexuality_2024' on page 8 undefined on input l
+ine 207.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [8]
+
+LaTeX Warning: Citation 'barrett_sexuality_2024' on page 9 undefined on input l
+ine 209.
+
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 9 undefined on in
+put line 213.
+
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 9 undefined on in
+put line 213.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1015,6 +1374,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
+
+LaTeX Warning: Citation 'becker_beyond_2022' on page 10 undefined on input line
+ 215.
+
+
+LaTeX Warning: Citation 'gratton_resisting_2016' on page 10 undefined on input 
+line 215.
+
+
+LaTeX Warning: Citation 'parnell-mooney_transgender_2019' on page 10 undefined 
+on input line 215.
+
+
+LaTeX Warning: Citation 'becker_beyond_2022' on page 10 undefined on input line
+ 215.
+
+
+Overfull \hbox (111.10852pt too wide) in paragraph at lines 215--216
+[]\TU/Charis(0)/m/n/12 The work of [], [], and []
+ []
+
+
+LaTeX Warning: Citation 'gratton_resisting_2016' on page 10 undefined on input 
+line 217.
+
+
+LaTeX Warning: Citation 'parnell-mooney_transgender_2019' on page 10 undefined 
+on input line 217.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1028,6 +1417,60 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10]
 
+LaTeX Warning: Citation 'international_phonetic_association_handbook_1999' on p
+age 11 undefined on input line 219.
+
+
+LaTeX Warning: Citation 'fuchs_differences_2010' on page 11 undefined on input 
+line 222.
+
+
+LaTeX Warning: Citation 'flipsen_acoustic_1999' on page 11 undefined on input l
+ine 222.
+
+
+LaTeX Warning: Citation 'zimman_variability_2017' on page 11 undefined on input
+ line 222.
+
+
+LaTeX Warning: Citation 'zimman_gender_2021' on page 11 undefined on input line
+ 222.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 11 undefined on input 
+line 224.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 11 undefined on input
+ line 224.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 11 undefined on input l
+ine 224.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 11 undefined on input 
+line 224.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 11 undefined on input
+ line 224.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 11 undefined on input
+ line 224.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 11 undefined on input 
+line 224.
+
+
+Overfull \hbox (6.1261pt too wide) in paragraph at lines 224--225
+\TU/Charis(0)/m/n/12 of each identity group were placed, as shown in figure [][
+]1.1[][] ([];
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1040,6 +1483,61 @@ File: ./images/podesva_sexuality_2016.png Graphic file (type bmp)
 <./images/podesva_sexuality_2016.png>
 
 
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 12 undefined on input 
+line 228.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 12 undefined on input
+ line 228.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 12 undefined on input l
+ine 228.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 12 undefined on input 
+line 228.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 12 undefined on input
+ line 228.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 12 undefined on input l
+ine 228.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]\TU/Charis(0)/m/n/12 Figure 1.1: []Spectrum of mean /s/ CoG by identity group
+ from
+ []
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 12 undefined on input 
+line 233.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 12 undefined on input
+ line 233.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 12 undefined on input l
+ine 233.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 12 undefined on input line 
+233.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 12 undefined on input line 
+233.
+
+
+Overfull \hbox (65.04407pt too wide) in paragraph at lines 233--234
+[]\TU/Charis(0)/m/n/12 Although []; []; []
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1048,6 +1546,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
+
+LaTeX Warning: Citation 'strand_uncovering_1999' on page 13 undefined on input 
+line 235.
+
+
+LaTeX Warning: Citation 'pharao_indexical_2014' on page 13 undefined on input l
+ine 235.
+
+
+LaTeX Warning: Citation 'maegaard_s_2015' on page 13 undefined on input line 23
+5.
+
+
+LaTeX Warning: Citation 'levon_categories_2014' on page 13 undefined on input l
+ine 235.
+
+
+LaTeX Warning: Citation 'campbell-kibler_intersecting_2011' on page 13 undefine
+d on input line 235.
+
+
+LaTeX Warning: Citation 'munson_influence_2006' on page 13 undefined on input l
+ine 235.
+
+
+Overfull \hbox (37.38196pt too wide) in paragraph at lines 235--236
+\TU/Charis(0)/m/n/12 the structure, application, and boundaries of this indexic
+al field. []
+ []
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 13 undefined on input l
+ine 237.
+
+
+LaTeX Warning: Citation 'strand_uncovering_1999' on page 13 undefined on input 
+line 237.
+
+
+LaTeX Warning: Citation 'munson_influence_2006' on page 13 undefined on input l
+ine 237.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 13 undefined on input 
+line 237.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 13 undefined on input
+ line 237.
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 13 undefined on input l
+ine 237.
+
+
+Overfull \hbox (10.63196pt too wide) in paragraph at lines 237--238
+[][] \TU/Charis(0)/m/n/12 run another replication of [], com-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1060,6 +1618,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
+
+LaTeX Warning: Citation 'maegaard_s_2015' on page 14 undefined on input line 24
+1.
+
+
+LaTeX Warning: Citation 'levon_categories_2014' on page 14 undefined on input l
+ine 241.
+
+
+LaTeX Warning: Citation 'maegaard_s_2015' on page 14 undefined on input line 24
+1.
+
+
+LaTeX Warning: Citation 'levon_categories_2014' on page 14 undefined on input l
+ine 241.
+
+
+LaTeX Warning: Citation 'calder_whose_2021' on page 14 undefined on input line 
+241.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1072,6 +1651,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 15 undefined on input line 
+243.
+
+
+LaTeX Warning: Citation 'silverstein_language_2023' on page 15 undefined on inp
+ut line 243.
+
+
+LaTeX Warning: Citation 'silverstein_indexical_2003' on page 15 undefined on in
+put line 243.
+
+
+LaTeX Warning: Citation 'irvine_language_2000' on page 15 undefined on input li
+ne 243.
+
+
+LaTeX Warning: Citation 'gal_boundaries_1995' on page 15 undefined on input lin
+e 243.
+
+
+LaTeX Warning: Citation 'silverstein_indexical_2003' on page 15 undefined on in
+put line 243.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 15 undefined on input line 
+245.
+
+
+LaTeX Warning: Citation 'irvine_language_2000' on page 15 undefined on input li
+ne 247.
+
+
+LaTeX Warning: Citation 'gal_boundaries_1995' on page 15 undefined on input lin
+e 247.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1084,11 +1700,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
+
+LaTeX Warning: Citation 'irvine_language_2000' on page 16 undefined on input li
+ne 249.
+
+
+LaTeX Warning: Citation 'gal_boundaries_1995' on page 16 undefined on input lin
+e 249.
+
 File: ./images/calder_sissy_2019_fig6.png Graphic file (type bmp)
 <./images/calder_sissy_2019_fig6.png>
 
+LaTeX Warning: Citation 'calder_sissy_2019' on page 16 undefined on input line 
+253.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 16 undefined on input line 
+253.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'steele_enacting_2022' on page 16 undefined on input li
+ne 257.
+
+
+LaTeX Warning: Citation 'calder_whose_2022' on page 16 undefined on input line 
+257.
 
 
 Overfull \hbox (3.46594pt too wide) in paragraph at lines 257--258
@@ -1110,6 +1749,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [16]
 
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 17 undefined on i
+nput line 259.
+
+
+LaTeX Warning: Citation 'benesch_stylizing_2022' on page 17 undefined on input 
+line 261.
+
+
+LaTeX Warning: Citation 'mendoza_that_2024' on page 17 undefined on input line 
+261.
+
+
+LaTeX Warning: Citation 'saigusa_jane_2016' on page 17 undefined on input line 
+261.
+
+
+LaTeX Warning: Citation 'holmes-elliott_substance_2017' on page 17 undefined on
+ input line 261.
+
+
+LaTeX Warning: Citation 'levon_east_2013' on page 17 undefined on input line 26
+1.
+
+
+LaTeX Warning: Citation 'parnell-mooney_transgender_2019' on page 17 undefined 
+on input line 261.
+
+
+LaTeX Warning: Citation 'calder_fierceness_2019' on page 17 undefined on input 
+line 261.
+
+
+LaTeX Warning: Citation 'zimman_variability_2017' on page 17 undefined on input
+ line 261.
+
+
+LaTeX Warning: Citation 'holmes-elliott_substance_2017' on page 17 undefined on
+ input line 261.
+
+
+LaTeX Warning: Citation 'levon_east_2013' on page 17 undefined on input line 26
+1.
+
+
+Overfull \hbox (64.06946pt too wide) in paragraph at lines 261--262
+\TU/Charis(0)/m/n/12 gender-presentational and interactional purposes has been 
+attested by [];
+ []
+
+
+Overfull \hbox (53.73352pt too wide) in paragraph at lines 261--262
+[]\TU/Charis(0)/m/n/12 ; []; []; [];
+ []
+
+
+Overfull \hbox (36.4972pt too wide) in paragraph at lines 261--262
+[]\TU/Charis(0)/m/n/12 ; []; [].
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1118,6 +1817,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
+
+LaTeX Warning: Citation 'calder_fierceness_2019' on page 18 undefined on input 
+line 263.
+
+
+LaTeX Warning: Citation 'benesch_stylizing_2022' on page 18 undefined on input 
+line 263.
+
+
+LaTeX Warning: Citation 'mendoza_that_2024' on page 18 undefined on input line 
+263.
+
+
+LaTeX Warning: Citation 'zimman_variability_2017' on page 18 undefined on input
+ line 265.
+
+
+LaTeX Warning: Citation 'parnell-mooney_transgender_2019' on page 18 undefined 
+on input line 265.
+
+
+LaTeX Warning: Citation 'gratton_resisting_2016' on page 18 undefined on input 
+line 265.
+
+
+LaTeX Warning: Citation 'calder_fierceness_2019' on page 18 undefined on input 
+line 265.
+
+
+LaTeX Warning: Citation 'mendoza_that_2024' on page 18 undefined on input line 
+265.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 18 undefined on input line 
+265.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1148,6 +1884,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 2.
 [21]
+
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 22 undefined on i
+nput line 304.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 308--321
 [][]
  []
@@ -1159,6 +1900,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: Citation 'holmes-elliott_substance_2017' on page 22 undefined on
+ input line 343.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1167,6 +1912,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
+
+LaTeX Warning: Citation 'boersma_praat_2023' on page 23 undefined on input line
+ 346.
+
+
+LaTeX Warning: Citation 'forced_aligner' on page 23 undefined on input line 346
+.
+
+
+LaTeX Warning: Citation 'dicanio_spectral_2021' on page 23 undefined on input l
+ine 346.
+
+
+LaTeX Warning: Citation 'r_core_team_r_2025' on page 23 undefined on input line
+ 346.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1179,6 +1941,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
+
+LaTeX Warning: Citation 'calder_interrogating_2025' on page 24 undefined on inp
+ut line 354.
+
+
+LaTeX Warning: Citation 'zimman_beyond_2021' on page 24 undefined on input line
+ 354.
+
+
+Overfull \hbox (36.63pt too wide) in paragraph at lines 354--355
+\TU/Charis(0)/m/n/12 standard which will inevitably find them somehow faulty (s
+ee [];
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1204,6 +1980,18 @@ File: ./images/overall_plot.png Graphic file (type bmp)
 <./images/overall_plot.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'zimman_variability_2017' on page 27 undefined on input
+ line 397.
+
+
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 27 undefined on input 
+line 397.
+
+
+LaTeX Warning: Citation 'hazenberg_language_2012' on page 27 undefined on input
+ line 397.
 
 [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1249,6 +2037,10 @@ File: ./images/Jellyfish _plot.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 31 undefined on input 
+line 435.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1266,9 +2058,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
-File: ./images/Alpaca _plot.png Graphic file (type bmp)
-<./images/Alpaca _plot.png>
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1278,6 +2067,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
+File: ./images/Alpaca _plot.png Graphic file (type bmp)
+<./images/Alpaca _plot.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1309,6 +2101,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [36]
 
+LaTeX Warning: Citation 'podesva_sexuality_2015' on page 37 undefined on input 
+line 513.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1328,11 +2124,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [38]
 Chapter 4.
 
+LaTeX Warning: Citation 'heffernan_constructing_2023' on page 39 undefined on i
+nput line 527.
+
+
+LaTeX Warning: Citation 'jessee_cisgender_2025' on page 39 undefined on input l
+ine 527.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39
 
 ]
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 40 undefined on input line 
+534.
+
+
+LaTeX Warning: Citation 'zimman_hegemonic_2013' on page 40 undefined on input l
+ine 534.
+
+
+LaTeX Warning: Citation 'calder_sissy_2019' on page 40 undefined on input line 
+534.
+
+
+LaTeX Warning: Citation 'irvine_language_2000' on page 40 undefined on input li
+ne 536.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1383,9 +2204,21 @@ ers’ negotiation of cisheteronor-
  []
 
 
+LaTeX Warning: Citation 'barrett_sexuality_2024' on page 45 undefined on input 
+line 566.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
+
+LaTeX Warning: Citation 'calder_whose_2022' on page 46 undefined on input line 
+575.
+
+
+LaTeX Warning: Citation 'miles-hercules_real_2022' on page 46 undefined on inpu
+t line 575.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1414,148 +2247,10 @@ Appendix B.
 [51] [52
 
 ]
-Overfull \hbox (62.70346pt too wide) in paragraph at lines 607--607
-[][][][][] [][] [][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][
-][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][]$[][]
- []
 
+LaTeX Warning: Empty bibliography on input line 604.
 
-Overfull \hbox (5.63245pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 & Sons, Ltd, pp. 21–47. \TU/Charis(0)/m/sc/12 isbn\TU/Char
-is(0)/m/n/12 : 978-1-118-58424-8. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12
- : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (18.36554pt too wide) in paragraph at lines 607--607
-[][][]$[][]\TU/Charis(0)/m/n/12 . \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12
- : [][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] 
-[] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (20.68228pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 14698013. \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : 
-[][]$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][]
-[][][][]$[][] (visited on 11/05/2024). 
- []
-
-
-Overfull \hbox (38.64288pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 New York: Routledge. 272 pp. \TU/Charis(0)/m/sc/12 isbn\TU
-/Charis(0)/m/n/12 : 978-0-203-82497-9. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m
-/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
- []
-
-[53
-
-]
-Overfull \hbox (8.1195pt too wide) in paragraph at lines 607--607
-[][] [][] [][][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][][][][][
-][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][][][][][][]
-[][] []
- []
-
-
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
- doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
-][][][][][][][][][] []
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[54]
-Overfull \hbox (7.20007pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 bridge University Press. \TU/Charis(0)/m/sc/12 isbn\TU/Cha
-ris(0)/m/n/12 : 978-1-108-49189-1. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/1
-2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
- []
-
-
-Overfull \hbox (2.34131pt too wide) in paragraph at lines 607--607
-[][][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [][][] 
-[] [][][][][] [] [][][][][]$[][] \TU/Charis(0)/m/n/12 (visited on 10/03/2025). 
-
- []
-
-
-Overfull \hbox (4.08347pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 Feminine Speakers’ Commentaries on Voice and Being Heard”.
- PhD thesis. UCLA.
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55]
-Overfull \hbox (5.55797pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 End Girls: /s/-Fronting in Southeast England”. In: 13. \TU
-/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][][
-][][][][][] []
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[56]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[57]
-Overfull \hbox (24.03793pt too wide) in paragraph at lines 607--607
-\TU/Charis(0)/m/n/12 46.3, pp. 339–370. \TU/Charis(0)/m/sc/12 issn\TU/Charis(0)
-/m/n/12 : 0047-4045, 1469-8013. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12 :
- [][]$[][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][].
- []
-
-
-Overfull \hbox (112.61942pt too wide) in paragraph at lines 607--607
-[][][] [][] [][][][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][][][][
-][][] [][] [][][][][][][][][] [][] [][][] [][] [] [] [][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][]$[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[58]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[59] (./thesis.aux)
+(./thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1571,12 +2266,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23417 strings out of 478682
- 495793 string characters out of 5849006
- 1877018 words of memory out of 6000000
- 43245 multiletter control sequences out of 15000+600000
- 521513 words of font info for 101 fonts, out of 8000000 for 9000
+ 23228 strings out of 478682
+ 487068 string characters out of 5849006
+ 1864018 words of memory out of 6000000
+ 43059 multiletter control sequences out of 15000+600000
+ 521505 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,85p,2636b,5325s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,85p,2636b,1160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (75 pages).
+Output written on thesis.pdf (68 pages).
