@@ -1,48 +1,22 @@
-This is BibTeX, Version 0.99d (TeX Live 2023)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: thesis.aux
-I found no \citation commands---while reading file thesis.aux
-I found no \bibdata command---while reading file thesis.aux
-I found no \bibstyle command---while reading file thesis.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 486 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
-quote$ -- 0
-skip$ -- 0
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'thesis.blg'
+[55] biber:342> INFO - === Tue Apr 21, 2026, 12:07:54
+[66] Biber.pm:421> INFO - Reading 'thesis.bcf'
+[131] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[140] Biber.pm:4487> INFO - Processing section 0
+[147] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[149] bibtex.pm:1713> INFO - LaTeX decoding ...
+[200] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[560] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[560] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[560] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[596] bbl.pm:676> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[610] bbl.pm:779> INFO - Output to thesis.bbl
+[610] Biber.pm:132> WARN - Range field 'pages' in entry 'kiesling_style_2009' is malformed, falling back to literal
+[610] Biber.pm:132> WARN - Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal
+[610] Biber.pm:132> WARN - ISBN '978-0-19-510470-7 978-0-19-510471-4' in entry 'livia_queerly_1997' is invalid - run biber with '--validate_datamodel' for details.
+[610] Biber.pm:132> WARN - Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal
+[610] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'steele_enacting_2022' is invalid - run biber with '--validate_datamodel' for details.
+[610] Biber.pm:132> WARN - ISBN '978-0-19-021292-6 978-0-19-021294-0' in entry 'calder_gay_2020' is invalid - run biber with '--validate_datamodel' for details.
+[610] Biber.pm:134> INFO - WARNINGS: 6
