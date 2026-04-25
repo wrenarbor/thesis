@@ -1,23 +1,23 @@
 \contentsline {chapter}{Introduction}{1}{chapter*.7}%
-\contentsline {chapter}{Chapter 1: Literature Review}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Theoretical Motivations and Background}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}The Sociophonetics of /s/}{12}{section.1.2}%
-\contentsline {chapter}{Chapter 2: Methodology}{21}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Participants}{21}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Survey}{21}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Interviews}{22}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}Conversations}{22}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Analytical Approach}{24}{section.2.3}%
-\contentsline {chapter}{Chapter 3: Results}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Speaker 1: Mantis}{29}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Speaker 4: Jellyfish}{31}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Speaker 2: Alpaca}{34}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{36}{section.3.4}%
-\contentsline {chapter}{Chapter 4: Discussion}{39}{chapter.4}%
-\contentsline {section}{\numberline {4.1}The Issue of Accomodation}{40}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Motivations to Shift}{41}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Additional Observations: Resistance and Degrees of Control}{44}{section.4.3}%
-\contentsline {chapter}{Conclusion}{47}{chapter*.8}%
-\contentsline {section}{\numberline {5.4}Limitations and Directions for Future Research}{48}{section.5.4}%
-\contentsline {chapter}{Appendix A: Survey}{51}{appendix.A}%
-\contentsline {chapter}{Appendix B: Interview Questions}{53}{appendix.B}%
+\contentsline {chapter}{Chapter 1: Literature Review}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Theoretical Motivations and Background}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The Sociophonetics of /s/}{14}{section.1.2}%
+\contentsline {chapter}{Chapter 2: Methodology}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Participants}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Survey}{23}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Interviews}{24}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Conversations}{24}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Analytical Approach}{26}{section.2.3}%
+\contentsline {chapter}{Chapter 3: Results}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Speaker 1: Mantis}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Speaker 4: Jellyfish}{33}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Speaker 2: Alpaca}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Speaker 3: Squirrel}{38}{section.3.4}%
+\contentsline {chapter}{Chapter 4: Discussion}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The Issue of Accomodation}{42}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Motivations to Shift}{43}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Additional Observations: Resistance and Degrees of Control}{46}{section.4.3}%
+\contentsline {chapter}{Conclusion}{49}{chapter*.8}%
+\contentsline {section}{\numberline {5.4}Limitations and Directions for Future Research}{50}{section.5.4}%
+\contentsline {chapter}{Appendix A: Survey}{53}{appendix.A}%
+\contentsline {chapter}{Appendix B: Interview Questions}{55}{appendix.B}%
