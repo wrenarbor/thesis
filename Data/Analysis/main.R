@@ -65,12 +65,12 @@ load_s_measurements <- function() {
                                     "Mantis", "Alpaca", "Squirrel", "Jellyfish")),
     interlocutor_in_recording = factor(substr(label, 2, 2),
                                        levels = c("a", "b"),
-                                       labels = c("Trans Conv. Partner", 
-                                                  "Cis Conv.  Partner")),
+                                       labels = c("Trans CP", 
+                                                  "Cis CP")),
     participant = if_else(role_of_participant_measured == "speaker", 
                           speaker_in_recording,
                           interlocutor_in_recording),
-  ) -> recoded_s_measurements
+  )
 }
 
 s_measurements <- load_s_measurements()
@@ -83,13 +83,13 @@ overall_plot <- ggplot(s_measurements,
           vars(speaker_in_recording)) +
         scale_fill_pattern() + 
         theme_minimal() +
-        theme(legend.key.size = unit(2,"line"), text=element_text(size=10,  family="Charis")) +
-        labs(title = "Spectral Center of Gravity of [s] Across Recordings and Participants",
-             y = "[s] CoG (Center of Gravity, measured in Hz)", 
+        theme(legend.key.size = unit(2,"line"), text=element_text(size=16,  family="Charis")) +
+        labs(title = "Spectral Center of Gravity (CoG) of /s/ Across Recordings and Participants",
+             y = "/s/ CoG (Hz)", 
              x = "Conversation Partner in Recording",
              fill = "Participant", color = "Participant")
 
-ggsave(file="overall_plot.svg", plot=overall_plot, width=5, height=4)
+ggsave(file="~/Documents/Reed/Thesis/Document/thesistemplate_2020-04-24/images/overall_plot.png", plot=overall_plot, width=10, height=8, )
 
 speaker_specific_boxplot <- function(speaker) {
   speaker_s_measurements <- 
@@ -106,16 +106,16 @@ speaker_specific_boxplot <- function(speaker) {
       limits=levels(s_measurements$participant),
       breaks=unique(speaker_s_measurements$participant)) +
     theme_minimal() +
-    theme(legend.key.size = unit(2,"line"), text=element_text(size=14,  family="Charis")) +
-    labs(title = paste("Spectral Center of Gravity of [s] Pronounciations by", speaker, "and Conversation Partners"),
-         y = "[s] CoG (Center of Gravity, measured in Hz)", 
+    theme(legend.key.size = unit(2,"line"), text=element_text(size=16,  family="Charis")) +
+    labs(title = paste("Spectral Center of Gravity (CoG) of /s/ by", speaker, "and CPs"),
+         y = "/s/ CoG (Hz)", 
          x = "Conversation Partner in Recording",
          fill = "Participant", color = "Participant")
   
 }
 
 for (speaker in levels(s_measurements$speaker_in_recording)) {
-  ggsave(file=paste(speaker,"_plot.png"), plot=speaker_specific_boxplot(speaker), width=10, height=8)
+  ggsave(file=paste("~/Documents/Reed/Thesis/Document/thesistemplate_2020-04-24/images/", speaker,"_plot.png", sep=""), plot=speaker_specific_boxplot(speaker), width=10, height=8)
 }
 
 speaker_specific_boxplot("Mantis")
