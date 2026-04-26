@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  25 APR 2026 12:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  25 APR 2026 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,6 +910,12 @@ Overfull \hbox (2.89172pt too wide) in paragraph at lines 140--142
 xploration within queer
  []
 
+
+Overfull \hbox (0.52533pt too wide) in paragraph at lines 140--142
+\TU/Charis(0)/m/n/12 one transgender woman and one cisgender woman, to fill thi
+s gap. I audio-recorded
+ []
+
 [11] [12
 
 ] [1
@@ -1640,12 +1646,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23417 strings out of 478682
- 495835 string characters out of 5849006
- 1877018 words of memory out of 6000000
- 43246 multiletter control sequences out of 15000+600000
+ 23420 strings out of 478682
+ 495880 string characters out of 5849006
+ 1876018 words of memory out of 6000000
+ 43249 multiletter control sequences out of 15000+600000
  521513 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,85p,2244b,5327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,85p,2411b,5327s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on thesis.pdf (79 pages).
