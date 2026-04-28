@@ -644,6 +644,7 @@
       \field{extraname}{3}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -664,6 +665,74 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190212926.013.49
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
+      \endverb
+    \endentry
+    \entry{calder_from_2020}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b45bbc3f03e43d999a98989046b59ff}{%
+           family={Calder},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+        {{hash=424ea24e78058161b830c82bf04276be}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Rusty},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{fullhashraw}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{bibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorbibnamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{authorfullhashraw}{7b45bbc3f03e43d999a98989046b59ff}
+      \strng{editorbibnamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editornamehash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhash}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \strng{editorfullhashraw}{1dc11ed6829735c6d62f81fb0ba6acc9}
+      \field{extraname}{4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Oxford Handbook of Language and Sexuality}
+      \field{day}{15}
+      \field{edition}{1}
+      \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
+      \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.49
       \endverb
@@ -723,7 +792,7 @@
       \strng{editornamehash}{5843323dcde96cd34fb2602c0037630a}
       \strng{editorfullhash}{decc97d8a2083a46f7090962157f4f2c}
       \strng{editorfullhashraw}{decc97d8a2083a46f7090962157f4f2c}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
