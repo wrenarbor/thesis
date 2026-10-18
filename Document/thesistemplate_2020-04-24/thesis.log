@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.3.30)  28 APR 2026 12:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.5.3)  10 MAY 2026 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -777,26 +777,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 
-(./thesis.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'kiesling_style_2009':
-(biblatex)                - Range field 'pages' in entry 'kiesling_style_2009' 
-is malformed, falling back to literal.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'livia_its_1997':
-(biblatex)                - Range field 'pages' in entry 'livia_its_1997' is ma
-lformed, falling back to literal.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'zimman_transgender_2020':
-(biblatex)                - Range field 'pages' in entry 'zimman_transgender_20
-20' is malformed, falling back to literal.
-
-)
+(./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 87.
 Package biblatex Info: Reference segment=0 on input line 87.
 
@@ -1609,63 +1590,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [59] [60
 
 ]
-Overfull \hbox (62.70346pt too wide) in paragraph at lines 855--855
-[][][][][] [][] [][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][
-][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][]$[][]
- []
-
-
 Overfull \hbox (5.63245pt too wide) in paragraph at lines 855--855
 \TU/Charis(0)/m/n/12 & Sons, Ltd, pp. 21–47. \TU/Charis(0)/m/sc/12 isbn\TU/Char
 is(0)/m/n/12 : 978-1-118-58424-8. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12
  : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][] []
  []
 
-
-Overfull \hbox (18.36554pt too wide) in paragraph at lines 855--855
-[][][]$[][]\TU/Charis(0)/m/n/12 . \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12
- : [][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] 
-[] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (20.68228pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 14698013. \TU/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : 
-[][]$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][]
-[][][][]$[][] (visited on 11/05/2024). 
- []
-
-
-Overfull \hbox (38.64288pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 New York: Routledge. 272 pp. \TU/Charis(0)/m/sc/12 isbn\TU
-/Charis(0)/m/n/12 : 978-0-203-82497-9. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m
-/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
- []
-
 [61
 
 ]
-Overfull \hbox (8.1195pt too wide) in paragraph at lines 855--855
-[][] [][] [][][][][][][] [][] [] [][] [][][][][][][][][][] [][] [][][][][][][][
-][][][][][] [][] [][][][][][][] [][] [][][][][][] [][] [][][][][][][][][][][][]
-[][] []
- []
-
-
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
- doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
-][][][][][][][][][] []
- []
-
-
-Overfull \hbox (15.40875pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 978-0-19-021292-6 978-0-19-021294-0. \TU/Charis(0)/m/sc/12
- doi\TU/Charis(0)/m/n/12 : [][]$[][] [] [][][][] [] [][][][][][][][] [] [][][][
-][][][][][][][][][] []
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1678,25 +1611,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Overfull \hbox (7.20007pt too wide) in paragraph at lines 855--855
 \TU/Charis(0)/m/n/12 bridge University Press. \TU/Charis(0)/m/sc/12 isbn\TU/Cha
 ris(0)/m/n/12 : 978-1-108-49189-1. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/1
-2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][].
+2 : [][]$[][] [] [][][][] [] [][][][][][][][][][][][][]$[][]. 
  []
 
 
-Overfull \hbox (2.34131pt too wide) in paragraph at lines 855--855
-[][][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][] [] [][][] 
-[] [][][][][] [] [][][][][]$[][] \TU/Charis(0)/m/n/12 (visited on 10/03/2025). 
-
+Overfull \hbox (9.54822pt too wide) in paragraph at lines 855--855
+\TU/Charis(0)/m/n/12 struction of Non-binary Transgender Identities”. In: 7. \T
+U/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][]
+[][][][][][] []
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[63]
 Overfull \hbox (4.08347pt too wide) in paragraph at lines 855--855
 \TU/Charis(0)/m/n/12 Feminine Speakers’ Commentaries on Voice and Being Heard”.
  PhD thesis. UCLA.
@@ -1710,11 +1635,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[63]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [64]
-Overfull \hbox (5.55797pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 End Girls: /s/-Fronting in Southeast England”. In: 13. \TU
-/Charis(0)/m/sc/12 url\TU/Charis(0)/m/n/12 : [][]$[][][][][] [] [] [] [][][][][
-][][][][][] []
+Overfull \hbox (4.31198pt too wide) in paragraph at lines 855--855
+[][]\TU/Charis(0)/m/n/12 Zimman, Lal (2020). “Transgender Language, Transgender
+ Moment: Toward a Trans
  []
 
 
@@ -1734,29 +1667,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66]
-Overfull \hbox (24.03793pt too wide) in paragraph at lines 855--855
-\TU/Charis(0)/m/n/12 46.3, pp. 339–370. \TU/Charis(0)/m/sc/12 issn\TU/Charis(0)
-/m/n/12 : 0047-4045, 1469-8013. \TU/Charis(0)/m/sc/12 doi\TU/Charis(0)/m/n/12 :
- [][]$[][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][].
- []
-
-
-Overfull \hbox (112.61942pt too wide) in paragraph at lines 855--855
-[][][] [][] [][][][][][][][][][][][] [][] [][][][][][][] [][] [][][][][][][][][
-][][] [][] [][][][][][][][][] [][] [][][] [][] [] [] [][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][]$[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[67] (./thesis.aux)
+[66] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 620E570211AE4B7F33A0463E1FB2B0F7;4602.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
@@ -1764,12 +1675,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23764 strings out of 478682
- 501925 string characters out of 5849006
- 1876018 words of memory out of 6000000
- 43589 multiletter control sequences out of 15000+600000
+ 23765 strings out of 478682
+ 501939 string characters out of 5849007
+ 1868018 words of memory out of 6000000
+ 43590 multiletter control sequences out of 15000+600000
  521513 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,85p,2543b,5323s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,85p,2540b,5305s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (83 pages).
+Output written on thesis.pdf (82 pages).

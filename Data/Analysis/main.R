@@ -98,24 +98,23 @@ speaker_specific_boxplot <- function(speaker) {
     speaker_s_measurements, 
     aes(
       x = interlocutor_in_recording, 
-      y = cog, color = participant, fill = participant
+      y = cog, color = participant, fill = participant,
     )
-  ) + geom_boxplot() +
-    scale_fill_pattern(patterns = c(1, 5, 6)) +
+  ) + geom_boxplot(size=1.1) +
+   scale_fill_pattern(patterns = c(1, 5, 6), bg=NA, fg = NA, fade=0.6) +
     scale_color_discrete(
       limits=levels(s_measurements$participant),
       breaks=unique(speaker_s_measurements$participant)) +
     theme_minimal() +
-    theme(legend.key.size = unit(2,"line"), text=element_text(size=16,  family="Charis")) +
-    labs(title = paste("Spectral Center of Gravity (CoG) of /s/ by", speaker, "and CPs"),
-         y = "/s/ CoG (Hz)", 
+    theme(legend.key.size = unit(2,"line"), text=element_text(size=28,  family="EB Garamond")) +
+    labs(title = paste("/s/ Pronounciations by", speaker, "and CPs"),
+         y = "/s/ Center of Gravity (Hz)", 
          x = "Conversation Partner in Recording",
          fill = "Participant", color = "Participant")
-  
 }
 
 for (speaker in levels(s_measurements$speaker_in_recording)) {
-  ggsave(file=paste("~/Documents/Reed/Thesis/Document/thesistemplate_2020-04-24/images/", speaker,"_plot.png", sep=""), plot=speaker_specific_boxplot(speaker), width=10, height=8)
+  ggsave(file=paste("~/Documents/Reed/Thesis/Document/thesistemplate_2020-04-24/images/", speaker,"_plot_garamond.png", sep=""), plot=speaker_specific_boxplot(speaker), width=10, height=8)
 }
 
 speaker_specific_boxplot("Mantis")

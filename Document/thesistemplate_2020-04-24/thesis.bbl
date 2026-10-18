@@ -86,31 +86,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{I hope to engage with this theory which relativizes indexicality through the notion of individuals having their own indexical inventories (subsets of the whole indexical fields of the variables they are aware of) and considers misrecognition of indexical meanings a place for power to enter the indexicality structure, specifically whether it is consonant with, or in tension against, performativity theory and queer theory.}
-      \field{day}{21}
-      \field{issn}{0084-6570, 1545-4290}
-      \field{issue}{Volume 53, 2024}
       \field{journaltitle}{Annual Review of Anthropology}
-      \field{langid}{english}
-      \field{month}{10}
       \field{shorttitle}{Sexuality Discourses}
       \field{title}{Sexuality Discourses: Indexical Misrecognition and the Politics of Sex}
-      \field{urlday}{13}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{53}
       \field{year}{2024}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{127\bibrangedash 146}
       \range{pages}{20}
       \verb{doi}
       \verb 10.1146/annurev-anthro-052721-092531
-      \endverb
-      \verb{urlraw}
-      \verb https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-052721-092531
-      \endverb
-      \verb{url}
-      \verb https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-052721-092531
       \endverb
     \endentry
     \entry{becker_beyond_2022}{article}{}{}
@@ -148,30 +133,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{0954-3945, 1469-8021}
       \field{journaltitle}{Language Variation and Change}
-      \field{langid}{english}
-      \field{month}{7}
       \field{number}{2}
       \field{shorttitle}{Beyond binary gender}
       \field{title}{Beyond binary gender: creaky voice, gender, and the variationist enterprise}
-      \field{urlday}{3}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{volume}{34}
       \field{year}{2022}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{215\bibrangedash 238}
       \range{pages}{24}
       \verb{doi}
       \verb 10.1017/S0954394522000138
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/journals/language-variation-and-change/article/beyond-binary-gender-creaky-voice-gender-and-the-variationist-enterprise/63F2D76D8874D095FFBDC445FECB4532
       \endverb
     \endentry
     \entry{benesch_stylizing_2022}{thesis}{}{}
@@ -197,11 +169,9 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{1}
-      \field{month}{5}
       \field{shorttitle}{/s/tylizing the /s/elf}
       \field{title}{/s/tylizing the /s/elf: A First Look into the Concurrent Fluidity of Gender and Language}
-      \field{type}{phdthesis}
+      \field{type}{bathesis}
       \field{year}{2022}
       \field{dateera}{ce}
       \verb{doi}
@@ -276,24 +246,13 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The Handbook of Language, Gender, and Sexuality}
       \field{isbn}{978-1-118-58424-8}
-      \field{langid}{english}
       \field{title}{The Feminist Foundations of Language, Gender, and Sexuality Research}
-      \field{urlday}{2}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
       \field{year}{2014}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{21\bibrangedash 47}
       \range{pages}{27}
       \verb{doi}
       \verb 10.1002/9781118584248.ch1
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118584248.ch1
       \endverb
     \endentry
     \entry{bucholtz_theorizing_2004}{article}{}{}
@@ -326,17 +285,12 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{00474045, 14698013}
       \field{journaltitle}{Language in Society}
       \field{number}{4}
       \field{title}{Theorizing Identity in Language and Sexuality Research}
-      \field{urlday}{5}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
       \field{volume}{33}
       \field{year}{2004}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{469\bibrangedash 515}
       \range{pages}{47}
       \verb{urlraw}
@@ -376,18 +330,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{1461-4456}
       \field{journaltitle}{Discourse Studies}
       \field{number}{4}
       \field{shorttitle}{Identity and interaction}
       \field{title}{Identity and interaction: a sociocultural linguistic approach}
-      \field{urlday}{20}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{volume}{7}
       \field{year}{2005}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{585\bibrangedash 614}
       \range{pages}{30}
       \verb{urlraw}
@@ -431,17 +380,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Language and Identities}
-      \field{day}{31}
       \field{isbn}{978-0-7486-3578-8}
-      \field{langid}{english}
-      \field{month}{1}
       \field{title}{Locating Identity in Language}
-      \field{urlday}{19}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{year}{2010}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{18\bibrangedash 28}
       \range{pages}{11}
       \verb{urlraw}
@@ -483,24 +425,12 @@
       \field{annotation}{A foundational text to third-wave feminism, I take up Butler's theorization of gender as performative for my analysis.}
       \field{edition}{0}
       \field{isbn}{978-0-203-82497-9}
-      \field{langid}{english}
-      \field{pagetotal}{272}
       \field{shorttitle}{Gender Trouble}
       \field{title}{Gender Trouble: Feminism and the Subversion of Identity}
-      \field{urlday}{8}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{1990}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.4324/9780203824979
-      \endverb
-      \verb{urlraw}
-      \verb https://www.taylorfrancis.com/books/9781136783241
-      \endverb
-      \verb{url}
-      \verb https://www.taylorfrancis.com/books/9781136783241
       \endverb
     \endentry
     \entry{calder_sissy_2019}{article}{}{}
@@ -529,29 +459,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{Part of Calder's work on SoMa drag queens, I use this paper for its discussion of the indexicality of /s/: it theorizes meanings of /s/ as belonging to indexical orders which form along strata of fractal recursivity, and raises the insight that the presentation of the body is part of the stylistic context which determines at which indexical order /s/ behavior will be interpreted through.}
-      \field{issn}{1548-1395}
       \field{journaltitle}{Journal of Linguistic Anthropology}
-      \field{langid}{english}
       \field{number}{3}
       \field{shorttitle}{From Sissy to Sickening}
       \field{title}{From Sissy to Sickening: The Indexical Landscape of /s/ in {SoMa}, San Francisco}
-      \field{urlday}{4}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{29}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{332\bibrangedash 358}
       \range{pages}{27}
       \verb{doi}
       \verb 10.1111/jola.12218
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jola.12218
       \endverb
     \endentry
     \entry{calder_fierceness_2019}{article}{}{}
@@ -579,30 +497,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{0047-4045, 1469-8013}
       \field{journaltitle}{Language in Society}
-      \field{langid}{english}
-      \field{month}{2}
       \field{number}{1}
       \field{shorttitle}{The fierceness of fronted /s/}
       \field{title}{The fierceness of fronted /s/: Linguistic rhematization through visual transformation}
-      \field{urlday}{11}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{48}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{31\bibrangedash 64}
       \range{pages}{34}
       \verb{doi}
       \verb 10.1017/S004740451800115X
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/fierceness-of-fronted-s-linguistic-rhematization-through-visual-transformation/ADD4290AEAAA81B3474898265590BDD6
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/fierceness-of-fronted-s-linguistic-rhematization-through-visual-transformation/ADD4290AEAAA81B3474898265590BDD6
       \endverb
     \endentry
     \entry{calder_gay_2020}{incollection}{}{}
@@ -651,28 +556,15 @@
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{Part of Calder's work on SoMa drag queens, I use this paper for its review of prior literature on /s/, and engage with its conceptualization of /s/'s iconicity.}
       \field{booktitle}{The Oxford Handbook of Language and Sexuality}
-      \field{day}{15}
       \field{edition}{1}
       \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
-      \field{langid}{english}
-      \field{month}{12}
       \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
       \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2020}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.49
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
       \endverb
     \endentry
     \entry{calder_from_2020}{incollection}{}{}
@@ -720,27 +612,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{The Oxford Handbook of Language and Sexuality}
-      \field{day}{15}
       \field{edition}{1}
       \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
-      \field{langid}{english}
-      \field{month}{12}
       \field{shorttitle}{From “Gay Lisp” to “Fierce Queen”}
       \field{title}{From “Gay Lisp” to “Fierce Queen”: The Sociophonetics of Sexuality’s Most Iconic Variable}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2020}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.49
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358158508
       \endverb
     \endentry
     \entry{calder_whose_2021}{inproceedings}{}{}
@@ -752,27 +631,10 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{4}{}{%
-        {{hash=270953237f29fe505ccc49b2fe1bc9a9}{%
-           family={Coons},
-           familyi={C\bibinitperiod},
-           given={Caitie},
-           giveni={C\bibinitperiod}}}%
-        {{hash=cffbe88f439fd273d7075a37cbad3c22}{%
-           family={Chronis},
-           familyi={C\bibinitperiod},
-           given={Gabriella},
-           giveni={G\bibinitperiod}}}%
-        {{hash=15c7bde3f58fbb8ef04de872f99a358b}{%
-           family={Pierson},
-           familyi={P\bibinitperiod},
-           given={Sofia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=d52ab771d99615c3471d7b4b45f2e564}{%
-           family={Govindarajan},
-           familyi={G\bibinitperiod},
-           given={Venkat},
-           giveni={V\bibinitperiod}}}%
+      \name{editor}{1}{}{%
+        {{hash=7fc2b2e41f9bbd26266473cab13ae3c6}{%
+           family={{Caitie Coons, Gabriella Chronis, Sofia Pierson, and Venkat Govindarajan}},
+           familyi={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Texas}%
@@ -788,10 +650,10 @@
       \strng{authornamehash}{7b45bbc3f03e43d999a98989046b59ff}
       \strng{authorfullhash}{7b45bbc3f03e43d999a98989046b59ff}
       \strng{authorfullhashraw}{7b45bbc3f03e43d999a98989046b59ff}
-      \strng{editorbibnamehash}{5843323dcde96cd34fb2602c0037630a}
-      \strng{editornamehash}{5843323dcde96cd34fb2602c0037630a}
-      \strng{editorfullhash}{decc97d8a2083a46f7090962157f4f2c}
-      \strng{editorfullhashraw}{decc97d8a2083a46f7090962157f4f2c}
+      \strng{editorbibnamehash}{7fc2b2e41f9bbd26266473cab13ae3c6}
+      \strng{editornamehash}{7fc2b2e41f9bbd26266473cab13ae3c6}
+      \strng{editorfullhash}{7fc2b2e41f9bbd26266473cab13ae3c6}
+      \strng{editorfullhashraw}{7fc2b2e41f9bbd26266473cab13ae3c6}
       \field{extraname}{5}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -842,28 +704,16 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1747-6321}
       \field{journaltitle}{Gender and Language}
-      \field{month}{2}
       \field{number}{3}
       \field{title}{Interrogating the cisgender listening subject in the study of trans voices}
-      \field{urlday}{6}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2025}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{216\bibrangedash 239}
       \range{pages}{24}
       \verb{doi}
       \verb 10.3138/gl-2024-18.3-0002
-      \endverb
-      \verb{urlraw}
-      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
-      \endverb
-      \verb{url}
-      \verb https://utppublishing.com/doi/10.3138/gl-2024-18.3-0002
       \endverb
     \endentry
     \entry{calder_whose_2022}{article}{}{}
@@ -896,29 +746,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{I use this paper as an example of a raciolinguistic approach to the study of /s/ which attempts to decenter the white indexical field, and illustrates the whiteness of the traditional sociolinguistics structure of /s/ meanings.}
-      \field{issn}{1467-9841}
       \field{journaltitle}{Journal of Sociolinguistics}
-      \field{langid}{english}
       \field{number}{5}
       \field{shorttitle}{Whose gendered voices matter?}
       \field{title}{Whose gendered voices matter?: Race and gender in the articulation of /s/ in Bakersfield, California}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{26}
       \field{year}{2022}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{604\bibrangedash 623}
       \range{pages}{20}
       \verb{doi}
       \verb 10.1111/josl.12584
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12584
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12584
       \endverb
     \endentry
     \entry{campbell-kibler_intersecting_2011}{article}{}{}
@@ -945,30 +783,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{A perception study of /s/ which finds social meanings of ``less masculine, more gay, and less competent'' arise for fronted /s/ within certain stylistic contexts of an (otherwise) male-sounding voice. I use this as one of the baseline studies of the hegemonic meanings of /s/.}
-      \field{day}{1}
-      \field{issn}{0003-1283}
       \field{journaltitle}{American Speech}
-      \field{month}{2}
       \field{number}{1}
       \field{shortjournal}{American Speech}
       \field{title}{Intersecting Variables and Perceived Sexual Orientation in Men}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{86}
       \field{year}{2011}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{52\bibrangedash 68}
       \range{pages}{17}
       \verb{doi}
       \verb 10.1215/00031283-1277510
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1215/00031283-1277510
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1215/00031283-1277510
       \endverb
     \endentry
     \entry{deleuze_november_1987}{incollection}{}{}
@@ -1086,28 +911,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{I take up the concept of the indexical field, a way of theorizing the different social meanings a sociolinguistic variable can index, that this paper introduces.}
-      \field{issn}{1467-9841}
       \field{journaltitle}{Journal of Sociolinguistics}
-      \field{langid}{english}
       \field{number}{4}
       \field{title}{Variation and the indexical field}
-      \field{urlday}{14}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{12}
       \field{year}{2008}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{453\bibrangedash 476}
       \range{pages}{24}
       \verb{doi}
       \verb 10.1111/j.1467-9841.2008.00374.x
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2008.00374.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2008.00374.x
       \endverb
     \endentry
     \entry{eckert_three_2012}{article}{}{}
@@ -1134,32 +947,18 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{21}
-      \field{issn}{0084-6570, 1545-4290}
       \field{journaltitle}{Annual Review of Anthropology}
-      \field{langid}{english}
-      \field{month}{10}
       \field{number}{1}
       \field{shortjournal}{Annu. Rev. Anthropol.}
       \field{shorttitle}{Three Waves of Variation Study}
       \field{title}{Three Waves of Variation Study: The Emergence of Meaning in the Study of Sociolinguistic Variation}
-      \field{urlday}{12}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
       \field{volume}{41}
       \field{year}{2012}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{87\bibrangedash 100}
       \range{pages}{14}
       \verb{doi}
       \verb 10.1146/annurev-anthro-092611-145828
-      \endverb
-      \verb{urlraw}
-      \verb https://www.annualreviews.org/doi/10.1146/annurev-anthro-092611-145828
-      \endverb
-      \verb{url}
-      \verb https://www.annualreviews.org/doi/10.1146/annurev-anthro-092611-145828
       \endverb
     \endentry
     \entry{flipsen_acoustic_1999}{article}{}{}
@@ -1189,7 +988,7 @@
            giveni={H\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=ffded8c67c3a82b1d5a536a17ea05778}{%
-           family={{McSweeny}},
+           family={McSweeny},
            familyi={M\bibinitperiod},
            given={Jane},
            giveni={J\bibinitperiod},
@@ -1210,7 +1009,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{I use this paper as a reference on ``typical'' /s/ pronunciations in the cishet white western normative english sphere, esp. for its review of 21 prior studies on /s/.}
-      \field{issn}{1092-4388}
       \field{journaltitle}{Journal of speech, language, and hearing research}
       \field{number}{3}
       \field{title}{Acoustic Characteristics of /s/ in Adolescents}
@@ -1253,31 +1051,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This study theorizes the white listening subject as highly relevant to racially minoritized people's linguistic experience. I hope to bring it into my analysis of how race is working within my study, as well as to emphasize the importance of making culturally-specific claims.}
-      \field{day}{1}
-      \field{issn}{1943-5045, 0017-8055}
       \field{journaltitle}{Harvard Educational Review}
-      \field{langid}{english}
-      \field{month}{6}
       \field{number}{2}
       \field{shorttitle}{Undoing Appropriateness}
       \field{title}{Undoing Appropriateness: Raciolinguistic Ideologies and Language Diversity in Education}
-      \field{urlday}{9}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{85}
       \field{year}{2015}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{149\bibrangedash 171}
       \range{pages}{23}
       \verb{doi}
       \verb 10.17763/0017-8055.85.2.149
-      \endverb
-      \verb{urlraw}
-      \verb https://meridian.allenpress.com/her/article/85/2/149/32176/Undoing-Appropriateness-Raciolinguistic-Ideologies
-      \endverb
-      \verb{url}
-      \verb https://meridian.allenpress.com/her/article/85/2/149/32176/Undoing-Appropriateness-Raciolinguistic-Ideologies
       \endverb
     \endentry
     \entry{fuchs_differences_2010}{incollection}{}{}
@@ -1335,17 +1119,10 @@
       \field{labeltitlesource}{title}
       \field{annotation}{An electropalatographic study of /s/ which determines that differences in /s/ pitch are caused by differences in tongue position, and considers whether variation in /s/ is socially constructed, or a result of so-called `biological sex'. I use this paper for its articulatory findings.}
       \field{booktitle}{Turbulent Sounds: An Interdisciplinary Guide}
-      \field{day}{29}
       \field{isbn}{978-3-11-022658-4}
-      \field{langid}{english}
-      \field{month}{4}
       \field{title}{Do differences in male versus female /s/ reflect biological or sociophonetic factors?}
-      \field{urlday}{26}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{year}{2010}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{281\bibrangedash 302}
       \range{pages}{22}
       \verb{urlraw}
@@ -1385,18 +1162,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{0037-783X}
       \field{journaltitle}{Social Research}
       \field{number}{4}
       \field{shorttitle}{The Boundaries of Languages and Disciplines}
       \field{title}{The Boundaries of Languages and Disciplines: How Ideologies Construct Difference}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
       \field{volume}{62}
       \field{year}{1995}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{967\bibrangedash 1001}
       \range{pages}{35}
       \verb{urlraw}
@@ -1445,20 +1217,10 @@
       \field{isbn}{978-1-108-49189-1}
       \field{shorttitle}{Signs of Difference}
       \field{title}{Signs of Difference: Language and Ideology in Social Life}
-      \field{urlday}{4}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1017/9781108649209
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/books/signs-of-difference/E69813363E4CD9927C6C8E1BD2FC3011
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/books/signs-of-difference/E69813363E4CD9927C6C8E1BD2FC3011
       \endverb
     \endentry
     \entry{giles_communication_2016}{book}{}{}
@@ -1519,18 +1281,11 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{1}
-      \field{langid}{english}
-      \field{month}{12}
       \field{number}{7}
       \field{shorttitle}{Resisting the Gender Binary}
       \field{title}{Resisting the Gender Binary: The Use of ({ING}) in the Construction of Non-binary Transgender Identities}
-      \field{urlday}{3}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{year}{2016}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://repository.upenn.edu/handle/20.500.14332/45127
       \endverb
@@ -1565,16 +1320,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{A study of /s/ production in Ottowa, Ontario which includes trans women. One of the sources in my primary prior literature, I refer to its findings that trans women's /s/ production was significantly different from cis people's, and closer to cis women's than to cis men's.}
-      \field{langid}{english}
       \field{shorttitle}{Language and identity practice}
       \field{title}{Language and identity practice : a sociolinguistic study of gender in Ottawa, Ontario}
       \field{type}{masters}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2012}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://research.library.mun.ca/2346/
       \endverb
@@ -1609,16 +1359,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This study of transfeminine people's metalinguistic commentaries about the voice and being heard emphasizes the importance of the concept of the listening subject (see \cite{calder_whose_2021, flores_undoing_2015, inoue_listening_2003}). I use this for its findings on transfeminine people's understanding of the cis gaze.}
-      \field{langid}{english}
       \field{shorttitle}{Constructing the “Cisgender Listening Subject”}
       \field{title}{Constructing the “Cisgender Listening Subject”: Trans-Feminine Speakers’ Commentaries on Voice and Being Heard}
       \field{type}{phdthesis}
-      \field{urlday}{6}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2023}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://escholarship.org/uc/item/5568m53k
       \endverb
@@ -1659,24 +1404,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Reference Module in Social Sciences}
-      \field{day}{1}
       \field{isbn}{978-0-443-15785-1}
-      \field{month}{1}
       \field{title}{Performative Language}
-      \field{urlday}{13}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{year}{2025}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1016/B978-0-323-95504-1.00654-2
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/B9780323955041006542
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/B9780323955041006542
       \endverb
     \endentry
     \entry{holmes-elliott_substance_2017}{article}{}{}
@@ -1709,31 +1442,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This study of /s/ and style reveals style-shifting of /s/ to pertain not only to gender, but aditionally to stance. I take this into consideration in the design of my methodology.}
-      \field{day}{1}
-      \field{issn}{1613-396X}
       \field{journaltitle}{Linguistics}
-      \field{langid}{english}
-      \field{month}{9}
       \field{number}{5}
       \field{shorttitle}{The substance of style}
       \field{title}{The substance of style: Gender, social class and interactional stance in /s/-fronting in southeast England}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{55}
       \field{year}{2017}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1045\bibrangedash 1072}
       \range{pages}{28}
       \verb{doi}
       \verb 10.1515/ling-2017-0020
-      \endverb
-      \verb{urlraw}
-      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0020/html
-      \endverb
-      \verb{url}
-      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0020/html
       \endverb
     \endentry
     \entry{inoue_listening_2003}{article}{}{}
@@ -1761,29 +1480,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This study of impact of the everpresence of a male listening subject on Japanese women's speech introduces the concept of the listening subject to the study of langauge and gender. I use the concept of the listening subject in my analysis.}
-      \field{issn}{1548-1360}
       \field{journaltitle}{Cultural Anthropology}
-      \field{langid}{english}
       \field{number}{2}
       \field{shorttitle}{The Listening Subject of Japanese Modernity and His Auditory Double}
       \field{title}{The Listening Subject of Japanese Modernity and His Auditory Double: Citing, Sighting, and Siting the Modern Japanese Woman}
-      \field{urlday}{9}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2003}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{156\bibrangedash 193}
       \range{pages}{38}
       \verb{doi}
       \verb 10.1525/can.2003.18.2.156
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/can.2003.18.2.156
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/can.2003.18.2.156
       \endverb
     \endentry
     \entry{inoue_what_2004}{article}{}{}
@@ -1810,30 +1517,18 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{1548-1395}
       \field{journaltitle}{Journal of Linguistic Anthropology}
-      \field{langid}{english}
       \field{number}{1}
       \field{shorttitle}{What Does Language Remember?}
       \field{title}{What Does Language Remember?: Indexical Inversion and the Naturalized History of Japanese Women}
-      \field{urlday}{9}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{14}
       \field{year}{2004}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{39\bibrangedash 56}
       \range{pages}{18}
       \verb{doi}
       \verb 10.1525/jlin.2004.14.1.39
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/jlin.2004.14.1.39
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1525/jlin.2004.14.1.39
       \endverb
     \endentry
     \entry{inoue_vicarious_2006}{book}{}{}
@@ -1995,29 +1690,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This paper find that cisgender listeners expect transwomen to produce higher frequency /s/ than ciswomen. An important finding as proof that trans voices are subject to greater scrutiny than cis voices when it comes to adherence to gender norms. Also, a good reason for me to focus on /s/! I cite it as emperical proof of the fact that trans voices are subject to greater scrutiny than cis voices.}
-      \field{day}{12}
-      \field{issn}{1467-9841}
-      \field{issue}{n/a}
       \field{journaltitle}{Journal of Sociolinguistics}
-      \field{langid}{english}
-      \field{month}{3}
+      \field{number}{3}
       \field{shorttitle}{The Cisgender Listening Subject in Sociolinguistic Perception}
       \field{title}{The Cisgender Listening Subject in Sociolinguistic Perception: Transgender Identity Affects Sibilant Categorization in American English}
-      \field{urlday}{6}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
-      \field{volume}{n/a}
+      \field{volume}{29}
       \field{year}{2025}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1111/josl.12702
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/josl.12702
       \endverb
     \endentry
     \entry{kiesling_style_2009}{incollection}{}{}
@@ -2058,30 +1739,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Stance: Sociolinguistic Perspectives}
-      \field{day}{4}
       \field{isbn}{978-0-19-533164-6}
-      \field{month}{6}
       \field{shorttitle}{Style as Stance}
       \field{title}{Style as Stance: Stance as the Explanation for Patterns of Sociolinguistic Variation}
-      \field{urlday}{16}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{year}{2009}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{0}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1093/acprof:oso/9780195331646.003.0008
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/acprof:oso/9780195331646.003.0008
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/acprof:oso/9780195331646.003.0008
-      \endverb
-      \warn{\item Range field 'pages' in entry 'kiesling_style_2009' is malformed, falling back to literal}
     \endentry
     \entry{levon_categories_2014}{article}{}{}
       \name{author}{1}{}{%
@@ -2106,17 +1772,12 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{0047-4045}
       \field{journaltitle}{Language in Society}
       \field{number}{5}
       \field{title}{Categories, stereotypes, and the linguistic perception of sexuality}
-      \field{urlday}{18}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{43}
       \field{year}{2014}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{539\bibrangedash 566}
       \range{pages}{28}
       \verb{urlraw}
@@ -2155,18 +1816,11 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{17}
-      \field{langid}{english}
-      \field{month}{10}
       \field{number}{13}
       \field{shorttitle}{East End Boys and West End Girls}
       \field{title}{East End Boys and West End Girls: /s/-Fronting in Southeast England}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{year}{2013}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://repository.upenn.edu/handle/20.500.14332/44918
       \endverb
@@ -2226,30 +1880,15 @@
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{I reference this introduction's discussion of the history of language and SGS scholarship up to 1997, specifically its discussion of the theoretical ties and tensions between the sociolinguistic literature and other fields including queer theory, feminism, and literary theory.}
       \field{booktitle}{Queerly Phrased: Language, Gender, and Sexuality}
-      \field{day}{20}
       \field{isbn}{978-0-19-510470-7}
-      \field{month}{11}
       \field{shorttitle}{“It's a Girl!”}
       \field{title}{“It's a Girl!”: Bringing Perfarmativity Back to Linguistics}
-      \field{urlday}{8}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{1997}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{0}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1093/oso/9780195104707.003.0001
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/oso/9780195104707.003.0001
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/oso/9780195104707.003.0001
-      \endverb
-      \warn{\item Range field 'pages' in entry 'livia_its_1997' is malformed, falling back to literal}
     \endentry
     \entry{livia_queerly_1997}{collection}{}{}
       \name{editor}{2}{}{%
@@ -2289,7 +1928,6 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{978-0-19-510470-7 978-0-19-510471-4}
-      \field{pagetotal}{460}
       \field{series}{Oxford studies in sociolinguistics}
       \field{shorttitle}{Queerly phrased}
       \field{title}{Queerly phrased: language, gender, and sexuality}
@@ -2331,18 +1969,11 @@
       \field{annotation}{This perception study of /s/ in Danish finds that although fronting is linked to the expected meanings of femininity and gayness when situated in a male voice, these associations do not hold in the context of a prosodic style associated with immigrants, showing the typically-associated meanings of /s/ to be hegemonic and ascribed to to white middle class contexts. I use this paper as an example of research which reveals the typical meaning structure of /s/ to be white.}
       \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
       \field{isbn}{978-0-19-021036-6}
-      \field{month}{12}
       \field{title}{/s/ Variation and Perceptions of Male Sexuality in Denmark}
       \field{year}{2015}
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1093/acprof:oso/9780190210366.003.0005
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0005
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0005
       \endverb
     \endentry
     \entry{forced_aligner}{inproceedings}{}{}
@@ -2424,31 +2055,18 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{1}
-      \field{issn}{1747-633X}
       \field{journaltitle}{Gender and Language}
-      \field{month}{7}
       \field{number}{3}
       \field{shortjournal}{Gender and Language}
       \field{shorttitle}{That /s/ tiene tumbao}
       \field{title}{That /s/ tiene tumbao: Chonga-fied Sibilants and the Disidentificatory Sociophonetics of Miami Latinx Drag}
-      \field{urlday}{13}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{2024}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{306\bibrangedash 327}
       \range{pages}{22}
       \verb{doi}
       \verb 10.3138/gl-2024-18.3-0006
-      \endverb
-      \verb{urlraw}
-      \verb https://research.ebsco.com/linkprocessor/plink?id=a135299f-2e9e-3fda-a6da-71cb9e681a11
-      \endverb
-      \verb{url}
-      \verb https://research.ebsco.com/linkprocessor/plink?id=a135299f-2e9e-3fda-a6da-71cb9e681a11
       \endverb
     \endentry
     \entry{miles-hercules_real_2022}{incollection}{}{}
@@ -2484,12 +2102,6 @@
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.70
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.70
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.70
       \endverb
     \endentry
     \entry{munson_influence_2006}{article}{}{}
@@ -2527,30 +2139,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{issn}{0001-4966}
       \field{journaltitle}{The Journal of the Acoustical Society of America}
-      \field{month}{4}
       \field{number}{4}
       \field{shortjournal}{J. Acoust. Soc. Am.}
       \field{title}{The influence of perceived sexual orientation on fricative identification}
-      \field{urlday}{25}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
       \field{volume}{119}
       \field{year}{2006}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{2427\bibrangedash 2437}
       \range{pages}{11}
       \verb{doi}
       \verb 10.1121/1.2173521
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1121/1.2173521
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1121/1.2173521
       \endverb
     \endentry
     \entry{parnell-mooney_transgender_2019}{thesis}{}{}
@@ -2580,24 +2179,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{A study quite similar to my intended methodology, compares transmasculine people's /s/ production across cisgender vs. transgender interlocutors and finds a difference! I cite this as a study I model my own after.}
-      \field{langid}{english}
       \field{shorttitle}{Tran/s/gender}
       \field{title}{Tran/s/gender: assessing the effects of the social construction of gender on speech: a focus on transgender /s/ realisations}
       \field{type}{{MPhil}(R)}
-      \field{urlday}{26}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{year}{2019}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.5525/gla.thesis.41151
-      \endverb
-      \verb{urlraw}
-      \verb https://eleanor.lib.gla.ac.uk/record=b3346280
-      \endverb
-      \verb{url}
-      \verb https://eleanor.lib.gla.ac.uk/record=b3346280
       \endverb
     \endentry
     \entry{pharao_indexical_2014}{article}{}{}
@@ -2641,30 +2229,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{0047-4045, 1469-8013}
       \field{journaltitle}{Language in Society}
-      \field{langid}{english}
-      \field{month}{2}
       \field{number}{1}
       \field{shorttitle}{Indexical meanings of [s+] among Copenhagen youth}
       \field{title}{Indexical meanings of [s+] among Copenhagen youth: Social perception of a phonetic variant in different prosodic contexts}
-      \field{urlday}{24}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{43}
       \field{year}{2014}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 31}
       \range{pages}{31}
       \verb{doi}
       \verb 10.1017/S0047404513000857
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/indexical-meanings-of-s-among-copenhagen-youth-social-perception-of-a-phonetic-variant-in-different-prosodic-contexts/76B4354FEDB55A819FADDF321620BC33
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/indexical-meanings-of-s-among-copenhagen-youth-social-perception-of-a-phonetic-variant-in-different-prosodic-contexts/76B4354FEDB55A819FADDF321620BC33
       \endverb
     \endentry
     \entry{podesva_phonation_2007}{article}{}{}
@@ -2690,29 +2265,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{1467-9841}
       \field{journaltitle}{Journal of Sociolinguistics}
-      \field{langid}{english}
       \field{number}{4}
       \field{shorttitle}{Phonation type as a stylistic variable}
       \field{title}{Phonation type as a stylistic variable: The use of falsetto in constructing a persona}
-      \field{urlday}{1}
-      \field{urlmonth}{10}
-      \field{urlyear}{2025}
       \field{volume}{11}
       \field{year}{2007}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{478\bibrangedash 504}
       \range{pages}{27}
       \verb{doi}
       \verb 10.1111/j.1467-9841.2007.00334.x
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2007.00334.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9841.2007.00334.x
       \endverb
     \endentry
     \entry{podesva_sexuality_2015}{incollection}{}{}
@@ -2765,27 +2328,15 @@
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{A study of /s/ production in Redding, California, which includes trans women. Similar to \textcite{hazenberg_language_2012}, finds significant differences between trans people and cis people, however also finds that trans people's /s/ patterns more with AGAB than gender identity; this is possibly due to the conservative nature of the town. I reference the data the paper finds on trans women's /s/ pronunciations.}
       \field{booktitle}{Language, Sexuality, and Power: Studies in Intersectional Sociolinguistics}
-      \field{day}{24}
       \field{isbn}{978-0-19-021036-6}
-      \field{month}{12}
       \field{shorttitle}{/s/exuality in Smalltown California}
       \field{title}{/s/exuality in Smalltown California: Gender Normativity and the Acoustic Realization of /s/}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2015}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{168\bibrangedash 188}
       \range{pages}{21}
       \verb{doi}
       \verb 10.1093/acprof:oso/9780190210366.003.0009
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/acprof:oso/9780190210366.003.0009
       \endverb
     \endentry
     \entry{r_core_team_r_2025}{software}{}{}
@@ -2887,31 +2438,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{21}
-      \field{issn}{2057-1720}
       \field{journaltitle}{Lifespans and Styles}
-      \field{langid}{english}
-      \field{month}{3}
       \field{number}{1}
       \field{shorttitle}{Jane Lynch and /s/}
       \field{title}{Jane Lynch and /s/: The Effect of Addressee Sexuality on Fricative Realization}
-      \field{urlday}{16}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{2}
       \field{year}{2016}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{10\bibrangedash 16}
       \range{pages}{7}
       \verb{doi}
       \verb 10.2218/ls.v2i1.2016.1426
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.ed.ac.uk/lifespansstyles/article/view/1426
-      \endverb
-      \verb{url}
-      \verb https://journals.ed.ac.uk/lifespansstyles/article/view/1426
       \endverb
     \endentry
     \entry{silverstein_indexical_2003}{article}{}{}
@@ -2939,31 +2476,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{I take up the concept of indexical orders as introduced in this paper.}
-      \field{day}{1}
-      \field{issn}{0271-5309}
       \field{journaltitle}{Language \& Communication}
-      \field{month}{7}
       \field{number}{3}
       \field{series}{Words and Beyond: Linguistic and Semiotic Studies of Sociocultural Order}
       \field{shortjournal}{Language \& Communication}
       \field{title}{Indexical order and the dialectics of sociolinguistic life}
-      \field{urlday}{9}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{23}
       \field{year}{2003}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{193\bibrangedash 229}
       \range{pages}{37}
       \verb{doi}
       \verb 10.1016/S0271-5309(03)00013-2
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0271530903000132
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0271530903000132
       \endverb
     \endentry
     \entry{silverstein_language_2023}{book}{}{}
@@ -3067,27 +2591,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{The Oxford Handbook of Language and Sexuality}
-      \field{day}{20}
       \field{edition}{1}
       \field{isbn}{978-0-19-021292-6 978-0-19-021294-0}
-      \field{langid}{english}
-      \field{month}{4}
       \field{shorttitle}{Enacting New Worlds of Gender}
       \field{title}{Enacting New Worlds of Gender: Nonbinary Speakers, Racialized Gender, and Anti-Colonialism}
-      \field{urlday}{5}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{year}{2022}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.74
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358160465
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/edited-volume/42645/chapter/358160465
       \endverb
     \endentry
     \entry{strand_uncovering_1999}{article}{}{}
@@ -3113,29 +2624,16 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{issn}{0261-927X}
       \field{journaltitle}{Journal of Language and Social Psychology}
-      \field{month}{3}
       \field{number}{1}
       \field{title}{Uncovering the Role of Gender Stereotypes in Speech Perception}
-      \field{urlday}{22}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
       \field{volume}{18}
       \field{year}{1999}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{86\bibrangedash 100}
       \range{pages}{15}
       \verb{doi}
       \verb 10.1177/0261927X99018001006
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1177/0261927X99018001006
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1177/0261927X99018001006
       \endverb
     \endentry
     \entry{zimman_hegemonic_2013}{article}{}{}
@@ -3163,32 +2661,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{This combined production-perception study of /s/, trans men's /s/ behavior is shown to significantly differ from cis men's, but (cis) percievers nonetheless rated them as gay sounding. I'm interested in this data, especially its consideration of the interplay between production and perception, and also interested in its discussion of the meaning structure for /s/ as hegemonic.}
-      \field{day}{27}
-      \field{issn}{2211-3770, 2211-3789}
       \field{journaltitle}{Journal of Language and Sexuality}
-      \field{langid}{english}
-      \field{month}{2}
       \field{number}{1}
       \field{shortjournal}{{JLS}}
       \field{shorttitle}{Hegemonic masculinity and the variability of gay-sounding speech}
       \field{title}{Hegemonic masculinity and the variability of gay-sounding speech: The perceived sexuality of transgender men}
-      \field{urlday}{4}
-      \field{urlmonth}{4}
-      \field{urlyear}{2025}
       \field{volume}{2}
       \field{year}{2013}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 39}
       \range{pages}{39}
       \verb{doi}
       \verb 10.1075/jls.2.1.01zim
-      \endverb
-      \verb{urlraw}
-      \verb http://www.jbe-platform.com/content/journals/10.1075/jls.2.1.01zim
-      \endverb
-      \verb{url}
-      \verb http://www.jbe-platform.com/content/journals/10.1075/jls.2.1.01zim
       \endverb
     \endentry
     \entry{zimman_gender_2017}{article}{}{}
@@ -3216,31 +2700,18 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issn}{0047-4045, 1469-8013}
       \field{journaltitle}{Language in Society}
-      \field{langid}{english}
-      \field{month}{6}
       \field{number}{3}
       \field{shorttitle}{Gender as stylistic bricolage}
       \field{title}{Gender as stylistic bricolage: Transmasculine voices and the relationship between fundamental frequency and /s/}
-      \field{urlday}{2}
-      \field{urlmonth}{12}
-      \field{urlyear}{2025}
       \field{volume}{46}
       \field{year}{2017}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{339\bibrangedash 370}
       \range{pages}{32}
       \verb{doi}
       \verb 10.1017/S0047404517000070
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/gender-as-stylistic-bricolage-transmasculine-voices-and-the-relationship-between-fundamental-frequency-and-s/9BC20C85B373764932F69388750544AA
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/journals/language-in-society/article/gender-as-stylistic-bricolage-transmasculine-voices-and-the-relationship-between-fundamental-frequency-and-s/9BC20C85B373764932F69388750544AA
       \endverb
     \endentry
     \entry{zimman_linguistic_2017}{incollection}{}{}
@@ -3321,31 +2792,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{day}{1}
-      \field{issn}{1613-396X}
       \field{journaltitle}{Linguistics}
-      \field{langid}{english}
-      \field{month}{9}
       \field{number}{5}
       \field{shorttitle}{Variability in /s/ among transgender speakers}
       \field{title}{Variability in /s/ among transgender speakers: Evidence for a socially grounded account of gender and sibilants}
-      \field{urlday}{11}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
       \field{volume}{55}
       \field{year}{2017}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{993\bibrangedash 1019}
       \range{pages}{27}
       \verb{doi}
       \verb 10.1515/ling-2017-0018
-      \endverb
-      \verb{urlraw}
-      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0018/html
-      \endverb
-      \verb{url}
-      \verb https://www.degruyterbrill.com/document/doi/10.1515/ling-2017-0018/html
       \endverb
     \endentry
     \entry{zimman_transgender_2020}{incollection}{}{}
@@ -3396,25 +2853,12 @@
       \field{isbn}{978-0-19-021292-6}
       \field{shorttitle}{Transgender Language, Transgender Moment}
       \field{title}{Transgender Language, Transgender Moment: Toward a Trans Linguistics}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
       \field{year}{2020}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{0}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1093/oxfordhb/9780190212926.013.45
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/oxfordhb/9780190212926.013.45
-      \endverb
-      \warn{\item Range field 'pages' in entry 'zimman_transgender_2020' is malformed, falling back to literal}
     \endentry
     \entry{zimman_beyond_2021}{article}{}{}
       \name{author}{1}{}{%
@@ -3442,30 +2886,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{The `trans linguistics' that Zimman proposes is a philosophy I take up here. Additionally, I take up the idea of linguistic descriptivism as an apoliticized language ideology.}
-      \field{day}{6}
-      \field{issn}{1747-633X, 1747-6321}
       \field{journaltitle}{Gender and Language}
-      \field{langid}{english}
-      \field{month}{10}
       \field{number}{3}
       \field{shortjournal}{{GENL}}
       \field{shorttitle}{Beyond the cis gays’ cis gaze}
       \field{title}{Beyond the cis gays’ cis gaze: The need for a trans linguistics}
-      \field{urlday}{19}
-      \field{urlmonth}{12}
-      \field{urlyear}{2024}
       \field{volume}{15}
       \field{year}{2021}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1558/genl.20883
-      \endverb
-      \verb{urlraw}
-      \verb https://journal.equinoxpub.com/GL/article/view/20883
-      \endverb
-      \verb{url}
-      \verb https://journal.equinoxpub.com/GL/article/view/20883
       \endverb
     \endentry
     \entry{zimman_gender_2021}{incollection}{}{}
